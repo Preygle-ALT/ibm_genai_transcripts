@@ -1,0 +1,686 @@
+hello everyone good evening
+um no see there the polls which conducted inside the class is just for
+your understanding like I just want to summarize the session by conducting some polls so this won't affect your scores
+no need to worry about it so your attendance will be taken based upon the Zoho records like your your um
+attendance session rates so you didister with Zoho from that we will be taking the
+attendance is it
+clear did you all receive the C access I mean C
+credentials uh no I wish it mandatory to uh register the webinar each and every
+day uh if you register once automatically you will be receiving the
+um reminder mail from the
+Zoho uh no worry AI uh which part you're asking me to repeat could you please
+tell me okay if you didn't get the
+credentials no worries soon you will be getting the uh IBM Credential as well as
+Prollearn credentials okay
+no see uh see it's like you don't need to register the register for this course
+each and every day it's a one time registration register the Zoho through your registered mail ID you will be
+getting some notification okay so you don't need to register for every single day once you
+registered automatically you will be getting a notification to your registered mail
+ID so through that link you can join the session
+[Music]
+okay so regarding attendance how do we track the attendance attendance will be tracked from the Zoho we are attending
+the session you attending the webinar through Zoho right so your email id your name will be registered in Zoho so from
+that only we are taking up the uh attendance
+so tomorrow no class we have classes from Monday to Saturday only
+um see the missing uh we we we don't have any mark criteria for this attendance yeah but my suggestion is
+that you have only 20 classes right it's very limited classes right so if you attend all the you can get the better uh
+knowledge you can gain very good knowledge from that so for that you can attend the
+session of course you will be receiving the prologue access we maybe on Monday
+so once you receive your prologue access over there we will be adding all session recordings and material which we are
+using in the classroom
+so probably it seems you will be getting your pronoun access by today
+itself now there is no uh specific uh attenance criteria for the assessment
+but yeah that is true in recordings you can watch very comfortably at your place but you cannot if you have any doubt to
+whom you will be asking
+see you aren you will be having the LMS I'm sorry IBM C access where you will be
+having the detailed uh course material will be there apart from that we don't have any other video
+ref res resources
+This Yes deadline of the assessment will be giving during the
+class okay um if your uh doubts are sorted can we start today's session
+see you will be getting your IBM C access okay uh there you have all the
+detailed course material which is uh very much enough to pass the
+exam no doubt sorry I somehow I missed your doubt i didn't see
+it can you please give me a minute
+yes this prana attendance is not mandatory so if you miss some uh
+assignment deadlines then which means you you're you're losing your marks
+um IBM Credentials will be received by Monday and uh I hope uh LMS credential
+prologials will be received by end of the day i will show you how do the IBM C portal
+will
+be so it will be like
+this see over here you do have all the topics so uh we have six modules so over
+here you do have all the topics with final assessment okay
+um so here you can see all the all
+the study material will be over here you can use this material you can use
+the PPT which is shared during the class and you can prepare for the assessment
+okay uh there is no marks which are asked uh for the poll questions it's
+just only for your skill check during the class what will be the deadline for the
+assessment like when I give the assessment by sure I will mention the deadlines as well how much time of live class
+recordings will be uploaded so that we can submit task before tonight
+um I didn't get your query
+Knock knock
+uh I'm sorry see uh assignment deadlines
+nothing work with the recordings okay assignments will be uploaded on your LMS
+so that you can see on your prologines everything and the the mark
+weightage of the assignment everything will be mentioned over the uh LMS
+uh I told you from the beginning I'm telling you all you will be getting your IBM C portal access by Monday and LMS
+prologings the credentials will be shared to your registered email id
+actually the task yes you are right or the task will be explained on the live
+class okay and it will be uploaded you need to see when I give some task you
+need a space to upload your task right so that will be done in the prollearn
+access class recordings will be available on prollearn
+H okay I guess we can start up the session
+so what do we discuss on last class
+um no no in IBM C you will be have you don't have the recordings you don't have
+the materials you don't you will not having any assignments no you're your which is wrong in IBMC you will be
+having your course material okay uh it is kind of a um elaborated material will
+be there only the material and your IBM C examinations will be there on the IBM
+C portal okay only only material and final C exam will be there a
+certification exam will be there in the C access okay in prollearn you will be
+having the assignments quiz and where you have to submit your certificate for
+the final marks okay um I'm sorry Hit I will try
+to speak bit
+faster already this is our third class
+yes very good last class we have seen about Okay can we uh um uh sorry for the
+others so can we discuss about this at the last regarding your exam date um
+course material can we focus on today's
+topic yes thanks for your understanding
+so let's keep like this okay since we have a very large crowd I sometimes I miss most of your queries okay i try to
+give last 15 minutes for those who have any queries you can utilize the last 15 minutes and you can shoot up all your
+questions okay I'm I'm I I so that I can not miss any one of your query i can
+explain all your queries hope this suits fight for you all
+i remember last class I have given you a small task like I ask you all to go
+through about A and N
+did you complete it
+okay can anyone please summarize what is aN and what is the use of
+it sure sure let me uh sure Anika I will revise the topics which discussed on
+yesterday
+very
+good so let's have a quick uh recap of what we taught yesterday i mean what we
+learned yesterday
+last class we starts with neural network we understood what is neural network uh so neural network is just like uh say
+for humans we do have brain similarly in AI system neural network yeah so this
+neural network use algorithm system of algorithm because of this neural network
+we can the machine can able to recognize pattern make predictions
+yeah so it has three layers which are input layer hidden layer and output layer
+so the input layer receives the input and in hidden layer it do all the process which means it it understands
+the concept deeper that that is by analyzing transforming and learning from
+the data and in output layer it will uh broadcast the uh final output the final
+decision or output okay so we can take this
+um uh phone pattern unlock so uh when you're trying to unlock your phone with
+your face facial features so the input is taking your the camera opens and it is taking your face that is your input
+layer and that is your input to the mobile phone and in hidden layer it will be analyzed whether the already
+registered face and the face which captured from the camera both are same or different if it is both are same then
+the phone will be unlocked that is your output
+layer so how how this uh neural network works it works from its historical data
+which means already stored data from the stored data it is working on
+app and we have discussed about CNET
+um uh can you please give me a minute let me charge my laptop one sec i need to check my charger
+i hope I'm audible all right so we have seen the CNN so what is
+CNN so this CNN is a special uh maybe we can say a special uh neural network this
+is dedicatedly for visual data okay so if you give any visual data it will
+automatically extract you only important features from the visual data from the visual which is like edges shape
+textures okay um for example here they have given the letter
+B so this is a app this app will convert the handwritten to uh digits okay
+digital digits um so here they have given a handwritten B so the 110B is
+taken as a input the first stage is conventional layer in conventional layer what will be done so it will be remove
+the features like I'm sorry it will detect the features like edges and corners okay um just like you if you are
+keeping uh just imagine over the image they just kept as stencils and highlighting the edges and corners such
+like that okay in second layer which is pooling layer there it is reduc the sizes to capture the most important
+information it capture only the most important information and then uh it
+will move to the next layer so why we are reducing the uh size why we have to
+capture only the most important this will help us to uh reduce the
+computation as well as this will prevent us from the overfitting so that is the reason we here we are doing that and in
+next layer it is like a combination of both convention and pooling so what will
+be happening over here here they are deeply applying the CNN concept for more
+layers to deduct the very high level features okay so in next level they will
+in in initial level they have taken only the edges in textures over here they will be taking the shapes curves or
+specific part of the digit okay it will be and next layer is fatten layer in
+this layer they will convert the 2D features of the particular image to 1D
+vector and finally the they will be from the flattened data they will make the
+classification whether it's a B or not B
+so where in real time where do we use this CNN they are using in face like
+face recognition uh application medical images self-driving cars handwritten
+recognization security system like um in traffic like we are
+they are taking photograph of the vehicle number plate right so from that identifying the license plate uh for in
+those places we are using the CNN do you have any idea how this CNN
+will be used in Python program maybe if you want to try this with the Python program you can use it with TensorFlow
+or Pyarch
+next we have discussed about deep
+learn i'm sorry some I missed
+out yes in CNN we don't have any memory
+adita okay you want me to explain how this final vector value help us to find okay so let me go back to the image see
+over the image the final flatten image it will produce some uh binary it has
+produced some vector values okay 0.22 0.63 63 0.15 it will be having some
+values okay so if it is 63 so which is above.5 which means likely
+positive yeah if it is uh below 222 which is the possibility of B is
+there and if it is.15 which means the possibility there is no possibility of
+being letter B so by with the output value uh this
+this value they they will find out the
+character sure do you all know the conf confusion metrics in um
+um I think in machine learning have you learned the confusion metrics in machine learning
+okay so it it's something quietly works based on that if you don't know please go through and uh please go through
+about it you will be getting know about okay see just the prediction right so if
+it is 63 which is above 5 so it it should be character B okay if it is 22
+then that is not B okay uh if the values goes little lower than that then maybe
+it is another letter so by this point variable they will predict the
+character is it clear
+yes yes rago you are right true false true positive yes so for that they do
+have some matrix value 0.5 if it is uh greater than 0.5 then that is positive
+something like that you can go through that i hope it is clear shall I move on
+to the
+next thank you so the next topic which we covered is deep learning
+no actually it's a wrong slide in deep learning only we have covered the CNN
+the another one is RNN in deep learning we have two two networks which is CNN
+and RNN so in CNN we don't have any memory to store it up but in RNN we can
+store the memory which means like if you're uh just imagine you have a robot and if you want to uh communicate you're
+going to tell the robot to make a coffee for you okay so the robot should remember what your um instruction from
+the beginning yeah so it it should have some memory right so this RNN has some
+memory so that it can able to uh store the data for a short time okay it cannot
+work for a long time it can uh remember the datas for a short time okay so if
+you uh if you have a uh like I'm sorry uh if you notice that few chat bots
+where you uh communicating with that it can able to remember the first statement first product which you're searching for
+for example in um Swiggy let's take Swiggy in Swiggy if you're talking about any particular order so repetitatively
+the bot will ask the question which is relevant to the product relevant to the concept it because of the RNN it can
+able to store data for some
+time over here also we have three components um input hidden uh hidden
+layer and output so in input it will take the input from the user and it process and it is store the memory in
+hidden layer and output it it it just take the decision or action based upon the input so where do we use this um RNN
+we will be using RNN mostly in customer support like chat
+bots and this RNN will be used mostly in HR departments like just to analyze the
+employee feedback over time and it is help us to uh use in marketing digital
+marketing and it help uh this RNN used in voice assistance
+and after then we have discussed the limitation of CNN and
+RNN so what is the limitation of CNN in CNN we can process only two
+images it will not work anything with data on set just a minute official
+call i need to take it up
+how RN is used in digital marketing you tell me how it is used digital
+marketing see uh have you run the campaigns in digital marketing so in uh
+when you're trying to run a campaign uh social media campaign so during that time this RNN help us to predict what
+message to be sent next in the campaign in such a way RNN is useful in marketing
+okay i know someone wants me to recap all this that is why I'm I'm just
+revising all this
+adityita so when it comes to limitation we have just compared in CNN we don't have the memory uh memory uh storage but
+in RNN we do have the memory storage in CNN we can process only image we cannot process raw text or time based data in
+RNN we can process
+uh text time based data and in RNN we we can able to store only shorter memory
+and CNN we don't have any memory when compared to speed this is very RNN is very slow and CNN is faster
+and when it comes to parallelism RN is very hard in parallelism but CN can do
+parallelism so that's all about um the limitations
+of CNN and RNN which we have seen and then we have seen about autoenccoder
+um so this this is a special type of neural network which compress and then reconstruct the data this is only used
+in un unsupervised learning so uh here you can summarize the data and then
+rebuild the data later so over here when it comes to structure
+of this encoder we have five uh five five parts the first one is input layer it
+will take the original data it can be a image text or document then encode it
+which means compressing it in a smaller size then um it will remove the
+redundancy and then in Latin it will represent it will compress just like a summary or keyword then in recoder it
+will reconstruct the original input and in output layer it will just look like how you have send in the
+input and where do we use this autoenccoder we use this autoenccoder in the area of cyber security finance HR
+manufacturing and
+healthcare example we have seen use case and we have seen the VAE
+variant autoenccoder this this VA is help us to
+create a new content this is this is geni concept
+we have seen applications of EAE and we have seen
+GANs so what is G which is called as generative adversal network this is a
+framework in this framework at a time two neural networks will compete each other against each other one is try to
+generate a fake data and another one is try to deduct deduct whether it's fake or not so the we do have generator and
+detective sorry
+discriminator so this scans used in uh used to generate art music faces in
+entertainment media gaming um it help us in fashion media for generating new
+clothes new designs it help us in cyber security where to generate fake fishing
+emails for training in healthcare uh in research
+field and we have seen the architecture
+and we have seen the application and here we have the uh summary okay so in today's class just
+understand what is discriminator in GAN what is
+discriminator can anyone tell me what is discriminator
+here we have the discriminator of uh GANs okay so what is discriminator it
+will takes the input and it it is try to generate the um fake images right and if
+you have given a data set it try to uh from the real uh data set it will try to
+generate the uh fake one so if it is a image then we have to use CNN yeah so how do we use CNN cnn is remember how to
+use CNN what is the first stage in
+CNN it will take the image after taking the image it will represent the image to
+the RGP pixelated image okay for example over here they have taken a number uh so
+they have taken 64 into 64 into 3 which means uh they have taken a image in
+height height is 64 and width is 64 and the last one is 33 is RGB color channel
+red blue green color channel that is your input layer and in first conventional layer what will be happen
+the output shape they are just mentioning the output shape okay uh so
+after then uh in see the second layers conversion rate where we'll be reducing this patchual size right after then we
+have to use um see here they have give 32 which means 32 different filters are
+applied and capturing the low-level features like edges corners and textures
+okay in second conventional which means in first level we will be getting only the edges okay in second layer only in
+second conventional only we will getting the deep features am I right so over here they have given 16 into 16 into 64
+which means uh 64 filters 16 is width second is height and third one is color
+code right which means now they are going to take 64 filters uh to detect the more complex pattern earlier stage
+they will be deduct only the primary uh features now they are just understanding more complex pattern right in third one
+if you notice it is 8 into 8 into 8 here we have reduced the size yeah using
+pooling method we have reduced the size and we have increased the channel the feature channel if you look into the feature channel now it is 128 so
+previously it was 65 now it is 128 so now it is more detailed it it started to
+learn from the abstract and detailed features
+and in fourth conventional again the size has been compressed now it is 4 into 4 into 256 so deep set of 256
+characters features has been learned over
+there so are you clear with the discriminator of GANs
+now where do we use this
+so in real time let's take an uh let's take an um which example we can okay
+let's visualize uh so what will happen if you're not wearing a helmet and wearing a helmet and crossing a
+signal you will be getting a bill from the
+um transport department right
+um stating that you are not wearing the helmet or if it is over speed so how how how would this is happening yeah this
+technology so what will be happen the input of an image of a road okay the image of a road has been taken from that
+they will be uh taking the edges uh textures and basic shapes like wheels or
+light okay then in next level that will be happen in the convention one and convention two in deeper layer
+convention three and convention four start to detect whether the car truck bike recognizing the patterns and parts
+yeah and then in final uh layer they will just flatten and classify the uh
+result whether it's a car a truck or a bus and what was the number plate and the
+numbers okay coming to that so what is
+IRU uh good
+question um this this IU it is a variant okay which help us to retain negative
+signals during turning
+learning it okay this R E L U which means inverse rectified linear unit okay
+so this help us this is a special activated function in neural network okay it's a function so what this
+function will do it has a mathematical formula in that mathematical formula if if it is uh keeps a positive value and
+um and if it is a negative value it sets to zero
+is it clear viber I'm sorry not VB adita
+Okay okay what is
+BN bn is again it's a technique okay this technique is called as batch normalization so in machine learning we
+do have normalization right here we are just stabilizing the training and speed up the coverage that is
+BN actually we do have two uh two variants okay one is I R E L U and R E
+LU okay so what this I R E L U and E LU uh I E LU means inverse rectified linear
+unit okay and E LU is rectified linear unit okay um these two are techniques
+which are used in neural network okay and this is I'm sorry this is activation function used in neural network okay so
+what this re lu will do it will keeps a positive value and sets negative value
+to zero okay and now I e lu is inverse inverse of this relu so over here what
+will be happen it keeps negative value and sets zero to positive value
+so with help of I lu we can uh retain negative information and where science
+information is matters and remember one thing this IU
+is not a default activation function in frameworks like uh tensorflow pie chart
+pyarch okay uh so if you want to use it manually you have to implement that in
+each
+Um can we use it with tang i think yes but
+um you I think you can use Ilu with tang maybe the behaviors are
+different you need to check it
+up you want me to explain relu once again
+sure see reu is rectified linear unit okay this is a
+activation function in neural network okay we do have another um this lu what
+it will do it follows a uh mathematical um expression okay so in uh by by
+substituting value in that your input value in that expression it will keep positive value as
+um as it is and negative values to zero okay whatever value even if it is minus
+1.2 one u minus um 5.00 it will keep it
+as zero only okay and it will makes keeps a positive value as it is whereas
+IRL is just inverse of
+RLU so this RLU is used across in deep learning framework where it keeps
+negative value and zeros out all the positive value is it clear Mahindra
+s
+mand yes thank you shall I move on to the next slide if you are clear with
+this see I want you this is a very fundamental things in jai in upcoming
+days we will be doing only practical during the practical time we will be using some CNN RNN so those time you
+should understand how the CNN works how this RNN works what is this discriminator and GA can so that is the
+reason I'm explaining all this topic in
+detail okay I'm moving on to the next topic uh Roshi is asking what is can you
+please yeah see conventional air 1 2 3 4 5 which what will be happen see we know that in conventional layer it will
+extract the features so in first layer it will take the basic feature in second layer it will go in deeper and third
+layer more deeper and fourth layer most deeper
+will sure rishik maybe when we are uh dealing with program when we are doing a
+program with this uh surely I will explain you in detail now if I explain
+this in detail theoretically really it will be
+boring Roshni is your dou sorted
+Uh Shik I already explained the difference between RELU and Ilu real is
+rectified linear unit and IRU is inverse rectified linear
+unit yeah thank you
+so next is we do have the
+optimization so over once you done with the discriminator and generator we will
+check the optimal of the particular output okay
+so which means we'll be checking whether the uh whether um this generator is able
+to find or discriminator is able to find it up that is
+optimization next GAN equilibrium
+so over here we do have the equilibrium point like if the uh so when you're trying to find the realistic uh data see
+the generator has given the image now the discriminator has to find whether it's uh fake or not fake okay so over
+here if it is too strong if the discriminator is too strong then the generator cannot learn okay if the
+generator is too uh strong then the discriminator has to
+uh improvise its learning improvise
+training next we're going to discuss about sequencetose sequence
+architecture uh any idea about it have you learned about it sequence to sequence architecture yeah
+okay um yes Push you're somewhat right
+see this sequence to sequence is like kind of uh your training in one uh like
+it is a design okay uh in this architecture design it will convert the design from one sequence to another
+sequence for example uh like a translator so you I'm a mallayali okay
+if I say something in malalam okay so you will be learning that and you will
+be converting that into your own language writing in another language which is called a sequence to sequence
+so in sequence to sequence we have two main component okay which are encoder and
+decoder okay so do anyone knows French over
+here yeah English good adita but I'm not mali but just saying
+for example I have said
+that great guy
+three okay so it is like now in encoder if I say
+something in English for example How are you now you have to decode it in your own language can you all try it can you
+all decode that in your own language i'm just asking how are you
+okay i wish I didn't understand what language is that uh if possible uh can you put the
+language which means I could easily understand
+uh Amid good example oh man German adita easy to
+understand malalam even without mentioning that Omarati Spanish
+Gujarati till who no
+Tamil no one knows Tamil over
+here uh Madan came
+okay great idea i mean Arian
+okay
+okay all right fine just a fun with class okay to learn
+different languages right so have you ever deal with a person who
+with like um and like without knowing the language just understanding from
+their uh face from just understanding by their body language and you're trying to understand what it is have you any
+anyone come across a situation like that
+yes I driver in okay
+okay funny one i'm sorry a the names are like very smaller so I
+couldn't edit it properly great all right coming back to the
+session so did you all understand this uh sequence tosequence
+architecture and you know what the sequence tosequence architecture was introduced by Google in 2014 for machine
+translation okay so in this case which concept will
+involve in the sequence tosequence architecture uh just understand it has two thing which is encoder and decoder
+which means which concepts will comes under from the neural network which concept will comes in in in
+this very good Adita it's RNN
+goodbye and who else give the right
+answer uh good
+Aish good Shivangi very good
+so if you look deep into it in encoder we will be using RNN GRU so it is taking
+inputs one token at a time and updates the hidden status at each
+step okay so in where do we have the sequence to sequence in real time real
+time applications of sequence to sequence where can we find
+that translators very good
+Disha h good so Google translator
+Even in Chad GPT we do have that feature right uh you might ask uh GPT to tell me
+a
+joke and have you ever tried that like yes speech very
+good sajam what it
+mean face ID music app
+Okay um speech recognition yeah I think it is used
+okay uh how this sequence to sequence is working here we have the working mechanism
+so what will be happen first it will take the input for example just know we did a small um funny activity right i
+ask you I just gave how are you input text to you all right so what will be
+happen the input text the words are tokenized so what is
+tokenized so it will break the particular context into small small
+pieces just I just said how are you yeah so every word will have a syllable right
+maybe according to the syllable it might split or by word by word it might split
+okay so the words are tokenized and then passes to the encoder okay usually it
+will use any LSTM or GRU uh uh technique okay so after then the encoder reads the
+sequence step by step and in second step it will have the context vector which is
+hidden layer hidden state so in hidden state after the last word the encoder
+outputs a context vector which compress the representation of the full input just think of it summary of a sentence
+which passes to the decoder okay in step three decoder begins generations like the decoder is an sequence model where
+it will be using either RNN or GRU or LSTM it takes the context vector from the encoder a special start token as
+input okay it generate a first word to the output and the last step is token by
+token generation so in the output uh during the decoder the output word is passed as an input to the next step so
+it's continue until the end token is
+generated so over here what is happening during the last stage so instead of using its own output as the next input
+the model uses the actual correct word so this help the decoder learn faster and more accurate
+i hope this mechanism is clear to you all
+fourth point yeah sure
+the session is sleepy like you feel the class is boring and sleepy
+okay actually that is the it's a uh that is not a correct uh data that
+they have put in the
+PPT that was a misconception so over here we they have added the misconception like we can uh people can
+think like decoder ignores the encoder's output and uses the hidden layer which was in uh uh misconception it because
+from the hidden states we have the encoder's output only so from the encoder's output heavily depends upon
+the contest and the um attention to the weight which we use or focus to be
+generated
+what is the hidden state and how it is different from output and encoder what is the hidden state like so
+far we are discussing about it right
+shubam of course we're going to have the hands-on Adita
+okay let me explain this with a maybe a example you could understand this much better just imagine encoder is someone
+listening to a paragraph okay and taking notes word by word okay and the decoder
+is writing the summary but instead of relying on one memory so in hidden state
+we do have the memory right because here we are using RNN so what will be there in hidden state it's just a memory right
+in input stage if you are say something that will be stored in the hidden state just a kind of memory from that memory
+only uh the the output the decoder will be taking it up so just it just flips
+through the note while writing each word is it clear now
+can we move on to the next
+slide right thank you again it's just an application where
+do all we use sequence to sequence model we are using it in machine machine translator text summarization chatbot
+speech recognization and image captions uh next we just going to look about transformers so what does
+transformers we have just seen
+it
+actually this is like uh here let me give you a simplified version of
+transformer okay maybe in upcoming uh next module we will uh learn it in
+detail if you remember when I explained about uh sequence to sequence I said
+that we are trans from one sequence to another sequence we are just transforming the information which means
+uh translating it right in encoder if you give one information in decoder it
+will be transformed to another process
+where I have mentioned
+attention self attention yeah see um it is see for example it has like one in
+one state one sequence you are giving a input right so that will be it it is um
+another sequence when is going to the next sequence it has to be translated so by itself it is uh keenly listen to the
+input and translating to the other other um language which is called a self
+attention is it
+clear so where do we have this transformer we do have the transformer in sequence tosequence data so whenever
+you're going to handle some sequential data there we will be using transformers
+so actually why why do we have this transformer like anyway in RNN we do
+have the um uh memory state right then why do we
+have this transformer
+Why do we need this transformer parallel processing
+okay uhhuh very good bones rn cannot retain long memory so that is the reason
+it we are having this uh transformer so in
+transformers it follows the mechanism called self attention right and it can
+uh it it can um uh how do say that it can process the long-term dependencies
+we can say that in RNN it is very slow it it can uh only for the short-term
+dependencies whereas the transformers can be deal with long-term dependencies and it is following the self attentions
+So what is self
+attention when I look at a see now I'm I'm I'm just speaking right so a if a
+model has a self attention it just look at all the words in a sentence at once and it will decide which are the center
+sorry which are the words of most important for each position
+can you repeat one more okay self attention okay this self attention is a
+u mechanism okay which was followed by the transformer can which example I can give
+you okay imagine you are in a group study okay for each topic you ask who is
+uh whoever in the group should listen to the most like who in the group should
+should I listen to the most okay so that is what self-arn does self attention
+does okay how much attention gives each word should give it to the
+clear now
+min
+um it work based on priority
+maybe yes you're right
+um I can see only the number i couldn't see the name it's end with
+6241 okay shall we move on to the
+next so here we have the uh architecture we'll look at this architecture in next
+module so here we have the uh comparison between transformer and sequence to
+sequence
+so both are the model used for sequence of sequence task
+right now let's see the basic comparison first let's see the processing style
+okay in sequence of sequence it follow the sequential which means word by word
+always follow from left to right okay whereas in transformer it is parallel entirely all at once okay when it comes
+to memory sequence is limited because of RNN because in RNN we cannot process for
+the long term is shortterm whereas in transformer because of the transformer it it holds for long range context with
+self attention okay when come to dependency
+uh sequence to sequence is hard to capture long dependency whereas um
+transformers can easily handle the long dependencies much better
+so when it comes to speed sequence to sequence is quite slower because there
+is no parallelism due to time step whereas transforms are faster parallel
+timing so any doubt in comparison
+So here we have the very quick summary of what we have discussed so far
+so we have discussed about discriminator in gangs which is act as a binary classifier and we have discussed about
+the optimization and equilibrium in gangs and we have seen sequence to sequence is more powerful for the
+sequential data whereas and we do have discussed about the attention mechanism which is uh brought major improvement
+and transform is a revolution uh revolution in AI which enabling the LLM what is LLM
+what is LLM have you heard come across the term LLM very good man large language model
+very good good everyone
+okay now we're going to understand the different uh types of gen AI in Gen A we have basically two types which are image
+generator and text generator
+we know that genai is a uh it's a model which can create new content like text
+image music code audio or video okay so let's uh these categories has been
+divided into two main types of gen AI one is AR model
+one sec like I have notification on my
+screen so we have image generator and text generator so for
+um these are two main categories of genai
+so over here we could going to see the building blocks like if you're going to
+uh build a AI strategy then here we have this two things one is large learning
+model just now we have discussed it right this model is very specialized in text generating and understanding okay
+so this is called uh this is used in uh uh chat GPT GPT3 yeah they sparked
+mainstream uh in uh AI okay so this is uh because of this only we can able to
+create natural conversations content generation
+assistance so LMS are great at text so if you give a massive data set
+from the massive data set uh so they are trained with a a massive data set and uh
+from that only they are able to predict what is the next word
+okay oh I just kept the wrong screen the next one is foundation model
+so this foundation model is built over transformers so transformers was built
+by Google very good uh and then uh if it is done by
+Google then um foundation models are done
+by again it is Google right so this transform uh this foundation model is
+built on transformer uh from by Google in 2017 okay so this foundation model is
+pre-trained on huge amount of unlabelled data so where do we have the unlabelled
+data in unstructured learning right sorry unsupervised learning okay so over
+here which means with the help of foundation model we uh not just text but all we can also handle image audio video
+and quotes so these foundation models are fine-tuned for various specific task
+like you can do summarization translation visual question and answering
+so this foundation model is just uh we can say as a wrap-up uh rather than
+training from the scratch for every task we can use foundation model which has verticile and you reusable
+bases so here we have the comparison of traditional model and uh foundation
+model so when it comes to training data uh this traditional model task specific
+so depend upon the task we will be uh give the inputs and we will train the
+certain model whereas in foundation model which is large broad and we are using unlabeled data okay when it comes
+to fine-tuning uh spec uh if it is a traditional model we can do it
+extensively because we are doing the task specification we do have the specification specifically we are doing
+one particular problem so we can expect the fine-tuned output whereas in foundation model it is minimal okay when
+it comes to transfer learning in in traditional model it is which is
+very limited whereas in foundation model it's too strong because it has very large data set from that data set only
+it is keep on learning so best example for traditional model is spam classifier and for
+foundation is
+GPT and here we have the applications of AI like the uh parent and all we are
+using the application
+Oh my
+husband so any doubts till then
+should I move on to the next
+So over here we have seen two type one is uh foundation model and large
+learning model we have seen the comparison
+so we have seen the application of traditional AI like fraud reduction in banking disease diagnosis uh
+recommendation system and here we have the application of NLP i hope you all know what is NLP is
+right we have discussed about foundation model and
+LLM oh come on if I ask okay what is natural language processing then Adita
+Okay let me give you an um scenario okay imagine you are working as a large
+c you are working at a large customer support center for an e-commerce company okay every day thousands of customers
+email uh emails are pouring in okay uh like asking about the order status
+returns complaint product question now manually reading
+uh all the emails is it possible it is impossible right and the
+process will take slow do you want to uh do you want to automate understanding
+and responding to customers faster and how can you do
+that very good with the help of
+NLP so if we if we have an algorithm which reads and understand the email uh
+which can able to classify the emails into its category if if it is able to uh
+detect the sentiments which means is a customer is hungry happy or neutral okay
+so it can extract the key details like order number product name automatically
+reply to or enout the emails to the right team this is what NLP is
+doing so how it is doing just because of the algorithm and models
+one sec
+okay then we're going to see about the applications of conversional AI which means a generic
+AI and the applications of generative AI so uh initially we have seen it right so
+it which is help us to uh help us in text generation image generation code generation same thing is has been
+repeated and what are the benefits of using gen
+AI so enhanced creativity you can make uh decision
+faster again the same thing has been given over here
+and we do have the limitation challenges so what are the challenges in
+Gen AI
+we could say that quality and accuracy uh AI sometimes produce an image or a
+text uh like which is not relevant to the content have you seen the Gibli art has
+been wrong many times have you all seen that and when it comes to data privacy
+and security it cannot handle the sensitive
+data and like privacy matters over here okay is
+accuracy like converting from text to sorry voice to text is a task
+yes which is done by NLP only
+fairness
+good computational cost and here we have the
+limitations what are the limitations of AI
+yeah low security okay maybe I can give you a scenario okay just imagine you're
+working in a company where you're using uh just imagine um you're working as a social media
+manager maybe okay so where you are creating um some images okay so you're
+using a genai tool to create a marketing copy okay a image and sometimes a even a
+code step automatically um so impressively you notice some
+drawbacks what are they could
+be there we can see inaccurate outputs
+yeah uh because you're you're asking something and it will give some wrong or
+nuisance sometime nonsensual outputs correct uh maybe AI can generate a
+description about the feature which does not exist
+sometime you could uh feel that there is lack of understanding it truly don't understand the concept what are you
+expecting and we do have the domain specific
+limitation when it comes to risks in uh genai like uh like they can fake the
+content yeah we do have the defake deep defake images and identity fraud is happening
+like people are uh like uh using voice thread face
+generation and privacy breaches
+happening so with this we are completing
+our module one introduction to Gen
+AI so in Monday class we're going to focus more on how to uh we I I told you
+right in this class you're going we going to use a tool called IBM Watson so
+we're going to use that tool and we're going to explore there we're going to perform all the practicals all the um
+um problems we're going to create multiple exercise over there okay so now
+let me give the last 15 minutes for the doubt clarification do anyone have doubt on this like in today's session or any
+common doubts please put on chat i will explain one after the other
+may my you can access the class PPT from
+prollearn sure I will revise the um topic before winding up the session
+no worry yeshuan
+Kumar no Adita when it comes to uh EI like copyright issue that won't be a
+problem but uh we can say like um what is that we will check something
+like plagiarism plagiarism will be problem when it comes to AI
+content if you check any content it will show how how which percentage of human
+intervention is there in there in the content and how much of AI intervention is there in the
+content no uh if you don't have any doubts in today's session uh it doesn't mean others can leave we have 15 more
+minutes right can I give you some activity
+nova I can say a few thumbs down when it comes to activity
+uh yeah a question is like ma'am is transformer is a type of sequence to sequence yes transformer is a type of
+sequence tosequence model but it's not more advanced and powerful compared to sequence tosequence
+model because sequence to sequence model based on RNN or
+LSTM if you don't have any doubt can I give you a task a small
+task you will be receiving the credential uh prolong credential by end of the day and IBM Credential on
+Monday last day of the course you the examination will be held last day of the
+course uh there is no such attenance criteria you can find the recorded videos on
+prolong access guy 3 i don't understand what is
+your
+question uh sure I will recommend some good resource for ML what
+is simply you're putting question mark guy i don't understand what it is yes I will explain the auto encoder
+and VA once
+see uh the relationship between conversional AI and generative AI right
+[Music] see conversion AI is like um rule based
+a
+fixed geni is like uh where you can generate the new
+content so conversional AI focuses more on understanding the content generating
+the relevant responses whereas gen AI is the model which generate the new content
+including text image code etc uh in gen AI can be trained both
+supervised or um unsupervised or self-supervised datas on large data
+set can conversation be a part of AI geni yes many modern conversation AIS
+are part of JI only okay so how many of you are good in
+uh
+Examination will be based on MCQ type
+learn is a LMS see LMS is a portal where you can see all the learning
+materials um just calculate it's a 20 days course the course starts on Friday
+so Thursday from Thursday it's just 20 20 days excluding Sundays
+yes Shubam yes it will be having the audios
+as well shira there is no attenance
+criteria yeah for if you know um Python it's well and good and if you know to
+create did anyone try data visualization like taking a data set from the data set
+you're doing a pre-processing and uh predicting something have anyone done that
+before yes you will be having the audio
+you yes i uh can we can we give some Yeah I will give some
+poll okay let me uh rise the poll just a minute
+just a minute let me give an
+So here you have the first pole
+okay um can I publish the result
+the right answer is CNN are transformers and most of you has
+given the right answer i don't know why others is having the confusion see
+others are um ML models ML algorithms
+so any doubt if you have any doubt please drop your doubts ma'am won't answer
+B next poll I think it's time so okay then if you don't have any
+doubts then thank you so much for joining happy weekend meet you on
+Monday yes bye-bye thank you thank you for joining and thank you for
+listening yes in today's session um just a second let me share my screen and
+explain you i closed the VP just a second
+yes thank you all okay in today's session we have seen
+about a small recap of what we learned yesterday we have seen what is discriminator in gangs and how it is
+working and gangs optimization gangs equilibrium and we have seen practical
+application of gangs sequencetosequence architecture and sequencetosequence working mechanism and realtime
+applications of sequencetose sequence model and how transformer works the
+transformer architecture and we have seen transformer the difference between transformer and sequence to sequence
+impacts of transformer And we have seen different types of generative AI basically the building blocks like
+foundation model LLM and we have seen the difference between foundation model
+and versus traditional uh AI and we have seen the application
+of NLP and we have seen the application of genai we have seen the benefits of geni
+challenges in genai then limitations of genai then risk in jai so these are the topics
+which we covered in today's session yes thank you all ma'am what
+will the actual certification exam will be um IBM C exam is online thank you happy weekend
+yeah we'll let you know is exam will be in MCQ type
+thank you Shubam uh date will be
+announced yeah thank you Aish okay thank you everyone
+bye of course recordings will be shared on LMS uh LMS credential will be shared
+to with you all by end of this day you will be getting a mail
+dish okay thank you thank you all

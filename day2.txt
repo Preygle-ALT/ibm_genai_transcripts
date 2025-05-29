@@ -1,0 +1,696 @@
+hello everybody good
+evening am
+I yes so
+question when is the Okay so regarding the final exam it will be announced
+little should be
+register no so you register yourself you will be getting a email reminder email
+so through that you can join
+it regarding the final exam once the course is over maybe at the final day we
+will be having the
+exam so where to access the recordings uh soon you will be getting the LMS
+credentials where they will be uploading all the
+recording no you don't have to register for every day um you will be receiving a Z link type
+there to one time registration you will be getting the notification on daily
+basis exam will be
+online you will be getting a reminder every day uh so there in that mail you
+will be having the link to join decision is my voice
+breaking exams will be on
+online it will be exams with NC button H
+so class will be happening on every day from 5 to
+7 excluding Sundays
+all right let me my screen kind of let me know once it is visible to you
+all so let's have a small recap of what we learned
+yesterday so yesterday we discussed about the learning outcome of this course so what what are you going to
+learn in this course so over you're going to have a wide understanding on
+generate new AI fundamentals and you're going to have the hands-on practice with
+IBM and X tool and you will be having good knowledge on prompt engineering
+techniques and you're going to work with some foundation models and you're going to understand the rag pipelines which
+means how to combine rag with the advanced integration and you're going to
+create some chat bots frame to deploy and you're going to practice them in the
+use cases so these are the things will be covered in this course and by end of this course you
+will be have these skills will be exercised you are building AI J solution
+you you will be good in prompt engineering you know how to apply the foundation model which means if you get
+a scenario for that scenario you will have the idea uh to choose the algorithm
+to choose the right appropriate method to complete it and you will be very good in creating
+chatbot so these are the skills will be exercised once you complete this
+course and you will receive a IBM Certificate which is a valid certificate
+over here can see a QR code if you scan this QR code you can see all the
+details and we are following a LMS which is called as learner in this scroll all
+these session materials whatever PPT which I'm using in the class will be
+uploaded over here you can find the materials you can find
+the recordings you can find all the assigned task and as I said in last day
+you will be having a mini project by end of this course okay so those project has
+to be uploaded in this LMS
+only so this LMS credential will be shared you on Monday
+and last class we have discussed about what is generative AI this is one of the
+class model in AI which help us to create the new content like text image
+code etc and the best example of geni is chat
+GPD so and we have discussed how it is different from traditional AI
+traditionally unable to predict in classification based whereas gen will do
+the new creative synthetic outputs and we have seen some real world
+examples and we have seen the historic information of how AI sorry how J
+evolved and small historic information about turning
+And we have had a deep understanding of this AI ML and deep learning with real
+examples and we have discussed about supervised learning unsupervised learning and enforcement learning where
+supervised learning will be deal labeled inputs and outputs whereas unsupervised
+learning dealing with unlabelled input and output and uh reinforcement learning
+which is focus on trial and error
+method and we have seen some real world examples
+and we have visualized all the
+nut and we did a comparison okay now it's time to learn
+deep learning in detail so do everyone here with the yesterday's
+topic shall we start with deep learning
+give me a minute
+hope my voice is clear now
+uh even I did speed dress it works fine
+with maybe I can share you the screen
+i have very good speed i don't know why the still voice is not
+clear all right thank you
+so let me share my Okay
+so now let's understand what is neural network so you people do have any idea
+about it
+so let's let's imagine your brain okay it is made up of millions of neuron
+right all our connector and passing signals with that we are making some
+decisions right now a neural network in AI is try to mimic the same process over
+here Instead of the signals we are giving the mathematics and algorithm
+with that the machine is making some decision that is called as neural network in AI am I clear to you all
+so why we have to learn neural network because we have to understand the root cause of generative AI right so in gen
+it is in traditional AI it will do only the predictions so whereas in JI so it
+is deals more with neural network and deep neural
+network so hope you are clear with what is neural network shall we move on to the
+My voice is still not
+you miss
+it is it fine is my voice
+Okay explain this neural
+network uh we human have brain right so the brain is made up of neuron right all
+are connected and it is fast taking signals with help of that we are making
+some decision right similarly this neural network in AI tries to mimic the
+same process whereas in human it has um
+uh passing signals right but over here we have the mathematics and algorithm
+with that the machine is trying to make some decision and this is called as
+neural network so in short neural network is a system of algorithm which
+help us to recognize the patterns make
+decision so we we always learn from experience similarly this neural network
+learn from data and from that it is making some decision just like a
+human are you all clear with neural network
+if not let me know i will explain once
+again hope my clear
+Shame stop
+please give me a minute let me check with my microphones
+is it enough
+my voice is clear now shall we start shall we continue
+okay so let me explain once again what is neural Look
+hello if you know
+Is my voice is clear
+is my voice clear
+hello
+all right if you're all clear with this neural network okay let me teach this neural network once
+again see uh let let's visualize our brain okay our brain is made up of
+billions of neurons right all are connected and it is passing signal because of the signal we could able to
+make some decision right that is the process of human brain okay now this
+neural network in AI tries to mimic the same process in human brain we have
+signals but in neural AI we do have mathematics in algorithm because of this
+mathematics and algorithm the machine can able to make some decision so in short we can say a neural network is a
+system of algorithm which is designed to uh recognize pattern make some
+decisions sorry make predictions okay so just like human does learn from
+experience right similarly this neural network learns from data uh is it clear
+Yes so see it is not a code or or database okay so in machine learning we
+will be writing some algorithm we will be create for example if you are creating um a phase unlock pattern a
+program to your phone you are creating a new application so in that application has to deduct the human faces right so
+for that you will be writing many algorithm so for um that algorithm is comes from this
+neural network in neural network we do have different algorithms so we will be using any one of the algorithm to uh
+make the application so the application can recognize the human faces and it will predict it am I connect am I
+connecting
+okay so how this neural network works okay in neural network we have three
+layers which are input layer hidden layer and out output layer so let me explain this with an realtime
+example just think uh we are working in a team okay um so in each team there
+will be a member okay so the members will receive some mails from their manager maybe carry some task to do for
+the particular day okay so what the employee will do the employee will do the task so once he complete the task he
+will pass the result to the next team yeah so in this example every team
+member is called as neuron and every in uh every emails reports whatever they
+are receiving which is called as inputs and the process once they complete they are giving something to the next team is
+which is called as output okay so neural network works based on these
+three components so neurons input and output so we do
+have three layers which are input layer hidden layer and output layer so what
+the input layer will do it is like in every office we do have a front friend front desk manager right what the front
+desk manager will do they takes the data from the user for example uh if any
+person walks into your company uh if they are giving any information they will be taking it up uh they will be we
+will be having some biometric so they are taking the information so it can be any any resource from the resource we
+are taking the data that was carried out by the input layer and the second layer is hidden layer so in hidden layer uh we
+do have many many people in the office right we do have analyst we do have managers what they will do they will
+make uh we will have some decision maker so we learn from the data we analyze the
+information after analyzing the information we transform some information right so multiple layers
+equals to deep understanding which means multiple persons equals to deep
+understanding that is why this is called as deep learning and we do have output layer so
+the final decision the final output may be forecasted as a classification or a
+automated uh action for example if you are creating a loan application so the
+final output will be we will be giving whether approve the loan or disapprove the loan
+is it clear are you all clear with this three
+layers yeah sure let me explain this one uh with with an image so which you can
+understand much better
+see over here we have inputs we have some hidden layer and we have an output
+okay okay now these inputs which are located on the left hand side right so
+this green circle represents the input okay uh for example let's take an image
+in images are made up of pixel right so each input is fed into the network to
+begin process okay so the middle layer is hidden layer what the hidden layer
+will be doing the hidden layer is connected by a lines a blue neurons right
+so so they are not directly visible to either the input or output that is the
+reason we are calling it as an hidden okay so each neuron in this layer perform calculations maybe um uh some
+activated function maybe it can uh waited some sums it can do any calculation
+okay so this network learns the deducted pattern and features and once it is
+deduct once it learned the these data then it passes to the next layer here we
+have many hidden layers so uh if you have many people then the understanding
+will be deep right see for example if in your family if you are taking any
+decision so instead of taking one person we will discuss that with the multiple uh family member maybe other siblings
+yeah all we'll be understanding it and we come up with one solution so deep
+understanding the problem and coming up the with the solution right so that is called as deep
+learning so the left hand side sorry the right hand side we do have the outputs outputs are nothing but predictions they
+are providing the final output to the network and in this in this image you
+can see some highlighted so one neuron is highlighted in orange color to show
+that what a single unit look like so it receives signal from the previous layer
+processing them and passes to the next
+layer is it clear to you
+all if it is not clear kindly let me know i'm happy to explain one more
+time of course I will be sharing this PPT to everyone
+yes neural network comes under deep learning shall we move on to the next
+topic
+now let's understand the architecture of this uh neural network okay so over here
+I have an
+image just a second give me a minute
+okay so now we're going to as I said before now we're going to understand the architecture uh a powerful deep learning
+model commonly used for image recognition and computer vision task okay so what is CNN have you come across
+this term CNN
+do anyone come across the term
+CNN okay so let me explain what it is [Music]
+um so this CNN is a special kind of neural network okay which is designed
+specially for processing visual data like images okay so it automatically
+extract the important features from the images like edges sorry edges shapes
+texture from the image so which makes it deal for recognizing the object or a
+character so which is called as conventional neural network in short we
+call it as CNN okay so in this image if you look
+into it uh there they have written handwritten letter B
+yeah now uh let's understand how we going to create a hand handwritten digit
+recognition machine okay uh maybe uh application okay so first first step is
+we have to um understand the handwritten character
+okay a handwritten character B is provided as a input okay now this image will be converted into grids of pixels
+we know that every image is made up of pixel so each cell shows a pixel value
+it has brightness it has color right
+so what is the pixel color values can anyone tell me what's the pixel color
+values very good by Google yeah it's 0 to
+255 so the input is we have just uh the input is letter B uh which is 28 into 28
+color grayscale image just an examp I'm just giving this as an example size okay so each pixel has a value of 0 to 255
+representing the brightness okay now this image is turned into a matrix of pixel values okay just think of it a
+black and white picture made up of tiny squares and the computer doesn't see B
+it is seen as a numbers only the numbers right okay now the next uh next level
+which is con convo convol convolution layer okay
+uh we can say as feature extractions so over here a filter maybe we can say it
+as a kernel okay the slides across the image so depend uh it perform a dot
+product at each location okay so the output will be a feature maps so it will
+highlight the important parts like edges corners or line
+so have you seen it is it is just like um uh placing a stencil over a photo and
+we are just highlighting only the edges so that the CCN learns which
+filters works better during training that is why we are doing this conversion
+layer is it clear
+all right let me move on to the next step so the third one is pooling layer
+we can say it as down sampling okay so here what we are doing we are reducing
+the size of the feature maps but keeping the most important information okay so
+the common technique which is used as max pooling so it keeps only the highest
+value from each region
+okay so why we are doing this because we don't want to memorize
+the exact location it just the presence of fe features right so it is also
+depends sorry it is also speed ups the process and reduces overfitting so that
+is why we are doing this uh pooling layer okay so the fourth step is
+repeating conversion and pooling which is called as deep feature or we can say it as a deeper
+feature so the next set of layers looks for the more abstract features like
+again the curves holes loops so each layer goes deeper and learning the
+highlevel pattern so in early layer they might learn about
+the edges in later layer they might be learn about the full shape like loops in the letter
+B and the next layer is flattened layer yes over here all the all those 2D
+features are mapped into 1D vector so think of this is like
+unzipping all the learned features to make a
+decision and the sixth step is fully connected layers and classification so
+these are the traditional neural network layers so they are connected every input to every output neuron and the output
+layers might be one nepron per class which is a toz letter
+so is it clear so we can simply say that in conversion layer we are just detecting the features in pooling we are
+reducing the signs sorry we are reducing the size while retaining the key features in in flattening we are just
+converting 2D data to 1D data and uh at last we are just fully connected making
+a final prediction
+so uh is this CNN is clear to you all
+so what is happening in pooling and conversion
+see um let me let me explain you once again uh see first of all we are giving
+B as a input um character right but this B is handwritten character right so now
+this image will be converted into pix grid of pixel so if it is a square size
+in that square size everything will be converted as a grid like a graph sheet small small boxes will be showing right
+and each box is called each cell is called as pixel value uh maybe the brightness or color so that was the
+first input right the next is conversion layer right so in conversion layer what
+is happening so the small metrics like uh
+it is slide over the image it is deducting the features like edges corner
+See now we have the small now what we are doing we are just keeping a stencil over
+the small square okay and with the help of stencil we are just highlighting the
+only the edges see in conventional layer we are just highlighting we are
+filter across the image okay so we are just highlighting only the edges
+corners and lines now once we done see look at the
+image it is like we are just highlighting the only the edges and corners that is happening in convention
+okay now the next step is pooling in pooling what we are doing we are
+reducing the size yeah to keep only the most important information to equips
+only the highest value from each region we are uh minimizing the size we are
+down sampling it okay and in fourth
+stage we are deep featuring it so we are doing the convention and
+pulling over again so what's the difference between this first convention and the second convention so in first
+convention we are highlighting only the edges and corners right over here in the
+second convention we are just understanding much more better we are
+giving more abstract features like curves holes and
+loops so each layer goes deeper the learning uh will be highlevel patterns
+okay at fifth layer we are just doing o over here we are just doing flattening
+okay so this is a combination this convention pooling is a combination okay after doing this we are going to the
+next step which is flattening or we can say flatten okay so in flatten stage we
+are converting flatten 2D to 1D vector just think of we are unzipping all the
+learned features okay to make a decision okay and at the last at last
+fully connected layer we are doing the classification see just there they have given just an output example if it is
+0.22 it is not B if it is 0.63 which is likely B okay they are just keeping the
+grading value if it is more than 0.5 which is likely near the character which
+is less than 0.5 which is not B
+see if it is 0.15 maybe another character so by by that grading value we
+are just predicting the number I mean the
+character hope it is
+Yeah yes so I'm moving to the next step next
+slide which number okay okay the output number which is just for the understanding approximately see in
+mathematics if we uh if it is 0.5 likely it is positive it is below
+0.5 it is likely negative if it is 0.15 it is not at all that number so
+depending upon the grading value it the the the output would be
+predicted okay
+now we're going to understand about deep learning hope you all clear with what is
+neural network and what is CNN now let's have a
+clear understanding on what is deep learning
+i think we have already discussed about what is deep learning right
+what is it already we have learned about it right what is deep learning a akash or a
+crush deep learning is a subset of ML right
+so in deep learning only we are learning about this neural network actually the slide has been
+misplaced okay next we're going to understand about recurrent neural
+network RNN
+so imagine if your brain couldn't remember the uh something which was said
+earlier okay a conversation has happened in that conversation you couldn't get the last sentence said by someone said
+okay so in that conversation it it will fall apart am I right if you if you
+couldn't get The last sentence said uh said by the person opposite person and the particular conversation will be fall
+apart yes or
+no yes
+now this RN RNN are like neural network with memory so they remember what
+happened before and what to and and use that to make a better decision
+now okay imagine you you are an exe you are
+an [Music] um you're a manager of a company okay so
+you have a very smart assistant to taking meeting notes so every time you say something the assistant will make a
+note of it but
+uh not just like a normal assistant so this assistant one remember everything
+you said so far in the meeting okay so when you ask them to summarize or when
+you ask him to take an action uh with the with the entire conversation history
+so which will help you to work better right so this is what an RNN that smart
+um assistant is RNN so this is what RNN does with data over
+time so it has only three component one is input hidden memory output so input
+just say hi hello okay so what the memory will do it will remember
+everything whatever you said so far so based on that it will take a decision on
+current input plus memory that is why it is called as
+recurrent neural network
+so are you all clear with
+this shall we move to the next topic
+give me a minute i'm sharing can you repeat three components of Okay yeah i
+will brief it one more time no worries
+sure give me a moment let me share my screen once again
+just a minute
+sure i'm explaining the topic one second please give me a minute
+one sec give me a minute
+am I audible to you all i'm sorry something wrong with my uh laptop i couldn't do anything my screen has been
+frozen for a second yes thank you is my screen is uh
+visible to you all can you all see my
+PPT one sec one sec i think [Music]
+Okay is it visible now yes thank you hope you are clear
+with RNN
+okay shall we move on to the next topic do everyone clear with
+RNN okay
+okay so in RNN every every data if you have some sequential data such as time
+series or if you are speaking something from morning 1 1:00 a.m to 2 uh sorry 1
+to 2 an hour of talk which will be recorded which will be memorized in the
+uh hidden memory part okay now let's see the comparison
+between RNN and
+CNN first since we RNN recently can we see what are the basic limitation so in
+RNN it is very hard to remember the long sequence if you if you're going to
+record something for the very long time it is very hard to remember okay
+and if you have the long process then the training will be really very
+slow so in which domain can we use RNN rnn can be used in uh health care if you
+are just tracking a patient's uh tracking time over over over time we can
+use it RNN right and if you are in finance sector we can say stock price
+forecasting yeah so even in mobile phone we do have the option speech to text
+yeah so there it if you are pressing the mic icon it will listen for a second so there you cannot do a long time see if
+you owning the mic and if you're giving a very big speech it cannot remember the whole thing it
+cannot convert it
+up so in short we can say RNN it's a neural network that remembers the
+previous steps okay so here the input will be sequence data it can be a text
+time series or anything okay and the outwell will be predict per step with
+the entire sequence of meaning okay and the memory will be hidden state and
+memory will maintain okay and the limitation the the limitation of RNN is
+here you will be having a struggle when you have very long-term memory
+so when comes to CNN in CNN we don't have any memory so CNN cannot remember
+the previous data or a context so every input is treated as a isolated messages
+okay and this CNN doesn't work on time series or raw text in CNN you can build
+only images image data so with help of CNN you can uh use either the photo
+scanner or a
+spreadsheet so in CNN we have the fixed input size if you're going to upload a image it it should it should be in this
+particular size
+so are you clear with the limitations of CNN and
+RNN okay am I talking too slow should I have to improve my uh speed of like pace
+okay let me um basically I'm a slow slow talker let me try to improve the face
+speed okay if I improve the speed like sometimes I will be very fast in speaking so if you feel that I'm very
+fast or I'm too slow kindly let me know in chat okay thank you for the feedbacks yeah now where we have to use CNN so
+wherever you wanted to uh wherever you want to uh scanner image where where whenever you want to deal with some
+images in those places we will be using
+CNN can I move on to the next slide
+yes thank
+you already we have seen this now we're going to understand the autoenccoder
+basics so I hope you all know what is encoding and decoding
+uh can I have some answers in chat
+have you heard about this term
+autoenccoder okay
+um see this auto encode is a spe is a unsupervised artificial neural network
+okay this help us to learn compressed data in the lowest uh dimensional space
+and then reconstruct it
+back so we can say in very in in simple term it's a sorry in simple term this
+autoenccoder is a special type of neural network which help us to compress and reconstruct the data for example it
+learns to summarize the data which is compressed yeah and it help us to rebuild it to the closely as possible
+which is decompress compress and decompress uh in in simple term we can
+say I uh shrink and extend see we used to do it right when you are having a very big file we need to if you want to
+send that file we cannot send it directly as it is because it has a very big size so what we will be doing we
+will be zipping the file to send it up once the user received the file they will be unzipping it to get it back the
+original file same process over here encoder so encoder is a special type of neural network which is used to compress
+and then reconstruct the data which means summarize the data which is compress and then rebuild it closely as
+possible which is decompress are you all clear
+if I move on to the
+next so over here we have the input layer and output layer
+should I move on to Can I have some response can I move on to the next
+So over here if you look at the um image it has two thing one is encoder
+another one is
+Okay am I in the wrong yeah over here should we move on to the
+next okay let me explain this image to you
+all so in this image if you notice we have two thing one is encoder box and
+the one is decoder box okay let's understand what it
+is first we have the input layer so this is your original data it can be a image
+it can be a vector or it can be a signal okay this input feeds into the encoder
+part of the network okay now coming to the next part which is encoder part so
+this encoder transforms the input X into a smaller dimensional representation
+then it compress the data by learning its most important features okay this is
+called as feature extractor okay once it is done
+okay uh now the output of the encoder the compressed file yeah which will be
+sent for the representation okay now the next part which is a code part if you look into it there is a small box which
+is called as code right in between in middle yeah so what is happening in the
+code part so this is a compressed knowledge representation your zipped folder yeah so it is a smaller set of
+features that captures the core essence of the input data okay this is called as embedding okay
+now it sends to the decoder so the decoder takes the code H and try to
+reconstruct the original input so the output layer X is called as
+reconstructed version of the
+input hope you all clear with the uh image explanation
+so what is the use of this and good question okay so have you all heard this
+uh this dimensional so where we'll be using this encoder where we are using this concept
+basically
+this concept is used especially in unsupervised learning right so in unsupervised learning we will be having
+two important algorithm which is dimensionality reduction and data reconstruction so this dimensionality
+reduction is using neural network okay and the radar reconstruction is building
+the original input from the compressed version so these two are the main goal
+of autoenccoder
+so if you are creating any application and for example let's take an recommendation system okay in that
+recommendation system uh the user will learn about the compact user or item
+representation right so where that the data has to be sent from one layer to another layer okay so where it cannot
+send all the all the um uh learn data at once so it will be compressing the data
+and sending the output to the as a compressed version okay in in another
+training model the data will be received and over there again the compressed version will be unconstructed
+it to back to the original hope it is clear
+last class only I have explained what is unsupervised learning what is supervised
+learning i don't understand why you're asking the same question over again and
+again please ask me the question which is relevant to the content
+so now here they have just given the working of encoder first we are getting a input
+so this is a structure of uh first we are getting a original data and the original data will be compressed into
+smaller size uh just um just removing the bottleneck something like that then
+the compressed version is like a summary or a keyword okay so then it will be reconstructed the original input from
+the compressed version and ideally we call the input like the
+output so where we will what are the encoder used for why we are using autoenccoder okay have you all know
+about the cyber security in cyber security have you known this anomaly detection do anyone have the idea about
+cyber security anomaly detection
+yes very good navin detecting detecting the unknown abnormal behavior in any see
+in cyber security if there is any unknown uh abnormal behavior in your uh
+network it will be detected okay for the deduction they will be having some um
+patterns so if there is a event happen in this pattern then that is a suspicious activity you have to block it
+up this is called as anomaly detection okay for this anomaly detection we will be using this
+autoenccoder okay and if you have any pattern detection learning the normal pattern deductions over there we will be
+using this autoenccoder
+um any doubts shall we move on to the
+next yes
+so here we have the use case of autoenccoders where the the applications where we are using it is used for image
+compression uh phase recognization feature extraction in all these area we are using this
+autoenccoder and here we have the different variational autoenccoder input
+encoder the the same thing what I have ex explained over here they have just given with some technical
+terms just go through this slide and if you find anything to be difficult to understand let me know I will explain it
+Okay let me explain
+it okay so in this image we have input X so this is the original data you want to
+process let's take an image of an handwritten digit like previously we have seen it for CNN right so it's an
+image of handwritten digit okay now the second phase is encoder so in in what is
+the purpose of encoder what is the purpose of encoder
+it will compress the data into lower dimensional representation right
+so there we do have some latin space so what is latin space this latin space is
+called as probability representation typically have you learn see in mathematics we do have something called
+gaussian distribution law have you learned about it
+so the the problem this representation based upon this Gaussian distribution
+theorem okay so it it the uh the output will be
+a single letter like the mean vector mu and standard deviation
+sigma so these are defined in the probability distribution okay uh let me
+take an example so it will compress the digit image to uh 2D latin space just
+compressing the size okay next phase is called as latin decoder so the decoder is another
+neural network so what in what will be happen it will reconstruct the original
+input from the Latin variable Z so over here it it will recon rebuild the
+original input so close to the original input X as
+possible and we got the
+output at the last so is it
+clear latin space is a area where the probability uh representation will be happen based upon the Gaussian law
+shall I move on to the
+next what is the different the processing time see why are you using um
+zip file why can't you send the same file as like that why why do you want to compress it and why do you want to send
+it what is it you're going to extract the same file again right then what is the purpose of compressing
+it reducing the time same happens here
+it is not only for saving the bandwidth and time it is like saving the uh uh
+like we are just fastening the speed of prediction for that we are using it up
+faster okay we'll move on to the next topic
+so where where this is used this is used on data generation like image text audio
+yeah for example if you're giving one information and you're trying the genai to generate an image it what it what
+will be happen it will compress the data uh it processed from the learning and it is giving back the same output in our
+screen anomaly deduction as I said I have given example right in cyber security we are just finding the pattern
+over there this uh this encoder is useful in data augmentation control
+generations okay now shall we start the new top uh new topic to understand which
+is
+G architecture which architecture you're talking about uh this
+um neural network deep learning architecture
+which architecture you're asking
+Huh are you asking deep learning architecture or which
+one or can I move on to the next uh please help me on this can I move on to
+the
+next okay va arctured yeah
+sure this one
+right this one you're asking for
+okay let me Okay the next topic which we are
+going to discuss about is GANs so this GANs is expand as generative adversal
+network have you heard about this
+so this is a framework okay this GAN is a framework this framework help us to
+um in this framework two neural network compete each other at a time
+so one tries to fake the data and another tries to detect it uh detect if
+it is fake it's like a gamer between um
+defense and offense or maybe a game between fogger and
+detective so fogger is a generator who learns to generate realistic fake images
+okay and the redactive discriminator learns to spot the fakes and
+it see why we are learning these are the basics concepts that you have to uh be very clear with
+geni yeah basically GAN is a framework so in that framework two neural networks
+try to complement each other
+let's let me give you a scenario to understand this much better so you are developing a AI model that AI model will
+generate a painting in um a famous uh pattern style
+okay so the generator is like a art fogger okay it's trying to create the
+fake paintings okay the other another neural network is discriminator which is
+help us to find the fakeness in the created image so we have two roles in
+this GAN which is generator and discriminator
+so the generator will create a painting and submit it okay and the expert says
+whether it's fake or real so if the expert catches its then frog uh then the
+generator has to improve okay if the expert cannot able to uh find it then
+the discriminator has won the game kind of something so generator learns to
+create fake better and discriminator learns to deduct fake more
+accurately are you clear with this concept can
+Yes it is not two different model two different neural networks at a
+So over here it just uh PPT to understand so generator is a counter
+counter filters and the discriminator is a police so if the generator makes some mistake and the police will detect
+it here I have just given the simple uh GAN
+architecture so this simple image will help us help you to understand this much better
+so here we have some random input maybe you are just giving you're asking uh the the application to generate a image
+about um alien so the generator is generating
+a image alien okay and what the discriminator will do it will check
+whether the given image is fake uh or real how it will check it will check
+from the already learned data from LLM okay and if it is try to find it is fake
+then it if if the discriminator found the image generator is fake then
+discriminator is good in detecting uh its accuracy is very good if it is
+face then generator is very good in generating the content
+what is GAN stands for you tell me
+Very good it's generative adversal
+network shall we move on to the next topic are you clear with this see now we are just understanding the basics once
+you are clear with basics then when you're coming to implement as a practical it will be really help you to
+understand the uh core problem okay
+now let's understand where we can uh applies this application of GNN so image
+synthesis which means deep fake faces images yeah style uh style
+transfers and if you know anything which I have not mentioned here can you please tell me the other applications of GN
+See when you take a photo in a photo if you want to change a style maybe from um
+flatten to cart c cartoonish
+yes uh this Gibli art is also like especially Gen style
+only based on GAN
+only okay can I ask you a few questions like I think um today we don't have time to practice
+something uh sorry we don't have time to experiment something uh can I give you a
+simple
+task maybe we can stop till this
+Can you all please open the
+um IDE
+Okay so before going to the task can anyone please uh summarize what we have learned today then we'll start we'll do
+a small task in uh Python
+materials will be provided see uh here you have 554 right if you all say uh if
+you are dumping the inbox with the same text over again and again it it it it
+get time to lag i I couldn't read all the uh your charts so please uh
+don't dump the inbox with the same text over again it's a humble request from my
+side yes very good Shubam so today we have learned about uh CNN RNN the
+limitation of CNN and RNN autoenccoder and GAN right so do anyone have doubt on
+this parts which we have discussed
+today's as Well so do anyone have any doubt on this topic which we have
+discussed okay can you brief me one more time okay I will explain autoenccoder once again so apart from that do you do
+any other doubts reflecting just remember what came von I couldn't get
+you okay let me explain the queries one after the other the first query was like
+asked me to explain about autoenccoder maybe I can take that particular
+topic yes so this autoenccoders used in
+unsupervised learning so where do the unsupervised learning comes unsupervised learning comes under which
+um subset of AI it is ML right so in
+ML so in ML uh we have this um unsupervised learning and this
+autoenccoder is used in the unsupervised learning neural network okay so this is
+help us to learn how to compress the data into a lower dimension and then
+reconstruct it back whenever it is required okay the uh so in many um in ML
+if you train a model we will check the dimensionality reduction to finetune the
+uh peak point okay so in dimensionality reduction if you want to uh find out the
+peak point then they will be compressing the data and it will be uh reconstructed
+when it is required back so to compress the data we will be using uh in in dimensional reduction we'll be using it
+up okay and what is data reconstruction it is building the original input from the compressed
+version so it has only simple three parts encoder Latin space and decoder so
+encoder will compress the given input into a smaller representation okay and
+we have a latin space this latin space is called as okay maybe I
+just so this this latin space is called as uh bottleneck layer okay this
+contains the most important features of the input in the compressed form okay you are having a input if the input is
+going to compress this Latin space will make sure whether it contain the most important features from the uh input uh
+encoder okay and the last one is decoder this decoder is help us to reconstruct
+the original uh input from the Latin space is it clear
+shasha okay now the next queries was about
+explain RNN
+okay yes so this RNN is help us to remember something see if we are talking
+okay so in this class I have been set many many things right if you forgot few things which I have said to you uh then
+it it became useless right but if you have a assistant if the assistant
+remember everything whatever I says in the class
+then what will
+happen which is very useful for you to write to you right that is what happening in RNN so RNN is a um is a
+neural network with memory so in RNN we have only three part
+which is input hidden state this hidden state is called as memory and output so
+input uh just take your WhatsApp in your WhatsApp you will if you want to send a voice note so if you sorry uh not voice
+note I'm sorry if you are very uh lazy to type the text we do have the converter we will enable the mic and if
+you say something and it is started to automatically a text right if you say it
+for a very long time is it possible no
+similarly this RNN is help you to remember the information is short
+duration
+so where this RN is useful uh if you look into any chat bots if the chatbot
+want to remember the for example let's take Swiggy in Swiggy you will be having the chat right so you're talking about
+the order which you placed recently and if you find any um uh discomforts in
+that you're talking about it so that bot has to remember the whole conversation in that place the RN is very
+useful and the biggest challenge with the RNN is it cannot remember the long
+very long memory and in short we can say RN is
+great for sequential data and this is neural network with
+memory so is it clear is it out is sorted next variational autoenccoder
+that was the last thing which I have to explain
+Right unsupervised learning basically was a method of ML where enabled data is
+taken as input right while encoder is something that compress input for a processing right then output is
+categorized as it is used for only unsupervised learning
+see in unsupo see it it is not exactly like the way you think in unsup see what
+is the use of unsupervised learning first of all tell me
+that see unsupervised learning it's something you learn from a uh unlabelled
+data right so the main main goal behind the unsupervised learning is discovering
+some patterns or features right so to do that we will be using different algorithms yeah which are clustering K
+means algorithm K nearest algorithm yeah and we do have dimensional reduction in
+that dimensional reduction we are using autoenccoder okay
+so when you're having a model trying to minimize the rec uh reconstruction loss
+then we will be using some uh other algorithms right so yes autoenccoders
+are typically used in unsupervised learning because the model learns from the input itself
+if auto encoders just reconstruct data does that mean they cannot be used in
+supervised task answer is no encoders can be absolutely used in supervised
+learning too just not directly as
+predictor hope I'm connecting
+is your query sorted Amen
+okay no you cannot okay is it time we have five more minutes right
+today lecture was bit a little bit on tougher side okay so why do you feel
+like that as the concepts are very vague or is my explanation is not up to the mark
+so there's a question why do we need orn at all can't CNN or normal NN handle
+sequence excellent question okay first uh let's talk about
+the sequence so what is sequence it's just a matters of order right time
+series speech yeah so input length may vary yes so I went to bank uh river bank
+or money bank there is a context matter as well so why RNN so RNN is designed
+for sequential data where past information influences the present
+prediction so why not we are using CNN or traditional NN just compare the
+example again so in CNN uh the the the it's take the fixed size
+of input as well as output and they doesn't have any memory they cannot remember what happened
+before so CN N is not suitable that is why we are using uh
+RNN muhammad is it
+sorted okay can I ask a question so far you people are asked me
+different question can I ask you one question
+okay what type of data are suits CNN best suited
+for maybe I can arise a poll so that it will help you all
+if my question is
+clear or can I raise a poll that it will be easy
+Oh okay so which type of data are suited best
+okay can I publish the result like most of you have given the right answer maybe I can stop sharing my screen so that it
+will be help you
+and I very curious like you are kind of timer now 7 seconds more 5 seconds more
+yes materials will be having only the Ppts and session recordings will be shared uh in
+LMS and LMS credential will be given you once on
+Monday so hope you all see able to see the poll result the right answer most of you have see 89 percentage of people
+have given the right answer which is image or visual data yeah only other
+eight percentage four percentage is given for um text document no text
+document is not the right answer and sequential stock data it's uh CNN so it's RNN not
+CNN can I ask the next question ma'am is the
+attendance yeah at will be taken from your responses and Zoho will
+automatically calculate the attenance so from from that we will be taking
+the can I ask the next
+question okay this is a kind of interesting question
+okay what is the combination of model might a self-driving car use
+we see this is the second day of class right we are just understanding basic concepts in genai and from next class
+onwards we will be having practical as well it is not just a theory class it's it's going to be a hands-on we we're
+going to have a hands-on session as well no need to worry
+So what is a inn that that that is your takeaway uh so just try to go through
+about what is ANN why it is used how it is different from CNN and RNN and we'll
+discuss tomorrow so please don't your takeaway for today's session is to learn about
+ANN see very basics level of Python is enough are you you're dumping dumping
+the uh inbox with same
+question uh today see I will not give any Python assignments as a takeaway we will be discussing in class itself so if
+you're not able to complete it up then we will be sharing it in as a takeaway
+if you want then I can give you
+the so we'll post the right answer Maybe I can go to the post okay I'm in my
+Okay yes most of you has given the right answer it's CNN plus RNN
+see if anything need to be uh if if any assignments has been uh involved in
+evaluation then surely I will be giving time I will give some takeaways
+okay yeah because see it's a self-driving car if it is able to only uh use the images then if if it is a
+self-driving car it has to remember the path direction as well right then we need RNN because it has the memory uh
+storage memory right which can be used for time
+series the task is tomorrow's task is try to go through about a and n so with
+this we are winding up the session thank you so much for joining if you have any doubts please drop your doubts in chat
+if not we can meet by tomorrow thank Thank you
+all
+yes thank you all so the minimum attendance criteria is 75%age to take up the
+exam okay the task is you have to just learn about
+aN thank you Arun thank you Arian thank
+you thank you Sashang
+thank you sure of course uh Pratam all the
+slides will all the materials will be shared with you once the LMS is
+ready uh Har Prashad what kind of book like you you you want me to suggest a
+book for AI
+just learning is enough just go through about a
+n thank you
+mana yesum you are right once LMS is ready you will be getting the assignments thank you him and show
+Okay I'm ending up the call thank you everyone thank you Ashet

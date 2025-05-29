@@ -1,0 +1,620 @@
+hello everyone good
+evening okay so if your LMS is not working kindly fill the form which I'm
+I'm just going to share a link in
+WhatsApp so I have shared the link in WhatsApp uh I'm sorry I have shared the link in chat please click on the link
+and do update on that if you have any issue with your prolog
+uh um recall the topics which we have discussed
+yesterday no way i wish you can cope up the course
+as we have discussed about found what's an AI what is what's an AI what's an X
+AI okay it's a developing environment where you can develop AI applications
+Right so Praalian like regarding this payment issue like you have to convey
+that in the WhatsApp group you do all have the WhatsApp group right please uh confirm in that
+group so those queries will be sorted over there
+very good to manipulate datas and develop it to very good
+okay so today let's create the um what's next uh application let's
+let's sign up with the IBM cloud so WhatsApp is a part of IBM cloud so inside the IBM cloud we have this tool
+WhatsApp we'll see how to uh sign up into it okay
+every time you need to see it is not like every time you need to uh like um if you want to join the
+session you have to register the Zoho like with your registered email id you have to register the zoo for the very
+first time okay if you register it and you will be getting the proper notification from the Zoho link to the
+registered mail
+ID can you please uh drop your question again because I missed your question
+attent is not
+compulsory okay I will I will check with the technical team regarding this Zoho issue and once it is sorted I'll let you
+know by tomorrow
+okay attenance is not compulsory okay arian if your
+credentials showing invalid I have shared the uh link right form Google
+form link in that link please update your query okay it will be sorted by the
+technical
+team i will show you how to access your PPTs
+understood even though you're not able to uh access the proland please fill the
+form which will be sorted by the backend team I'm giving the form link in
+chat please use
+Okay so in today's session let's create um WhatsApp next first let's sign up
+with the IBM cloud account once we done that uh what's next is a part one of the
+product in IBM cloud okay over there we can explore what's the next first let's see how to create the cloud account
+um let me check whether you all received the credential you all have the access first let me give you one link in chat
+just click on the link and try to put your email id remember in the last class we did the same right if you find any
+challenges then we'll look what can we do next um just a
+Okay okay
+just a second i'm just giving the
+link
+okay so I have shared the link in chat please click on the link
+to to show the demo i need any one of your ID
+oh many of you have shared the degree maybe I will take the very
+eta i'm taking your credentials so you have to share the details whenever it is
+required okay so over here once you land this page here you do have the option
+called access software download so you have to click on this
+get reload to a page where here you have to drop your ID okay once you done click on
+submit yeah I just take the screenshot
+let me try once
+again okay so how many of you are facing issues like this uh just a minute let me
+raise the poll so you can answer in the poll
+so please respond to the poll
+arti yesterday only we have check I checked with your ID there is no problem it it works
+fine can anyone else give me another ID those who are facing issue can you please give me your ID i will check it
+once
+okay so those who are facing Okay uh here okay maybe let's Sanju San maybe I check with this
+one more ID
+see if it is not working for the very first time try to reload your page once
+and try again see just now I faced the issue for this angel when I try to reload my pa uh page and try with the
+same ID it is working fine can you all please try those who are facing the issue with this um skill network can you
+please reload your page once or try to open this uh um link in incognito window
+and try it once again i guess it is working fine maybe I take
+Aish okay so I'm just reloading this
+page and I'm trying once again
+i open a window in
+incognito i just take
+the ID
+God I'm sick
+so once it is done here let's check with the same
+ID yes uh mean you you can try with uh refreshing the screen two or three times
+then if you check with the same ID it is working now can you all update this poll
+maybe I just regenerate it
+Please try to refresh refresh the screen
+twice just okay make sure while copying you should
+not have any uh white space
+still 50%age of the people are facing
+issue okay can I show you how to sign up the uh skill network maybe for those who
+are not working you can refer the I will I will share the uh document in prolon
+access as well and once your ids are sorted you can see the recording and you can try it
+once no worry once everyone is ready with the tour I will start the
+um pro pro in the WhatsApp next
+sometimes uh there will be a network issue sometimes the server might be bit
+down oh understood
+so okay understood now can I um I'll just go with the poll again
+shall we be
+Okay can I show you how to create the IBM cloud account like those for those who are having issue no worries I will
+share the detailed document as well as the recordings will be there you can check from the recordings um and you can
+create a little later once everyone is ready with the account I will start the practicals till then we will be uh
+waited like we will be on hold for everyone to join with
+us see only uh 47 percentage of people are like voting i want uh everyone to
+vote for this
+yes Sanju like it is opening very well in my
+system it is not like that actually uh everything is working only when see when
+there is a server when uh if there is a net traffic sometime the site might be
+bit slow it doesn't mean it is not working is
+slow probably you all will receive your IBM C uh credentials in couple of
+is mid please wait
+see uh Ghana if you are absent on if you are absent on yesterday please go through the recordings recordings are
+there in the uh your prologue please refer the recordings of course I will be
+uh recap of what we have learned on the previous
+Bless okay let me check the poll once again only 70%age of people are
+ordered so out of 553 over here only 382 have been voted for
+this okay I will show you how to create this um account IBM account
+okay I stop share the screen
+so I have randomly take one ID from the
+Add stop sharing by
+mistake okay
+so yesterday this ID was working fine now it is not
+working okay hey can you please any can anyone please give some other
+ID okay I just go with the very first ID
+ID just a second give me a minute
+i'm sorry for the interruption um okay i take service
+ID it should not be like this it's Did you complete the um registration process
+straightly taking me to the signup page can you please respond in chat
+chita okay no worries then I will try with someone else who have not completed it so it will be helpful for everyone uh
+to complete the steps okay um can anyone please share the
+link okay randomly I take
+one I think uh since I'm just gave from the same
+um URL it is not working I guess uh because Um anyhow this uh session ID will be
+there right maybe because of that I tried with a fresh
+one i could see many of you are chatting in the WhatsApp group that your um pron
+access is not working i
+understood so uh prol is currently under maintenance like people are working on
+it maybe by mid of this night or maybe by tomorrow morning it will be sorted so please wait patiently thank you oh
+then is this working harsh
+then I just take mantra
+okay so over here what you have to choose you have to choose the role as student okay who am I
+how okay mantra okay then you have to choose your um course your degree
+current degree mantra can you please drop the text like what is your current degree
+problem
+is mantra are you there in the call btech computer science okay
+so Bachelor of Engineering and over here you have to
+choose again Bachelor of Engineering so when is your expected graduation
+date okay 27
+so over here you have to
+choose CC or CAC it P tech so
+computer science and technology okay yes so over here how to
+um accept the terms and condition you have to click on this software terms and
+download accept it choose the privacy constant accept it then click on
+register over here we'll have to give the ID um can
+you please give me the registered email id mantra
+it is BTE you have to choose Bachelor of Engineering in first two column the south column and other one and below the
+department where you have to choose computer engineering and technology
+okay now we uhoh over here we supposed to create the
+account password can you please give the password which you want to create it and you can no worries this is a
+private chat
+mandra if I I missed him if he wrote computer science okay see you can choose
+computer science and engineering or computer technology both are fine both are computer stream right
+okay i think the password size is yeah it should be 12 in character length minimum 12 can you please adjust your
+password accordingly in department you have to
+choose Bachelor of Engineering i'm sorry first two column you have to choose Bachelor of Engineering okay and the
+third column you will be having something called department so in the department you have to choose your core
+um Mantra I missed your Okay I got the password
+now correct me if I'm wrong mantra and what is your last
+name is it Singh
+so company just randomly choose IBM so hope those who are doing along
+with me completed till
+then choose CSC department
+so that's what you have to choose Tanushka like you have to choose uh computer uh computer and
+technology so you have to for the enroll me in the IBM batch program yes you have to click on
+yes i'm just holding for 5 minutes please others complete till then and if you have any doubts please drop the
+doubts
+see IBM batch program you have to click on yes
+yeah so I think all done can I give next okay once you complete everything click
+on next uh Mantra can you please share the sevendigit uh code which you received
+with the registered email id
+you just mention only IBM that is enough
+yes okay thanks Monro so you will be receiving a code
+seven-digit code registered email id once it is done you have to click on submit it will take few seconds and the
+IBM ID will be created
+this is incognitive window i have not created anything okay let me try
+okay something wrong
+okay check on this once again just a minute give me a minute
+i'm sharing the screen let's try mantra can you please
+share the ID and password
+okay what is what was the password that you have given let's check whether the ID has
+been created or
+not please share the password mantra yes per company please just
+choose IBM
+okay
+what is your location and this is not the one that we have to go
+through everything went well and at a point it is not work properly right
+okay um mantra I take your details i try separately you are spending too much of
+time on this uh let's work on this little later i hope I will record the complete uh steps
+and I will upload you i will share in the WhatsApp group you can try with that okay give me a couple of
+days see now it is something went wrong the same ID the server was too busy I
+guess so probably um I will take any one of your numbers okay i will try to get
+the details from you and I will try to create the recorded video of how to
+create the um IBM cloud account okay and I will upload the inroller once it is
+fixed or before then I will share that video in WhatsApp with you all you can
+try it up once okay i hope you all agree with me
+did anyone complete the process successfully oh yeah understood many got
+the same screen like me right
+okay mantra did you get any registration email ID with a
+link no okay then all right so let's start the session um
+today's video is going to look about
+NLP okay
+i think someone got the output like someone able to get into it right
+um I can see in WhatsApp group
+Okay sakamar can you please share your uh credentials so that I can show people
+once okay um Mantra can you please uh can you see any link in that particular
+mail
+see even if you get any error message like uh IBM ID has been already used by
+this application which means later sometime you will be receiving a email to your account so please check that
+email you must have some
+credentials so no such link in that
+mantra is there any
+link okay now uh so please click on the
+link what is this
+okay see once you done even though if you receive something like the account has been uh the application has been
+already in you something like that little later you will be receiving one um um mail a confirmation mail to your
+registered email id okay so in that register email id you will be having a link to login so you have to click on
+the link okay once you click on the link if you click on the link it will be
+redirected to the page like this where where is the page I got yeah page like this okay here you
+have to do the one-time verification okay for the authentication here I'm going to choose email uh Mantra again
+you will be receiving your uh I need your email
+id please do share your email id
+mantra very good
+bios can you please share the uh verification code you you will be receiving an email
+[Music]
+Okay verification has been done
+now let me try to log in again
+just a second
+your account has been created successfully um
+I was not able to get the page again
+okay
+okay the site is too busy i guess IBM server is quite busy um even I'm not
+getting uh you could see that I'm I'm getting the error page when I click on it
+okay now let's take a short 10 minutes break we'll join by 6 p.m okay and we'll
+start with NLP okay i have not shared my screen actually I'm just trying in another tab
+i was not sharing any of my screen uh let's take short 10 minutes break
+please join at
+6:00 meanwhile if you have those who have any queries you just drop the queries in chat others can take a break
+we'll start
+no you have to you you don't need to leave just be there in the call but take
+10 minutes break come back by 6:00 p.m
+um yes don't
+knock I could see many are completed the registration process i can see all your WhatsApp chats
+if you if you received a mail like clear to clear the IBM catch which means the account has been created wait for some
+time you will be receiving it email to the register account yes I'm ready to respond to your
+query donor can you please send me what what is your query I couldn't see any of your query
+Rishik how do I know your month of graduation look at your ID card from your ID card you can check it up
+right arti did you complete the sign up process
+i told you already uh prolun is under maintenance give me uh like it will be sorted maybe by uh mid by this midnight
+or by tomorrow morning then you can try it
+in South degree you have to choose uh engineering bachelor of engineering
+company name
+IBM know if you received a mail like regist registration was successful uh
+there obviously you will be receive a link okay you're supposed to click on the link and next you can log in and
+complete the process so once you All done you can able to see the skill board uh once everyone got the particular page
+then I will uh tell you the next steps to proceed with
+Okay so how many of you completed registration successfully maybe uh let
+me raise the poll uh I just
+Please complete the poll quickly how many of you have completed the registration
+i want everyone to respond this
+okay if you made any mistakes on the graduation month that is not a problem no need to worry about
+it no scush please wait once you have complete you do have another steps to
+follow
+see if you have make any mistake on your graduation month that is not a problem
+no need to worry about it
+only 50% of people has been given the oat what about
+others can I take others who are not attentive in the class
+okay um so let's take time others please try
+whenever you have free time please check with the link and try to complete the uh sign up process okay i want each one of
+you to complete the sign up process tomorrow evening so tomorrow let's complete the cloud account side up so
+tomorrow let's work on WhatsApp next okay so if you find any glitch you
+can um you can rise up uh query on the WhatsApp group
+got it
+okay so can anyone please give me your ID uh you what will be the uh final
+screen once you complete your signup
+process those who done
+successfully okay i take G1 ID that was the first one which is
+shared okay so once you done successfully I will share
+the close all the accounts okay
+so if you put the ID is it done successfully or you have given the
+Okay so once you done successfully completely creating your your account has been registered successfully if you
+paste your link in the same window you will be receiving this login page jven
+can you please share your login credentials once if you're comfortable
+can you please share the
+password so you have to sum you have to use your official email ID
+uh need to share
+the so if you are getting something went wrong please try refresh the screen and try once again you will be getting the
+link
+why I was not able to get yours has been used
+ination
+please people are repeatedly asking the same question over again and again i told you multiple times for company you
+have to choose IBM just type IBM so if you type IBM it will show multiple
+options so you don't need to pick anything just type IBM and click on next it will work
+okay i will take um let's utilize this class for the uh NLP i will connect with
+anyone else i will take your credentials i will create a video and I will share it in the WhatsApp group now let's focus
+on NLP can anyone tell me what is NLP
+hope you'll agree with me like we are shall we continue with NLP and later
+on we look on this
+issue okay noted very good so many of you has given
+the right
+answer okay have you spoken to Alexa like uh typed in Google translator or
+asked something in charge GP to write
+something which means you have been already used this NLP all uh uh already
+right okay imagine you're talking to Alexa okay Alexa or a Siri and you're asking Alexa to play your favorite song
+so what Alexa will do now so Alexa understands you and finds
+your playlist and play the song which you have requested how does Alexa understand what you
+said how does Alexa understand what you
+[Music] said it's a NLP in action right so NLP
+stands for natural language processing it is how computer learns to understand
+human
+language so why do we need
+NLP why do we need
+NLP convert our language to machine language very good because machine can speak only binary
+right so but we human speaks in words yeah so NLP helps the computer to
+understand what do we say or write so response in a way that makes sense so
+that is why we need NLP okay now can you can you name a product which
+talks to you or responds to your message can you list the products which
+talks to you which uh responds to your
+message chatbot good jiny okay alexa Siri Amazon chat
+assistant very good so all of the you have mentioned many tools right all of
+them uses NLP now let's
+understand so chatbot machine translators sentiment analysis speech
+recognization all these use
+NLP okay now first we have to understand how the NLP understand language okay so
+to understand human language computer need to learn some rules okay uh let's see what are the those rules okay here
+we have six language levels the first level is phenology okay u when we are in
+school we used to learn uh from the sounds right sound system um instead of
+learning the letters we will be learn from the letters that is phenology right and second one is morphology then once
+you are um learn with the sounds then we will learn from the word parts yeah and the
+third one is we have syntax right with the help of grammar we know how to place the noun how to place the verb and how
+to write a complete sentence in the fourth one we do have the fourth language is semantics which means word
+meaning yeah if I write bat it can be a animal it can be a cricket bat right and
+then we have uh pragmatics which means meaning in context right and the last
+one is discourse so we are just having the flow between the uh sentence this is how we have learned any language right
+just like human computer also need to learn these rules okay so how these
+rules are steps in NLP let's see the following thing excuse me just a minute
+i'm so sorry for the interruption
+see when we are discussing about any uh uh core level topic please if you have
+any doubts regarding that you can ask it up okay if you have any issue with the prollearn or any other uh credential
+issues we can use last 15 minutes for that so that we can understand we can understand the flow of the class okay uh
+I understood tala you have not received the pron credentials Uh already I have shared a Google form
+please use the form and um fill the query
+okay you have dumped the inbox with all your message same message
+i'm so sorry i forgot that I'm in mute and I'm keep on talking my sincere
+apologies okay let me let me um go through this again okay
+so already we have discussed so here we have the basics if you want to understand any language any human
+speaking language these are the six steps right the first one is you have to understand phenology so the sound system
+uh for example the for the letter K and C we used to say C right so we have to
+find the difference between cat and kite right so sound system first we understand the sound system after
+understanding the sound system we do have the morphology where we'll be understanding the word structure okay
+once you know how to frame the words in structure then we have to follow the rules syntax how to write a sentence
+where I have to place the grammar where I sorry where I have to place the noun where I have to place the adverb okay
+and then once you are comfortable once you know how to write a sentence the next thing is you have to understand the
+semantics yeah sometimes uh for example if you give the word bat yeah so you
+should know the meaning of word bat yeah so bat can be a cricket bat or it can be
+a uh bird bat right sorry animal bat uh so similarly you have to find the
+semantics meaning of the sentence like meaning of the words where you have to use it and next one is pragmatics so in
+pragmatics you will be understanding the um uh meaning in context for example can
+you pass the salt is it request or order please close the door it is a request or order so you have to understand the
+context okay that is pragmatics and the last one is we do have the discosure so
+we used to call this discosure as a flow between the sentence okay um for example I have two sentence he
+went to the shop and it was closed now I I know what the it means it means the
+shop right so this is how we have learned any human speaking language
+right now if you want if you if the machine want to understand the human
+speaking language it will be using NLP we know that right how NLP works what are the uh ways so what are the
+different steps that NLP takes to understand the human speaking languages okay can I move on to that slide are you
+clear till then
+yes Kabir are you clear with the last slide should I have to explain Good
+what was the first category could you please show it once yeah
+sure see we have six uh if you're going to learn any new human speaking language
+first you have to understand the phology which means sound of each letter then morphology the structure and formation
+of the word how to form the words and syntax how to write a sentence using the
+grammatics yeah that is the syntax which is the third uh step to learn any new
+language and the fourth step is semantics so the understanding the meaning of same word
+Right then pragmatics uh where you will be understanding the context how the
+meaning of the context uh whether the ask a question the statement is question
+or a request or a order yeah and the last one is disclosure which means you are connecting two different words two
+different sentence with a meaning which means the flow between the
+sentence yeah so these are the six steps that we will be taking to learn any human speaking
+language is it
+clear yes so shall we continue uh shall we understand the
+NLP okay thank you for your responses
+now see in NLP the very first task is
+tokenization which means uh it will understand the word by breaking it see
+we are not going to give word by word right when you're going to talk to Alexa you will be giving a sentence right so
+the um NLP will break the word break the sentence into small small words so the
+computer can understand one word at a
+time so these are the six steps that NLP
+takes the first one is tokenization as I said before it will break the sentence into words okay and the second one is
+stop words removal which means remove the common useless words which mean for example if the word is if the sentence
+contains something like is the and the connecting uh adverbs okay so it will
+the computer will remove all that for example let's take a sentence this is a great movie okay so in this sentence the
+computer will remove a and s so the the the only left thing is this great movie
+why why the computer is removing all this because it give only the it it's
+going to take only the important words are used so only it is removing the um
+common useless word okay and third step is stemming in stemming it will cut
+words to their root for example uh it will remove the uh um uh the past past
+tense future tense or a present tense you just take only the word for example if you are giving playing it will take
+only pay if you give played it again will take only pay if you give place again it will stemming and it will take
+only pay why because all the words it will treat all similar word as one that
+is the reason it will removing all the um uh um the verbs from that the tense
+from the word okay and the fourth step is
+limitation sorry limitization so over here it will do the
+uh smart smarter stemming which means what is stemming it will cut the tense from the word right over here it will
+check the grammar before converting okay so uh for example if you are giving
+running it will take run if you give better it will take
+good and the fourth step is post tagging which means it will label each word for
+example if you give the word cat chases the mice okay so it will tag cat as a
+noun uh chase as a verb and mice as a noun do why the computer has to do like
+this what do you
+think very good it is categorization to understand the concept
+very good good sham to understand the subject action
+good see why the computer is doing the uh tagging label for each word because
+uh so the computer knows what each word does in the sentence so that is the reason it is tagging up okay and the
+sixth step is naming entity recognization which means ne find the names for example if you give one
+sentence um maybe um which sentence we can take
+it up okay ms Dhoni was born in Karachi so in that sentence ne will deduct MS
+Dhoni is a person and Karachi is a location okay so why why it has why ne
+has to happen in the
+sentence to fetch the sematics meaning very good is the classes boring I can see
+many thumbs up thumbs
+phone sure I will explain it on one second sure I will explain five and six
+once again so I want to take a honest feedback from
+each one of you is the classes boring because I I don't understand like I'm just getting a mixture emojis so I'm
+just
+confused am I going fast
+i'm sorry instead of saying Ranji I said Karachi i'm so
+sorry sorry I gave a wrong example instead of saying uh Ranji I said Karachi got confused with the terms oh
+that is why many uh thumbs down
+sure sure i'm explaining once I complete this I will give you a task we going
+to Okay thanks for the feedback we'll get into the topic again
+okay so here we have five uh steps uh in this five steps um the very first one
+is organization which means from the given sentence the sentence will be breakd into words so from the words the
+computer can understand one word at a time for this tokenization and the second step is uh stop words removal
+which means removing common unused sorry useless words from the given sentence right so for example um if it is
+a I'm a great person so from that I'm great person will be taken uh will be
+removed because computer only focus on important words okay and the third step is stemming in stemming you just cut
+root words to their sorry cut words to their root for example if you're giving play play place or a smart smarter
+something like that so it will uh stem the words to smart why it is doing it
+just want to treat all similar word as once that is the reason it is just stemming up and the fourth one is
+lemonization so in lemonization is again the same smarter stemming is called as
+lemonization for example over here if you give running if you give the word in
+any tense it can be past or future or present tense it just take as a normal word for example if you give running it
+will take only run if you give better it will take good because it will check the
+grammar before converting so that is called as lemonization okay and the fifth one is POS tagging
+which means it will give label to each word so already in tokenization the
+words will be splitted right so once it is splitted they were going to give some labels uh is it a noun verb or adverb so
+that the computer can understand the importance of each word in the sentence what it is does in the sentence okay and
+the last step is ne named entity recognization so what it will be doing it will be find the names find the
+sentence I mean um uh for example if I give
+um Alan mask lives in Texas so what is the first step
+happens tokenization so in tokenization it will split the sentence Alan mask
+lives in sentence so it will break into one one words after then it will remove
+all the useless words so in this given context we don't have any use other
+meaningful and we'll go for the third one which is tagging and there is no stemming is also not required so it it
+will go to the next which is tagging so in that tagging it will get Elan Mask is a person and Texas is a
+location so now the machine knows Elan Mask is a person and Texos is a me place
+okay so hope you all are clear with
+this now shall we do a task with
+NLP okay
+all
+right now uh even now the machine knows only um numbers right uh even in this
+NLP in in the six steps we are just dividing the characters now how these
+text will be converting to numbers so uh the conversion may happen between bags
+to word there are two techniques okay uh uh sorry there are many techniques uh
+the first technique is back to words what what is back to words
+so all the character has to been converted to zero and one which is called as back to word
+okay and we do have word embedding we do have context embedding
+we'll see all that once when we get deeper into the
+concept okay now shall we use Python uh let's use Python to do that
+okay
+so can you all open your comfortable IDE
+the choice is yours you can use notebook you can use um collab
+so so to if you want to use NLP in Python then we need to install a few
+packages like uh NLTK which means natural language toolkit scikit learning
+transformers torch so these are our toolkits we're going to use all this in our code now
+okay just a second let me share my screen
+okay uh so over here I will open a new I
+just stop shared the screen and I will share you my uh notebook
+prolog I'm so sorry by mistake I just open my Jupyter
+notebook okay so over here what I'm going to do I'm just going to install
+the toolkit
+Did you all open your IDE
+i'm just going to my terminal and I'm just pasting all this and I'm
+clicking okay so uh NLTK which is uh natural language toolkit and we need uh
+scikit learn and we need transformer and we need touch
+Now we have to download the required resources so NLTK it's also need some
+language data right so we are going to download uh things like uh tokenizer uh
+stop word list and POS tagger
+okay did you all completed this
+can I move on to the
+next name of the first category so far we have just distinguished about like
+linguistic basics and basics of NLP
+see that is exclamatory mark is like we are just with the help of pip we are installing all the required libraries to
+our python
+you're just going to practice NLP
+we just going to understand how NLP works that is that's why we are having this code so through this code you're
+going to understand how a bag of how post tagging is happening how limitization is happening how stemming
+is happening
+purely just only for the
+understanding we know that that NLT is a natural language to which is only used for the education purpose
+maybe I can show you in the PPD itself where I have added all the code
+oh I'm sorry so here we are just installing the required libraries because we just going to practice NLP in
+Python if you want to practice NLP in Python then we have to use the NLP toolkit we need silent scikit learning
+and transformers and touch as well so why we are using pip over here because these are the libraries Python library
+and if you want to install these library into your Python into your IDE that has
+to be done with the help of pip
+only so here we have we are just going to use punk which is used for tokenization so with help of first you
+have to import the uh NLTK this toolkit okay with the help of
+import keyword so once you import this keyword it will uh uh all the functionalities uh classes uh belongs to
+this package has been installed to your local environment okay so through this
+package you're going to download this uh tokenization resource method
+[Music]
+so we are just importing all the tools that we are going to uh use in our code
+okay and we do we have to download word net which is for lemonization these are different fun uh different method which
+is available inside the uh
+NLTK and post [Music] tagging and this is for
+[Music] ne so once you install once you import
+this all this resource to your code and the next step is uh we have to practice
+each um phase of NLP one after the other so before getting into this we have to
+understand what is this NLTK which is a this toolkit is only developed for the education and research purpose in NLP
+and over here we have some pre-built algorithms data sets and this is only helpful for
+tokenization text classification um tagging lemonization parsing semantic
+uh reasoning
+See this module this module is for des um
+splitting the text into words that is node uh uh tok to tokenize is for
+splitting the words from the given sentence okay and the second one second one is corpus so this is for when you
+are going to access a large collection of text so we will be using this module
+okay and next one is stem so the stem is nothing but stemming so over here we are just reducing the words to their root
+form okay and the next is tagging so here we just tag the parts of speech of
+the words okay and we do have chunk in chunk we will be performing uh
+nees I'm sorry ne okay then parse so in parse we are just using the sematic
+syntax parsing text using grammar rule okay and classify this is a tool for
+text classification and over in metrics once everything is done we're just going to evaluate through the NLP model
+[Music]
+okay so any doubts till
+then sure i will show the commands on second
+they all ask the same question let me let me show you once
+again you want this slide or the import slide
+if you're talking about
+[Music] import so these are the required libraries once you install all the
+required libraries we will be downloading the all the required modules from the NLT package
+[Music]
+should I move on to the next slide
+yes I I will show the previous
+slide so these are the libraries maybe if you all want I can uh copy paste the
+libraries in chat
+once that you can use it up i have shared all the libraries in chat
+after the debase we are just going to use NLTK which is natural language toolkit
+so over [Music] here we are downloading all the
+resource if you all want I even I can
+Maybe I dropped those in chat maybe you can use it up
+next we have seen the uh introduction okay and we have seen the
+major components of NLTK so here we have the common
+functionalities over again so for semantics we have to use the module tokenize so for removing the stop words
+we have to use corpus dots stopwords and for stemming we have to use nltk stem uh
+porter stemer okay so these are the common functionalities and these are the corresponding modules for
+that okay so once you download all this and now you have to import it
+so so here I have the common uh simple
+code okay we'll see this code tomorrow i stop over here so in today's class we have just
+understand uh we have just tried to create the IBM skill network um account so for a few it is done
+successfully for few it is not turn up successfully so those who are not for those who are not turned it up
+successfully please try it once when try to sign up the IBM skill account okay
+so if possible I try to get any one of your credentials and try to uh create
+the steps
+okay and I will share the v uh video in uh prollearn as well as in
+um WhatsApp
+group no worries it's fine okay now it's time it's the query time
+so if you have any doubts if you have any queries related to the today's session please drop your queries i'm I
+will answer one after the other and if you don't have any doubt any queries you can leave the session thank you so much
+for joining and if you have any concerns about the session how it can be uh uh
+like how it can be make a very interactive if you want to add anything
+to the session please drop uh uh I always welcome your uh suggestions and feedback you can drop it in the chat as
+well okay Pranita uh regarding the prologue prolon is under maintenance
+either by today or tomorrow you can able to access prolon okay dear
+yes Nagarbal you're supposed to type this in your if you're using VS code then of
+course you have to use in your terminal by dear
+[Music] byas sure Michael so what is subming and uh uh ner again okay I just share the
+Three
+maybe I can do like this
+okay so over here let's let's take an example okay
+um so let's take one sentence m give me a sentence
+okay so this is a sentence okay so in this the first step is are you able to see my screen
+is okay so here I have the uh example Sachinar played cricket in India okay so
+over here first we just going to do um token so what is token splitting the
+text into multiple words small small word is called as tokenize okay so now what NLP
+will do it will [Music]
+break so it will do uh
+suchin okay so in tokonization it will split all the words into sorry uh it
+split the words from the sentence okay one one word okay after then the second one is stop word removal so over there
+it will remove all the unused words so from this sentence it will remove n
+because n is not used not useless in the sentence which is uh stop word removal
+okay and third one is stemming so cutting the words to their root which is called a stemming okay over here it is
+mentioned as played so it will be cuted as play so why we are doing the stemming to
+treat all the words all similar word as once so that is the reason we are doing stemming okay uh stemming and the next
+one is lemonization so in lemonization is smarter way of stemming you are clear with that and you want me to explain
+named entity recognization so over here what we will be doing we are just giving the
+um uh name place like finding names like uh giving the noun to this okay so over
+here Sachin tendur is a person right india is a location yeah so why we are
+doing that because we are extracting the real world information from the given text so we will be giving the place uh
+people name dates etc that is called as ne is
+it
+clear Michael sorry m
+Okay Michelle thank you ma'am after logging into the IBM it is showing button catalog what to
+do um I'm not clear with you're in which screen you're asking after registering
+the IBM skill build sure shoubam so the last step is like ne
+which means from the given context it will add the noun name place uh date to
+understand the uh context of the
+sentence okay hope all your doubts has been sorted
+okay if it is showing like that please keep it uh as it is we'll discuss [Music]
+tomorrow okay if you're not able to complete sh uh shani please try after
+some time okay thank you so thank you all hope all
+your doubts has been
+sorted and I can understand uh Shvani Shani I'm sorry
+um so please try after some time maybe the site might be busy the server might
+be busy so you can try after some
+Okay come reminiscation means like it is the smart
+Smartest naming is called as lemonization which means removing all the tense from your uh sentence for or
+the word see if you're done logging into the skill bill well and good nagi will do
+tomorrow the upcoming steps now the class has been completed
+i'm just sorting the uh queries whatever queries coming on the chat I'm just sorting it up all right hope all the
+queries has been sorted no queries for the
+day is all your queries has been answered can I end up the session can you all please respond
+yes thank you all meet you tomorrow bye-bye take care

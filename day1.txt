@@ -1,0 +1,666 @@
+what all right let me give you the quick recap of what you're going to learn in this course and then I'll switch to the
+next slide so so what you're going to learn in this course you're going to learn about the
+basics of generative AI fundamentals where what is it what is generative AI how it is different from traditional AI
+and you will be going to learn the modern architectures yeah like uh transformers LLM which is large language
+model yeah and you're going to have the hands-on experience with IBM Watson AI
+okay so whatever topics you are learning theoretically will be exercised will be practically exercised over the platform
+what's X okay so with that you're going to learn how to choose how to fine-tune
+foundation models how to perform prompt engineering how to classify extract and
+analysis data how to use pre-built labs to practice the real world use cases
+yeah so these are uh these uh these uh will be exercised in plat uh what's an
+AI platform okay and you going to learn the prompt engineering techniques how to craft effective prompt uh how to apply
+the techniques to reduce bias how to improve accuracy uh grounded uh AI
+generated outputs so these techniques you will be learned under the prompt engineering techniques okay and you're
+going to work with foundation models so in that we do have concepts like
+understanding tokenization embedding and in a working LLM yeah how to choose the
+right model for the scenario given real world task and you will be learn how to
+approach any problem uh how to scalable a foundation model okay and you will be
+going to learn about uh how to use rag pipelines how to generate rag pipeline
+which means how to combine LLM with external source using
+rag and the same thing will be exercised which is practiced over the platform
+Watson AI and you're going to learn how to build and deploy AI powered chatbots uh
+which will be practiced in Watson AI as as well in how to integrate uh the chatbot with
+natural language responses so uh as I said before we're
+going to practice all the concepts in IBM tool which is called as Watson AI okay so in that we will be learning uh
+real world industry use cases like legal automative customer services
+so these are the topics that you're going to learn in this course hope it is clear
+okay now after completing the course what are the skills will be enhanced now
+let's look on that so once you complete this course you will be having these are
+the skills that you that has been exercised over the course so you are
+able to build a solution geni
+solution so which means using Watson you can able to build and test generative models okay
+and you will be good in prompt engineering so which means uh you you know how to apply effective pro prompt
+strategies and techniques okay and you know how to
+apply foundation models which means you you you will be having a very good understanding on how to choose and how
+to work with foundation models in IBM okay and uh you have a good skill on
+implementing rack which means building a hybrid system that combines LLM with real data and you can create chat bots
+uh using IBM Watson you can able to build and integrate the conversational
+agents so these are the skills will be exercised these are the skills will be
+sharpened once you complete this course after this course so is it clear
+okay so now you have a clarity on what you going to learn and what will be the
+uh what are the skills will be exercised after this course what are the skills that you got after this course now let's
+understand the uh progress the road map of this course
+okay so you will be this is a sample certificate so after completing this
+course you will be get a certificate from us IBM Certificate so how to get
+the certificates so over the course you will be getting a IBM C login right and
+you assigned to the course uh geni using what's next okay so there for every
+module you will be having a set of quiz you have to complete the quiz and this certificate will be generated so if you
+ask me this only this certificate alone is um enough to um get marks for this
+course no okay so we do have one more as I said mentioned earlier we have a LMS
+which is called a prollearn okay in the prol we will be having different evaluation periodically over this 20
+days okay so every uh for example it can be a quiz it can be a assignment okay so
+everything considered um every task is considered for the marks okay so cumulatively the IBM
+Certificate plus the marks which you are getting from this prolong assessment uh
+will be given as a final marks that you got from this course am I connecting
+okay so you will be getting all the credentials on uh on or
+Monday your IBM CP access and your prologue access i think you all must
+might receive your IBM C access your prologus will be given on Monday uh all
+the session recordings materials which shared in the classroom everything will be posted over there you can watch it up
+recordings uh session materials uh and any task which is assigned those also
+will be marked over there you have to complete the task and you have to upload the uh your work in LMS only in prol
+only
+yes sometimes assignments will be conducted in the live class as
+well okay so if you don't receive the uh IBM CP credentials no worry you will get
+it soon
+once the ass when I uh announce the assessment or sorry assignment we will I will let you know about the deadline as
+well okay so I guess no uh if things are clear to
+you and someone asked me like uh if you missed the session slot one can I attend
+slot two if no the answer is no you cannot if you are assigned for slot one
+you have to fix with sorry you have to stick with this class only and uh I will
+be sharing you the WhatsApp link if you have any queries you can post in that group WhatsApp group it's
+just a second give me
+So in chat I have shared a link it's a WhatsApp
+link so just click on the link and you um to join the group if you have any
+doubts um you can post it over Yeah
+okay hold on a minute i just check on about uh the WhatsApp link and I let you know okay
+all right shall we start the
+session so before we uh Okay I just missed out one more
+thing and this is our today's objective in today's session we're going to understand about what is generative AI
+history of generative AI yeah we're going to understand the difference like what is AI ML deep learning and we're
+going to understand neural network okay and we're going to understand about deep
+learning architecture and we're going to have a hands-on like which is going to uh
+generate random text using the mac over chain so these are the things that we're going to cover in today's
+session so
+Okay so before we before I start up the session I have a scenario okay uh just
+visualize the scenario and drop your answer are you all listening can I narrate the scenario
+yes great okay the scenario is now you uh you open your phone and see a photo
+of yourself as a cartoon character okay your friend says uh I need an AI tool to
+generate that for your selfie in 5 seconds okay another friend replies like
+yesterday I asked an AI to write a poem about my pet or maybe a dog or cat and
+it actually made me cry now the question this is a scenario okay uh and the question is what do you
+think is happening behind the
+scene so what is happening behind the scheme
+yeah let me repeat the scenario [Music] um okay the scenario is you're opening
+your phone and seeing a photo of yourself as a cartoon character okay uh one of your friends says that I used an
+AI tool to generate that from your selfie in 5 seconds okay another friend
+replies uh yesterday I asked an AI to write a poem about my pet okay and the
+poem was like actually made me to cry so this is a uh just a small scenario okay
+uh from this scenario I have a question what are you thinking is happening behind the scene
+okay yeah some text generation image generation
+good okay first one is image generation and second one is text generation
+good okay ai is working funny
+okay okay now since many has given the answer
+of AI I now let me ask how do you think AI is able to do creative
+tasks how do you think AI is capable to do such creative task
+drop your answers
+please drop your answers i'm looking [Music]
+neural networking training by human
+okay feed more data in order to train it okay i got so many answers
+very good thank you so much for all the responses um so how does AI creates
+human like and creative outputs just trying to um mimic like a
+human just trying to um create replicate human emotions so those comes under deep
+learning model and this process is called as generative AI so what is generative AI it's a AI model which
+ables to generate new contact content like text image code etc now I have a
+question what uh how geni is differ from traditional AI so we have traditional AI
+right how it is differ from Gen
+AI heavy training data
+okay my question is how gen AI is different from traditional AI generating new content okay
+okay okay good many of you given the right answer let me give my answer okay
+so gen uh traditional AI can do predictions and uh classifications based
+on the data which we have fed already
+right so traditional AI help us to help us on decision making based on the
+patterns in data whereas gen AI which help us to create new content it can be
+the new content can be a text image or a music okay so by learning the patterns
+from the train data it will create a new data so traditional AI help us to
+predict and gener help us to create the new content okay and what kind of output
+this traditional AI can give it will give any um like uh uh it will choose
+data from the predefined rules okay whereas in Gen AI it will not see u the
+content during the training it will create based on the data which is trained
+already can can you all give a example for traditional AI one example for traditional
+AI uh very good stock prediction alpha okay okay search engine accommodation
+very good very
+good so we can say uh spam email detection um
+uh image classification voice search phase detection so those comes under
+traditional AI when it comes to generative AI we do have charge GBT where it will write article it will
+generate image it will uh give uh code yeah and we do have DL e which help us
+to generate images from text yeah and we do have some AI which compose music and
+generating code so this is a difference between traditional AI and uh generative AI okay so how we have to feed the data
+when it comes to traditional AI it will learn patterns and apply them to the
+labeled and categorizing data okay whereas in generative AI it
+will learn structure of the data and from the structure it started to
+generate a new similar data so this is how traditional AI and gen uh geni datas
+are dependent okay when comes to the techniques core techniques yeah in
+traditional AI we will be using either supervised learning unsupervised learning yeah where we'll be having the
+concepts like decision tree SPM random forest logistic regression yeah whereas
+in gen AI we are using the core techniques like transformers diffusion
+models yeah generative uh adversal network which is GANs so
+these are the core techniques which involved in geni hope you all got the
+difference between gen AI and traditional AI is it clear shall I move on to the
+next am I going fast am I speaking fast is my pace is okay with you all
+yes we do have uh someone is keep on asking about the attenance criteria from the beginning yes if you're concerned
+very much about the attenance yes we do have the attenance criteria to pass the C exam
+[Music]
+uh I will be giving only the slides the PPT what I'm showing in the
+classroom will be uploaded in the
+LMS okay
+moan sai um how will you record the attance you're you're registering to the
+Zoho right every single time you're joining through the Zoho
+right okay shall we move on to the next
+topic
+yes so here I have few real world examples for the um text generation so
+if you want to generate a text we can use either chargy
+claude uh can anyone tell me some other AI which can be used for generating
+text very good slider good co-pilot yes good meta good perfect so if you want to
+generate an image we do have tools like uh
+Dolly Mid Journey if you know any other AI which can generate image you can put
+it on the
+chat okay so if you want to generate a music uh these are the tools which you can
+generate music and if you want to do code we can uh we can use GitHub
+copilot okay
+all right I got so many answers thank you thank you for the response now we'll move on to the next
+topic so here we're going to understand about the evaluation of generative
+AI okay before before going to this I do have a question to you all
+so if you want to generate um
+um a new uh context it can be a text image or um song which one you will
+choose and tell me why
+My question is clear
+let me ask the question again uh if an AI could do anything instantly do one
+creative task for you like writing a poem or painting a picture or it can be
+designing a dress or writing your homework what would you ask it to do first and tell me why
+okay plot for code okay charge
+GPT okay
+okay good uh interesting responses thank you now let's understand
+the Great now let's understand the um evaluation of Gen AI so in early
+early days early foundation 1950s to 1980s we do have the concept called
+rulebased system okay so AI focused on rulebased logic and symbolic reasoning
+okay uh which is very limited mainly this is used for uh uh uh generating
+games okay or some basic automated response okay uh for example if you take
+in 1966 something uh there is uh there is a called Eliza okay it's a rulebased
+chatbot which will mimic some uh psychotherapist using pattern
+matching okay so in early foundation 52s 80s we have AI uh which is purely
+rulebased step okay that AI focused on rulebased okay and which is very
+limited and in statistical model era which is from 1990s to 2000 we do have
+prob probabilistic model which means we are slowly they are slowly shifted to
+probabilic approach which means um we do have something called hidden makeover
+model HMM okay and engram language model these two are the approach which was
+used on '90s 1990s to 2000 okay these two are help us to generate text
+generation basic text generation and mostly it is used for autocompleting or
+simple sentence building this
+AI okay so in early days we do have rule based approach this rule-based approach
+is very limited and it is help us to focused on uh rules and uh like uh
+rule-based logic and symbolic reasoning okay in 1990s to 20 uh
+20ou 2000 we do have the probabilistic model it it is uh following the approach
+of hidden markover model okay uh which means basic text generation like
+autocompleting uh or creating a simple
+sentence okay from uh 2010s okay where
+the rise of deep learning architecture like CNN RNN don't worry we'll learn
+these terms in detail in the upcoming slides Okay so these help us to create a
+coherent sequences of text image music
+okay so this in 2015 we do have something called deep dream uh which
+help us to by Google this was by Google okay it help us to producing dream like
+images uh from 2014 we have the GANs okay which
+means generative adversal network okay uh this help us to create some realistic
+images videos even faces as well so where deep fake videos are started to
+evolve like some realistic human face okay and from 2017 uh onwards we
+have the transformer era okay so uh that was the time of introduction of
+transformer okay and we have the LLM which is large language model okay with
+help of these two they started to build a model like uh GPT yeah so there was a
+revolution on natural language understanding and generation so there we
+uh during that time we have the charge GPT version two which is released on
+2019 and charg version 3 which is released on 202020 now which version are we are
+using of
+Yes chat GPT4
+good great
+okay so from 2021 onwards we have the generative AI which is multimodal
+generative AI has been evolved from 2021 onwards this model can pro process and
+generate text image audio and video so that is why we do have the open AI um
+uh we have the models like open AI open AI uh doll E uh GPT for fourth version
+from the fourth version only you're able to generate image uh and uh audio video
+everything so we have
+Germany so let me give you the timeline in short so from 1950s to 1980s we have
+rulebased
+generation if you want you can make a note of it
+yes all the slides will be provided after this session everything will be uploaded on
+LMS okay someone asked me what is rulebased generation okay um uh you can
+say this rulebased generation um this is a old way of meth like in early days in
+school if you want to write an essay uh your teacher will be giving set of rules
+yeah predefined rules so if it is a essay always it should have minimum three paragraph yeah you should use um
+if you're writing a positive essay you should use only the
+um happy words yeah and okay let's take for example for a poem if it is a poem
+uh every line must have only five words and all the rhyme uh the last word
+should have the rhyme yeah second and fourth like all the alternative line should have the rhyme yeah uh so we we
+have some uh restriction right similarly in rulebased AI they follow a strict
+handcode logics uh it is predictable but it's very limited
+is it
+clear yes okay so from 1990s to 2000 we have
+the statistical language model uh for that I have given example of um what was
+example I have given make makeover chain right or similar like that which means
+uh they will be giving a set of
+ouch okay so they will be giving a set of word from that a basic text
+generation will be happen for example if I try to uh type
+um good and automatically it will show some suggestion like night afternoon or
+evening yeah so such kind of uh automatic generation has been uh
+generated text has been created from 1990s to 2000 yeah from 2010 we had the
+deep learning and RNN okay from 2014 onwards we have the GANs for images and
+video in 2017 onwards we have the transformers LLM like GPT yeah so from
+2021 we have the multimodel generative AI which can able to create new
+things so what could be the future
+okay someone is asking what is multimodel multimodel means where you can uh get multiple types of data which
+is called as multimodel
+alita I didn't get what is your question can you please uh explain it you want me
+to explain each algorithm right away or how
+do now we are using multimodel generative
+AI from 2021 plus we are using multimodel generative AI
+Bye-bye shatakumar I'm so sorry i'm not ignoring your question my inbox is dumbing with many uh responses so I
+could I I can see from the uh last only i'm so sorry i'm not purposely ignoring
+any of your messages
+all
+right so we'll move on to the next Sure I will be explaining
+uh about RNN and CNN when we uh when we start to learn about deep
+learning in upcoming slides i will explain those okay now I have some uh
+some interesting information so there was a person who is called as Alan Turning uh this he is called as the
+father of computer science okay in 1915 he published a paper
+Um he published a paper uh in AI okay in that the paper name is computing
+machinery and intelligence it is published in 1950s okay in that paper turning asked a question a set of
+question okay can machine think okay um he offer a uh offer test now famously
+known as a turning test okay in
+1956 a person called John McKur who coined the term artificial engineering
+sorry artificial intelligence it's just for an
+information now let's understand what is AI ML and deep learning are they are
+different or same is AI ML deep learning are they are different
+or they are same what will AI do in future
+[Music] um maybe I think in future it will be
+became more personalized
+what do you think
+that pages of same book okay
+okay I can understand it's your uh in your perspective it is it won't be
+personalized why why don't you think like that why it can't be
+personalized so all are almost same okay
+now let's understand um these three terms in detail okay now
+tell me what is
+AI in simple mean one word in simple term tell me what is
+AI don't say artificial intelligence okay
+agree with your points
+Chase it is a agent good good
+answer get human good navin computer brain
+okay gt
+okay all right so I got so many
+answers we can say uh AI is a machine which thinks like a human
+uh maybe we can put in this term human intelligent exhibited by a machine
+right um so from when AI gets started can I get the
+answer from which era we have AI
+very good 1950s so from 19 started around 1950s we
+have this AI ai is a mimic human uh cognitive function such as learning
+reasoning problem solving and perception for example a chatbot that can answer
+like a human example
+Alexa so we do have chatbots autonomous car robotics so all these comes under
+AI now what is ML
+ml is a subset of AI where machine learn
+from data to make the prediction
+decision without any special programs which is called as ML so from when ML
+starts evolved let me see the
+answers very good
+Disha okay now the right answer yes
+um I got so many answers and the right answer is 1980s around 1980s this ML has
+became more prominent okay so with help of ML you can able to filter your emails
+um you can learn the message which can be blocked or unblocked yeah in uh if you are watching
+uh if we take any OTTs okay let's take Netflix where it can recommend movies
+based on your past watching habits [Music]
+yes so in this ML only we do have the supervised learning unsupervised
+learning and reinforcement learning these three techniques are used to train the
+machine for the predictions i hope you all very clear
+with what is supervised unsupervised and
+reinforcement so those who don't know please drop in chat maybe I can explain you once
+okay let me explain um as I said before machine will learn from a given data we
+just going to train a machine to understand the data in that we have three types uh data can be in two ways
+one is structured data another one is unstructured data so uh if it is a
+Indian mobile phone number how many digits it will be if it is a Indian mobile phone number how many digits it
+will be any city in India it will be in 10
+digits right so if I want to make a Excel sheet where if sorry if I want to
+make a database where I'm going to store this data I can set the data limit as 10
+where all the digits will be stored this type of data is called a structured
+data okay so if you are dealing with the structured data then we have to use the
+algorithms of supervised learning okay and we do have another
+type of data which is called as unstructured data for example if I take
+if is all your Instagram feeds are same or different tell me is all your
+Instagram feeds are same or
+different is all your Instagram feeds are same or different
+is all your Instagram feed same or different i didn't get any answer maybe network issue just a
+minute i just charge my laptop
+it will be different right so if I want to create a database for each of your u
+fit data will not be same right uh some will get 10 likes some will get thousand
+likes some will get few comments some will get more comments yeah so this is called as unstructured data if If you're
+dealing with unstructured data then we have to use unsupervised learning okay so in when you're going to train a
+machine you have to use any one of the machine learning algorithm okay the algorithms are classified into three
+types of learning which is supervised learning and supervised learning and reinforcement learning let's take an
+example of uh weather prediction okay with help of
+fa past weather data can I predict tomorrow's data with help of past data
+can I predict tomorrow's weather data i'm sorry can I predict tomorrow's
+[Music]
+weather yes right so I know the input input is last past
+data weather data right so which are called as labeled data okay so when you
+are dealing with when you're going to train a machine with some labeled data
+yeah from that you're going to predict the future to get the correct answer which is called as supervised learning
+in supervised learning we do have the algorithms like regression classification
+[Music] um decision tree so we have many algorithms
+okay and the next one is unsupervised learning okay this model is trained
+based on unlabelled data uh we you don't have the answers you will give the
+possibilities from the possibilities it will categorize the inputs and from the
+categorization it will predict the pattern and from the uh after the production it will give the answer for
+example you're taking a survey in a mall uh the customer's preference so based on
+you don't know what the customer like exactly so you will ask 10 set of questions to understand his likes and
+dislikes from that you're going to decide okay this set of audience likes this product so you can sell to them
+which is called as unsupervised learning for unsupervised learning we will be using
+um uh algorithms like what are algorithms that we have uh k nearest
+algorithm uh then hierarchical algorithms many algorithms are there
+those algorithms are help uh used to train the model and third one is
+reinforcement model okay this model is it will learn by trial and error method
+we don't have the exact input or output okay whether it's a labelled or unlabelled you're just going to um uh
+try from the uh datas okay uh for example let's
+take an example um you're creating a robot okay and to that robot you're
+teaching how to play the games or how to walk
+so the robot will teach from the actions right so these are the three different
+algorithm which we which we used in machine learning hope it is clear to you all
+[Music]
+i miss my uh sorry uh is my screen is not visible huh
+okay I'm so sorry just a minute let me share my screen again
+hope it is visible now
+okay all right so hope you all clear with the uh supervised unsupervised and
+reinforcement model
+okay let me explain the unsupervised learning
+again see when uh if you are going to train a model okay with unlabelled data
+which means unstructured data you couldn't predict the input or output for example let's take your you have a robot
+okay to that robot you are teaching um how to identify the fruits okay so if
+you know the vegetable name you can easily tell okay this is carrot this is pumpkin those have some label so if you
+have the labels label data you can easily predict the output which is
+called as supervised learning okay in supervised learning we will train the model with label data we know the data
+with answer okay when it comes to unsupervised learning we don't know the
+data uh we don't have the uh label data we will be having unlabelled data which
+means no answer is given for example a person is coming
+uh with few symptoms and he doesn't know what disase is that the doctor has to
+predict what disase that the patient is having so he will be asking a set of question uh to understand um
+the dis okay so from the uh patient's answer he will find a pattern and
+confers okay you might be suffering from COVID yeah this is called as
+unsupervised
+learning sham is it clear
+no you cannot categorize ji into any one of these three types these are machine learning algorithms
+so the real time uh applications of machine learning are in emails you are getting your spam spam mail filters
+right and we do have the uh fraud detection have you all seen if you are trying to pay in transaction with your
+debit or credit card you if if it is a uh fraud transaction it will give you a
+alert of um stopping your transaction so fraud reductions can be done even in
+banks they do have uh the loan approvals so based upon your transaction sibil
+score they will check whether you're eligible to take this loan or not yeah that is uh machine learning it's because
+of the machine learning algorithm and product recommendation so in your Amazon
+if you are buying a product yeah based upon the product history it will suggest
+a product for you so all these are example of machine
+learning now let's understand the deep [Music]
+learning [Music]
+so deep learning is a subset of machine learning okay uh ML techniques that
+mimics human brain function that is deep learning okay so in in human brain we do
+have different we have many small small neurons right so the subset of ML that
+use deep neural network we do have multiple layers these layer process
+large complex data like image audio video so that is called as deep learning
+so from when deep learning
+evolved it's from
+2010 very
+good so if we see the examples of deep learning which is face recognition in
+phones yeah so after 2010 we got the face uh in mobile phones we do have the
+option of face unlock right voice assistance
+So these are the real time examples
+of deep
+learning okay you're not able to see the full
+leage one minute let me share the screen again
+give me a minute so till then do you have any doubt like do you got the clarity of what
+is machine learning what is AI what is ML so all the or are are same or not are
+they all same or they are different
+so
+so now let's visualize this they are not as yeah there there is there is a difference
+so so it's like an umbrella so in AI this ML DL and foundation we have missed
+foundation model so what is foundation model that is generative AI the one which we are using
+right so this this is an advanced AI model which built using the transformers
+a type of neural network okay which is help us to generate
+content this model like this foundation model trained on large diverse data set
+so it can perform multiple task so from when foundation model uh like this gen
+AI evolved it's from 2020s so if you have taken the example of this
+generative AI we can say chat GPT IBM what's an X
+AI so if you give a code if you give a text prompt this Watson AI will give
+code for it okay so this is a general visualization of
+Okay just come so this is a visualized relationship between the uh AI ML DL and
+FM which is gen AI so these three uh these are the subsets of AI which all comes under AI
+these are not same so here here we have the comparison
+table so AI which is a simulation of human intelligent and what is ML it will
+learn from the data to make predictions and DL it is for deep neural network for
+learning so AI use rule based or logic uh learning approach ml use statistical
+model and DL use neuronet network with multiple
+layer here we have how machine learning
+works okay so here we have the common misconceptions so
+uh most of us think that AI MLDDL are equals actually they are not equal they
+are different how they are
+different so AI is a broad concept it's about machine mimicking human
+intelligence right ml is a subset of AI so ML uh learned machine patterns from
+data and from that it started to the prediction okay so DL is a subset of ML
+ml subset is DL okay this uh DL used neural network which has many layers to
+learn complex pattern so they are not equal
+okay so all all these ML A uh MLDDL geni
+all are involving AI learning methods is that
+true for example rulebased systems or AI but not ML is it
+true not all AI learns
+so this rule based system like experts the system or decision tree or hardcode
+logic are part of AI but they are don't learn from data so they don't follow if then logic
+ml follow if then
+logic uh if you want an example see uh we do have the AI chess game yeah chess
+AI in chess they have fixed rules no learning from the past but still it is
+an AI and here we have the DL is always
+better than ML is it true is DL is always better than ML
+no so deep learning is when you have a very lot of data computational power
+complex pattern yes during that time we will be using deep learning but it is
+resourceheavy it need more GPU it need more memory it needs huge label data set
+yeah so in many real world use cases if you take uh fraud deduction or if you
+take score calculating Yeah
+so ML is often better for smaller and tabular
+data it is not DL is always better ml is also often better depend upon the data
+set and it is not true all AI learns on uh it is not true because rule-based AI
+does not involve in
+learning only ML DL foundation model only these three are involved in
+learning uh AI is not not all AI is involved in
+learning and AI MLDDL they are not same ML is a supererset whereas sorry AI is a
+supererset whereas ML and DL are the subsets
+um hope till then things are clear to you
+So can we uh can we do some practical because so far we are learning only
+theoretical can we do something in practical
+um pretty I'm sure I can see all your chats so long you're asking the same
+question okay so are you all good in Python shall I give you some task in
+Python are you all good in that
+how many of you are not good in Python please put me put on chat
+this
+okay only basics okay uh let me explain you the task okay
+first not good in Python okay just give a try
+okay no problem maybe at end of the session I can share you all the links once again
+okay this task is all in in Python only shall I give the task then shall we do the task
+then yes so remember um after AI what is
+evaluated I have we have just discussed about the um evaluation of AI right so
+in 1950s to 1980s we do have the rulebased generation
+right so from '90s to 2000 we have the statistical model era yeah so over there
+they have used mark over model now we're just going to try that model okay we're
+going to create a basic text generation
+okay okay let me let me open a whiteboard there i will explain
+you i'm so sorry i I just not prepared any PPTs for the task
+yes you can use any of your ID if you're good in notebook you can use notebook if
+you are good in um VS Code you can use VS Code
+stop
+shoot so this is our task
+we're going to generate a random text using the concept marco chain okay now
+let me explain you what is marco chain okay
+so this is a stat statistical model which was used in early uh 20s okay so
+this will help us to predict the next word
+for example [Music]
+um if I if you're training the text
+okay If this is a training text okay the cat sat on the
+mat so how this algorithm will work okay it will breaks the word into pairs okay
+this pairs is called as engram
+okay so if it is cat if it is cat then next if it is the
+word the then next word could be either cat or matt okay so if it is the word is
+cat what will be the next word
+what should be the next word if it is cat what should be the next
+word very good it should be sad right
+so if it is sad what should the next generative word
+it is not understandable okay let me explain you once again okay see this is
+mac over chain is for text generation okay uh it will analyze the body of the
+text which you have given okay so from the text what it will do it will split
+the text into multiple small small words okay with the words it's try to uh
+choose the next word on the pro uh pro probability for example if it is cat the
+next word if you're writing a sentence we use grammar uh projective adjective everything right so it for for example
+first time you will teach them okay if it is cat then it will be the next word should be sat
+so like that we have to train so we have to give
+on so if it is
+on then next word will be
+the last if it
+is Matt And that's the end the generation
+should end here so this is the core logic now what
+we have to do we have to create the Python libraries maybe I
+can write it down here
+we have to create the possible libraries in Python
+so how to create the library in li if it is a
+sorry dictionary right so where we have to give
+the so if it is a dictionary what is the rule in dictionary we have to give
+the key and its value right
+are you able to
+follow this so already I just created the
+library in Python i'm just copying that and putting it over here
+[Music]
+so did you understand the core concept
+now shall we write the uh Python code for this concept
+so can you all try
+Proed Adita from next time I try to create a PPT event for the uh task
+please don't rely on JPD for creating the code try by your
+own just the in-class session
+okay let me repeat the
+instruction i'm so sorry i don't have any idea about it sure let me explain the code how to
+write it up
+let me open my notebook
+just a second i'm just opening
+notebook going to share my screen please be
+eight you don't need to submit this just for your understanding just for in-class session you don't need to submit this
+code um okay jupyter notebook has been loaded
+okay first what I'm going to do I'm going to um import the function random
+because uh I want to generate the word randomly from my dictionary okay so I'm
+going to import the Python inbuilt module called random so import
+random next what I have to do can anyone guess it up now I have to give the text the text
+which I'm going to train okay so uh this is my output text it's just a simple
+text okay so I'm creating a variable called text in that variable I'm just
+going to uh store the value so this is my variable inside this variable I'm
+storing the sentence life is
+simple but we
+complicated okay so this is my input uh uh sentence and I'm going
+to make build the marco chain okay just on the simple sentence okay first what I
+have to do I have to split the text into small small words right so for that I'm
+going to use a inbuilt method i'm just going to create a variable called world in this word variable I'm going to break
+the sentence into individual words by splitting small small spaces so which
+one I have to split which variable I have to split i have to split this variable called text
+because in that text only I have stored all the sentences right so here I'm just
+giving the variable text dot split oh
+my Python what my Python will do my Python will divide all these thing into
+small small uh chunks right now I'm going to create a empty dictionary to
+store this marco chain uh each key will be a word and each value will be the
+list of word can follow
+it first let's build the
+dictionary chain equals okay so in this I'm going to I
+don't know how to call it up right so what I'm going to do I'm going to use the
+looping for loop okay through the loop i'm going to call each word except the
+last one why we are calling the last one we are not calling the last one because the last one looking for the it's not
+looking for the next word remember first word will looks for the next word next word will look for
+the uh another word but the last word it don't have any uh next word that's the
+last right so I have to look for the last before word
+over here I'm going to write a for condition for I in
+range from where I have to going to check from the word right first I have to calculate the length because I'm not
+going to look for the last word okay I'm
+sorry i could do like
+this okay so for I in range of length worth minus one see from the uh variable
+word I want to find the last before word from the last before I have to repeat
+that many time I don't want the last time that is why I'm calculating
+length inside
+that I created new variable word so from the word this one in array in
+array value if it is zero the new word will be stored in the word and next
+successive uh variable will value will be stored in the next word so continuously it will be move on like
+that so word stores the current word and next word source comes immediately after
+that in the text okay and over here I just used chain dot set default word and
+with that I just already there there is already there is no key in the dictionary so I'm creating a empty list
+and and then I'm just adding that to the new word next word that ne next
+immediate word so this will build the dictionary of word
+transition now I have to pick a word randomly from it right so what I have to
+do
+then so from randomly I'm just going to pick from the words and I'm just storing
+that in the
+Third I can give this code all in
+once i can explain it to you
+so this will randomly pick the code pick the word okay and we have
+given for in range of 10 we are generating up to 10 or more than 10
+words to create a new sentence okay and to get the list from possibly the next
+word for the current word we have used next word equal to current word we are
+just doing the swapping and if there is no next word we are just
+stop generating it up now let's see the
+output very
+complicated the code is clear if it is not clear uh maybe I can share this code with you all in
+chat this is simple one easiest
+one i have shared this code in chat
+so any doubts any query on this Good
+i have shared the code okay let me share it once again
+i have shared this code
+sure okay first let's decode this code maybe I just over it i just add it over
+here okay so what is our input quickly let me uh give it to
+you so this is our input right so over here we are just splitting the word so
+word in words in text I have given this word so in words I'm just uh splitting
+the words into small small text okay so what I will be getting i will be getting
+something like this right now here we are just going to use
+the marco chain uh algorithm right so how do we build the marco chain we will
+be we have to create the dictionary so the dictionary will be something like
+this so life is if it is if is we will be giving simple if it is simple we will
+be giving the next word is but for but the next word is we for V the next word is complicated for complicated next word
+is it okay so this is a we are just dictionarying the word so it is the last word no next word so it is not in the
+chain okay so now word is equal to since we have used random choice word word
+will will pick any word for example let me take but okay if the word has picked
+the random word but now how it will
+work it will uh if word equal to but so after but what is the next word v after
+v what is the next word complicated after complicated what is the next word it so it is the last word it ends here
+there is no other word right so we got the
+result but we complicated it so that is that is the result that we got is it
+clear exams will be in the MCQ type okay maybe I can share you
+this also for
+understanding okay with this we are winding up today's session
+i will share this uh PPT i will share this task everything in um LMS okay once
+the LMS is ready there I will put everything
+okay in today's class we have just discussed about uh what is gen AI what
+is the difference between geni is different from traditional AI and we have seen the difference between
+AI ML um deep learning and found foundation model and in ML we have
+discussed three types of learning in detail and we have just seen a small task in py Python right so if you have
+any doubts you can drop your doubts in chat if not Thank you so much for joining the session we'll meet on
+tomorrow's evening 5:00 thank you all if you have any feedbacks or if you have
+any expectation about the session please drop in chat
+uh Shivam uh for this course like if you want to if you consider about this geni
+with Watson X we are not going to use Pythonm okay because in that tool uh it
+will automatically generate the code for you this IBM Watson
+tool the recordings will be there in LMS you can access it at any time and you
+will be receiving the LMS credential on one day yes thank you
+all q yes you can leave those who don't have any doubts
+you can leave the session thank you all
+see if you if you are joining the first slot then you have to join all the all
+the session in first slot only if you are joining the second slot then uh if
+you're in second slot then you have to join all the slots in second you cannot alternately switch
+from one slot to next
+slot kakash what is your
+query access will be given on
+Monday you will be receiving all the uh uh portal credentials on Monday
+tomorrow you have to join the session same link sure I will explain the marco chain
+concept once again tomorrow right then thank you all I
+don't think so you have any queries
+So I will explain this concept on second by tomorrow

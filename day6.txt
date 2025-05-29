@@ -1,0 +1,710 @@
+hello everyone good
+evening the recording has been added in the uh prologue access you can check it
+up so hi good evening
+IPSA good evening Adita all right see all the recordings
+has been yes good evening everyone all the recordings has been added in your prologue access uh and your prolog
+issues has been uh getting fixed okay I think most of you can able to log in your prolog run now
+arj I didn't understand when did you get this uh
+error everything has been uploaded in the prologus yeah it's
+accessible so far I think five classes has been complete completed so four
+classes has been uploaded they will upload today's uh and yesterday's in the portal
+okay I told you right uh part of the issues has been sorted uh technical team
+is working on it and they will fix it
+up yesterday's session will be added by today
+pp materials has been added uh if you want I can show it now one
+second and I will share my um
+So once you log to your uh prolong you have to scroll down where you can see
+many option okay the first one we do have forum if you have any queries you
+can drop your queries over here in this forum you can uh you can always connect
+keep uh connected with me so whatever questions which comes in your mind regarding the portal regarding the
+course yeah regarding the topic which we are discussing you can ask me anything over here
+okay so in forum you can drop any queries related to the
+genai and below to that we have an option called steps like steps to create
+the cloud account IBM cloud account so here I have uh given the all
+the four steps which I shared in the WhatsApp already I have shared that in WhatsApp uh and still I added that in
+your uh LMS as well you can go through it by following the steps you can easily
+uh completing creating the IBM cloud account okay and below to that we have
+the session recordings so I think five yesterday's session also has been added
+let me
+check okay so 27th is not added i will ask the technical team to add it as soon as
+possible so below to that you can see all the recordings okay so below the
+recordings we have something called course material so in that course material so far we have completed two
+modules module one and two i have added the material here you can go through it
+hope it is
+clear okay I come to that IBM cloud little later first let's fix uh let's fix one after the other
+okay PP middle has been added there is a uh a section called forum in that forum
+whatever doubts regarding to the course uh curriculum uh topic which we are
+discussing in the class you can upload all that in the particular forum
+okay um yes as I told you before uh prologes like people are working on it
+and it is getting fixed by end of the day everyone can access roller if you're not able to
+access you can drop the text in the WhatsApp
+group oh is it so thank you Vik
+so you didn't receive any uh any uh credentials
+diva Dia Shria didn't receive the prolog
+credentials um as of now I don't have uh I didn't upload any task in your
+prollearn uh you received the credential but it is not working am I
+right diva Shrita are you able to login in slot
+two okay i check with the technical team and I'll let you know okay
+okay so now let me show you the steps how to create your IBM skill account a
+quick walk through all the steps has been clearly mentioned in the document still if you're not clear with that let
+me uh quickly show you that okay i guess I I just saw all your um queries in chat
+all all of them are sorted I guess now let me show you the steps to create i
+just go through from this material
+itself so first of all you have to open this skill bill uh site page yeah so the
+link is there if you click on this bolded blue colored uh text it will redirect to the IBM skill account okay
+um skill build page so over here you have to select the option access software download so and then you will
+be getting this page so here you have to give your academic email ID okay once you done you
+can click submit it will redirect to this page register below
+[Music] just a second let me take my mouse give me a minute i'm
+sorry so over here you have to select the option uh student
+so sometimes when you give your academic email id it will show uh something went
+wrong so that might be uh server down because of server down so what you have
+to do you have to try you have to try uh twice or thrice then you will be getting up the page
+so here in registration form you have to select the student okay
+then over here you have to choose your degree degree and department both you
+have to choose computer if you are a uh um computer background then you have to choose computer engineering okay and of
+course you have to select the uh yes for the batch in program enrollment then in
+uh so the current degree and sort degree both are same okay so over here you have
+to choose your department if you are a IT department there will be option called computer information technology
+you have to select the both in this column then from your ID card you could find up your uh grad expected graduation
+date and month you have to fill it up
+i'm sorry I made a mistake so over here current degree sort degree both are same
+you have to choose the engineering stream okay only in department you can able to choose it up the your core uh
+bachelor of uh computer uh I'm sorry computer and IT information technology
+that option will be there you can choose that okay and over here you have to
+accept the terms and condition so just by clicking on the blue color text a separate pop-up window will be open over
+there you will be having the option to accept the terms and condition once you've done everything
+um you have to click on register then the registration has been completed
+successfully and you will be getting a notification mail sometimes you will be getting a error message like the uh you
+have to remove the cookies okay so if you have any such kind of issues please
+wait you your record has been created successfully just wait for the email confirmation okay so in that email
+confirmation you can uh check it up so there you will be receiving a link by clicking that link you can able to
+login
+okay once you complete this step the second step is generating the feature
+code okay this can be done only by the registered
+students not this
+step so again just log to your IBM skill network access software download there
+you have to give your mail id if you once you uh give mail id and submit it will redirects to the skill network page
+so from here you have to choose the option IBM cloud and then select the IBM
+feature code okay and request for the feature code and you will be receiving a
+code okay so you have to copy the code and paste it in any notepad okay once you uh once you fetch the feature code
+the second step is you have to create the IBM cloud
+account you have to go to the URL IBM cloud okay and then there you have to uh
+select the option create account and here you have to give the
+email id and you have to create a password and you have to verify your email you will be receiving a uh mail to
+the given registered email id from there you have to take the uh verification
+code and just please follow the steps you will be getting a code and you have to put up the code over here and in
+personal information you have to give your first name and last name please remember for example if your last name
+is um if just suppose I'm telling for an example if my name is my name is Jani Nitya right so if if my last name is
+Jani N okay so uh N might be my initial okay so what I have to give I should not
+give just like N I have to give my last name properly if it is Nicholas I have to give Nicholas okay Janzi your last
+name should be Nicholas okay just for an example and similarly applies to you okay you have to properly fill your
+first name and last name and then you have to click on next it will goes for
+the account notice okay so over there you have to accept the terms and
+condition and when it comes to account information here you will be having the option register with the code okay
+so and already you have fetched a code right you have a code which is copied in a notepad so from the notepad you have
+to copy the code and paste the code over here okay and then if you click on the button create account your account will
+be created
+successfully yes even for BTE it's bachelor of
+engineering so try in different uh tab so it will be working
+faculty ana um can you please uh make it clear what you didn't
+understand see um I have shared the document in your WhatsApp group so in
+that WhatsApp group I have uh I have give all this uh GitHub link so you can
+use the document and please do complete
+it am I talking fast i'm
+sorry yes this document is available both in your WhatsApp group as well as
+in your uh
+prol since mana since the document has been already shared in WhatsApp group I
+just tell things little
+faster in company you have to put only IBM
+Uh don't worry Chakrai you will be receiving this IBM C access by dup tomorrow i told you
+right in couple of days you will be getting it up understood Harita i will check what
+it is i think I have received your credential
+no this is not a trial version i think Adita then you are um you you have
+clicked on different one it is not a trial version it is a paid version
+okay now let me share you a Google form if you find any uh difficulties in
+creating your
+um IBM skill IBM cloud account you do please fill the form and there you please add all your
+glitches it will helpful so I can uh fix it up
+i understand Harry like uh once you all complete this IBM cloud inside the IBM
+cloud only we do have Watson that is a concern we are discussing about this platform once everyone has started that
+we can practice no worry we will be completing the course within the allotted
+Okay okay just a minute i'm sharing a
+um Google form
+so those who have issue with your IBM skill account creation
+please fill this
+form manasa the um all the steps has been given in your WhatsApp group so
+please follow that all the screenshot has been added over
+there okay see this IBM cloud account is a paid paid one ibm cloud is a paid one
+okay so we are uh you are a students right so you are registered paid
+students for this uh IBM cloud account so with the help of that feature code
+which is generically created for your um college domain so that code will help
+you to create the IBM cloud account that is a unique code the code
+is if the code used for one login it cannot be used for another one
+see all the steps has been given in the link please refer the WhatsApp group there i have already shared the document
+okay uh so please click on uh click on the each step there everything has been
+added detailed screenshots has been added i think which will be helpful for you go through uh complete the sign up
+process
+gro Singh I think I answered your
+queryanti please uh refer the document which
+shared I sh I shared in the recording itself please
+Okay those who have error please fill the
+form
+those who are facing issues with IBM cloud account creation please fill the form
+whatsapp group link
+um maybe just a minute I will share it
+i don't have
+WhatsApp so shall we start today's session the last class we have seen about NLP
+right shall we continue with that so did you all complete filling the queries
+[Music]
+yes multiffactor is necessary you have to uh um authenticate with your email
+there is a option called email you can authenticate with that email that's not a problem shikar shrier
+I'm sorry
+uh site please follow the instruction which was
+given uh Bin if you're if you're having if you're register in both the slots
+like Uh you have to chat in the
+group technical team will help you on
+that aish please don't dump the same question on the inbox um please refer
+the document which is already
+shared muhammad like they you have added in okay um so in your forum in your uh prolong
+forum there will be something called um sorry in your prolong there will be
+something called forum there you write the query it will be changed
+okay see when you're dumping with the same text in your inbox I might miss
+some of the important uh queries which was asked by others please don't dump with the same query over again um I have
+given the document in WhatsApp please refer the document all the screenshot has been added very clearly in the
+document uh please proceed with that and you can able to successfully create the
+account still if you are finding any glitch then let me know okay 50%age of
+uh people has been created the account successfully now let me show you how to
+navigate it okay i just stop share the
+screen so once you done successfully you will be having this kind of dashboard
+right IBM cloud
+dashboard so do everyone got this same dashboard
+[Music]
+okay let from it's 5:30 from here we'll pitch into the content if you have any
+doubts regarding the prolearn IBM cloud we'll discuss after 7:00 okay i will be
+giving you 10 minutes of time at the end where we can discuss all the queries let's focus into the content now
+see again you people are asking the same question what I have to choose in the role what I have to choose in the degree
+please refer the document all the screenshot has been added over there from that you can able to easily create
+the account successfully
+okay okay if you're not able to find the document in your uh WhatsApp group
+please check in your uh prologue access in the prologue We do have the
+document okay tanish like what is your what is
+your query ka i didn't understand what is your problem now tell me
+please drop your query where is where in prol uh wat at the beginning of the
+session I have showed you very clearly where the document is available in proland I just explained all the topics
+what are the available things in prol
+Done okay it is not in WhatsApp are you um it is not
+accessible okay please share your uh email id i will mail you the document
+okay or I will give my mail id in
+chat please note down if you have any doubts please mail meroid
+please note down my mail mail ID
+and if you have any doubts please mail me okay or you can if you
+have the prolong access please drop your queries in the forum again forum if you are dropping
+any query it's a privateed private chat No one can see your
+conversation okay now uh so this is a dashboard of your IBM cloud okay maybe I
+just click on the dashboard so this is how it will be
+so here you will be having the option build use Watson tool build Watson
+Watsson studio so these are where it has uh each tool has its own purpose okay so
+in this course we are going to learn Watson X right so what you have to do uh
+listen very carefully left side you have this hamburger icon so you have to click on the menu okay scroll down go to the
+last over here you could see what's next yeah so from here you have to
+choose the what's
+next so remember in the very first uh in the last module we have discussed about
+what is what's in next AI what is what's next governance and what is what's in next data yeah so from here once you got
+this page do everyone got this
+page very good getting that I have registered but I have not I try to not
+Okay see no worries uh for those who are not getting this option please just make
+a note of it i will I just uh explain you the interface let's we're not going
+to create anything over here we use um any of the uh Python ID where we can
+create the code
+yeah this is different that one is IBM skill network where you have to register and fetch the I feature code and this is
+the IBM cloud account this is a main page where we are going to work this IBM cloud is a paid version okay so not not
+everyone can access to this so you are the students you're uh you paid for it
+right so you you're just navigating to a skill network from the skill network you will be getting your unique feature code
+with the help of the unique feature code you're creating your account in IBM cloud
+okay all right so over here what we have to
+do here you have to choose what's next AI so this is the environment where we
+going to create the projects so you have to click on the launch button
+one second my page is
+loading okay so once you have selected the WhatsApp next you will be getting
+this screen okay so here you will be having
+your
+name and this is how it will be so from this you can create the project so do
+everyone those who are having the account did you all got this page
+okay so if you if it is asking you to select the region then please select the
+region as
+delas okay uh since I already into this I I cannot go back and create from the
+scratch uh can anyone please give me your ID so that I can um show you the
+steps very good adita you completed
+okay see I want your ID and password
+okay I just take this man's ID just a
+second i uh to open the incognito
+window I Yeah
+so here we have to give the ID and password
+so it will be asking a verification code please share the verification code once if it is asked
+huh man can you please share the verification code
+yeah that is what I'm showing at a white please
+wait okay so once you got this page so over here what you have to do you have
+to click on this hamburger icon okay scroll down and choose what's an X
+okay all right once you have selected the WhatsApp X from here you have to
+launch the Whatsatex.ai so if you click launch it will ask you for the project setup
+are did you complete setting setting up the
+region why did you share your ID i want someone's ID who have not uh done
+anything in it a fresh ID and password automatically it sets up no
+sometimes we we have to do it up
+okay maybe I just take Anushka
+so it will be asking you the uh region so you have to choose the region Delas
+so do everyone got the page or do anyone want me to show the
+step can you please quickly tell me the um verification
+code so from the region you have to select
+Delas verification code please okay thank you dear
+so again clicking on the hamburger icon scrolling down what's
+next then AI get started I think you have done
+Ready okay so it will be asking like this okay so over here what you have to
+do you have to select the option
+delas and then create or login button so over here you have to just
+click on continue to console automatically it will redirect to the WhatsApp account
+i'm repeating again you have to choose the option um delas
+okay okay sometimes see you have seen an error message here right sometime it happens if the uh server is quite down
+it will be asking you again so you have to click on retype after two three times
+it will work
+fine what you have done
+It is see now if you notice it is started so even though I got a error message over there now it is working
+fine
+see uh don't uh uh it's my humble request don't dump with the same text on
+the chat over again and again if you have any issues regarding your IBM skill
+network please use the uh email id which I have shared please drop me a mail if
+not uh you can use the forum uh uh prolong forum okay if not you can just
+uh I have gi a form right google form so you have you can fill up the form okay
+so so if you have properly uh uh uh apply your feature code then it
+will not ask you for the payment okay so there if it is asking for a payment there you will be having a option called
+register with feature code there you have to uh fix paste your feature code
+okay please dump the don't dump the inbox with the same I don't understand what is your problem ka please drop what
+is your query
+see if it is asking credit card information don't go for see uh when it comes to the accounts they do have the
+option register with code that is why I'm telling you please refer the document very carefully there all the
+screenshot has been added please follow the instruction and do complete your account creation ation
+okay if it is asking for the region please choose the last
+So let me share that's okay if you have choose
+some other um region that is okay not a problem
+sha I told you don't dump with the same text on the
+inbox i'm sharing my
+screen hope my screen is vis visible to everyone so from here we have to create
+the first project very first project so I just go to the uh again in the Watson
+x environment I have just click on the uh hamburger icon from there select the
+projects from the projects you do have the option view all projects okay you
+have to click on view all projects go to the hamburger icon from there select
+projects from there select the option view all projects okay after selecting
+that you will be getting this menu from there just select the option new
+project okay so here you have to give the project name um I'm just giving the
+project name as demo always we have to give a meaningful name to the project and this description is optional if you
+want to describe about the particular project you can add two or three lines of descriptions and here we do have the
+tags so this tag is all about again it is optional this tag is all about when you're creating the project so there we
+will be adding some um tags like um uh maybe you can give the tags of severity
+maybe uh high priority low priority or in progress closed you can give such
+kind of uh tags so that you can easily understand what what is the status of the particular project okay and below to
+that you have something called storage so where your projects are getting stored it is for me it is getting stored
+in the cloud object storage for everyone the option will be the same cloud op um cloud object storage okay after then we
+have to click on create are you all on the same page those who have the uh ID are you on
+the same page the account type should be company
+am I going fast
+i'm going but many are like um drafting in the inbox that I'm going I'm speaking
+very
+fast for you it's very slow now
+Adita better I just take a poll to understand it
+so do everyone create the very first project
+uh so this is just for the understanding like because I'm just getting mixer of inputs in the chat some are saying I'm
+just too fast some are saying I'm very
+slow so over here we have 555 so which is
+554 i want each one of you to answer this
+um so uh I got the 60%age of the audience like I'm in the right pace so I
+think I can proceed with that
+okay so once we got this page here once you fill all the um inputs you have to
+click on create
+so it will take few seconds okay so here if you notice we have four options the
+very first option is you can add any any number of user to the current project
+for example if you're creating a chatbot and if you want your friends to contribute in the particular project
+then you can add that particular person as a contributor over here okay and the next one is working with data so we know
+that if you are if you're going to create any application then we need a data set so you can add your data set
+over here okay and if you uh in in uh the in
+uh genai we will be working on the pre-built models yeah we will be choosing any one of the foundation model
+in on that with that foundation model we will be building over it so if you want to choose any um foundation model from
+the IBM um you can click on it from here you can choose it up so it will list uh
+it will show list of um services and from there you can
+choose it up so you all done till this
+Yeah sure I will show the one step back so what you have to do just go one step back so over here
+you have to fill all the details the project name and the description yeah
+and once you filled everything then you have to click on create the create button will be
+enabled and once it is enabled then you can click on it and where you can start
+working on the project so this was the one which is created
+right then you will be landing on this
+page so with this let's take a short break short 10 minutes break uh we'll
+we'll meet exactly by 610 and we'll start creating our first uh NLP in this
+what's next
+okay so let's take a short break
+yes let me show you once again so others can go for a short 10 minutes break and
+those who have missed how to create a what's next project I will show you once again okay exactly from uh 6 we will
+start creating the first project so I just go back over here uh I just stop
+shared the screen and I just close the particular
+window stop sharing the screen
+manasa um please refer the document which I have shared already in that all
+the steps has been given very clearly use the step and complete creating your account successfully
+so if you are getting any issue with the uh IBM account creation then please use
+feel free to use this link i just share the Google form link in
+chat please use the link
+link is there in chat please click on the link and do complete
+your document has been uploaded in your WhatsApp group as well as in the prologue
+rena please try to understand see over here we have 532 students right and I'm only the one trainer see all are uh
+sending the response in chat okay sometimes I like some are sending the same chat over again and again so when I
+scrolling that chat that I could miss few chats see I'm not purposely missing
+anyone corner of your conversation because everyone is important to me okay if it doesn't miss I'm I'm I'm here to
+uh fix all the glitches all the queries of
+yours hope you understand see if you have selected a different region that it's okay not a
+problem you can continue working on it of course you have to do multiffactor
+authentication please do it again
+yes Nidashana you're on the right
+track uh I will be sharing the link so that you can with that link you can join the WhatsApp group uh
+Prrenita so you will not get the code in email uh Nashri you will be receiving
+the code in IBM skill network please refer the document
+rana please like what you have to choose what company should we have to click everything has been given with
+screenshot in the document please look into the document and try to complete the sign up
+process sure spar I will teach show you once again how to create the account actually my uh my uh IBM page
+has been uh like loading it is taking few seconds to load once it is loaded I will share my screen and show you the
+steps hope I answered you uh
+donai not a problem if you have deleted your uh sandbox which was a sample demo which is already there in the uh
+WhatsApp next don't need to worry about it ash just now I told you my IBM
+account has been getting loaded once it is loaded I will share my screen i will show the steps again to
+you recordings will be there in prol once you have selected the last
+then you will be redirected to the what's the next page there go to the uh hamburger icon from there select the
+option projects and create your new project
+raki Krishna please look onto the document follow the steps carefully and try to complete your signup process
+successfully pass I told you right my IBM account is it is IBM uh is getting
+loaded on my screen once it is done I will share my screen and I will explain you the steps again
+Hey it is
+done so please listen carefully um I will not repeat the step over again
+please I want everyone to listen carefully those who have doubt how to create a watch next in the IBM cloud
+please listen so left hand side you do have the hamburger icon please click on the hamburger icon scroll down to the
+last where you can find what's next okay we have to click on the hamburger icon
+scrolling down to the last where you can find what's next please select
+that so once you select the WhatsApp X then you will be getting this screen see
+over this screen what you have to do scroll down and you can find WhatsApp.ai
+so this is the environment where we going to create the applications right so you have to click on the button
+launch if you click on launch another new window will be opened okay so a robots index has been um enabled
+successfully so over here we are going to create the
+project uh since I created the project already it is opening like this or if
+you want to create a new project go here then click on project you can add a new
+project from there
+just now I just explained the steps of creating the
+project
+okay okay
+now over here we just going to create the very first sample project okay
+last class we have discussed about NLP
+Hey okay so here I can create only gen AI projects right which means I have to
+choose any one foundation model over the foundation model I have to uh uh build
+the application right so last class I have shown you how to create a NLP through Python now let's complete that
+and then we understand what are the foundation model which is available on the WhatsApp next then we'll create our
+first uh uh geni application in this so uh we'll do that tomorrow so meanwhile
+others Please do complete your process tomorrow let's all together create the
+first application in the what's next i hope you all agree with
+me if you have a third opinion please drop that in chat
+yes so I let me share
+the so last we are just started to create the um uh install all the required uh
+applications right I mean uh the um packages
+So is my PPT is visible to you all
+just a second i'm sharing the screen oh my
+god class is not over
+first let's understand the NLP simple application creation um few of her
+having issue with [Music] um IB what's the next
+right people you you all started to dump the same
+query okay so last class we have seen what is
+NLP what is the basic uh things if you want to learn a language and how NLP
+works so we just going to see the example project for each topic
+okay so did you all complete uh installing all the required libraries in
+your Python uh IDE
+one second my Python is getting
+loaded okay first let me show you how tokenization is working okay
+so okay having some issue with
+my Jupyter notebook so I'm just opening collab
+okay uh let me share the screen uh before then I just close
+this hide okay so if you if you want to use
+this NLP in our project then we required all this library to be installed okay so
+uh in last class itself I have installed this NLTK I have installed the sky Kurtlin I have installed all the
+transformers and we have just imported all the required resources right so we
+have imported the uh all the resources now let me show you
+how to do how tokenization is happening in Python so I'm just stop sharing the
+screen just go back and I'm sharing this collab
+up okay
+so first what I have to do I have import my
+uh NLTK right so first let's do import NLTK so what is
+NLTK can anyone let me know what is NLTK
+it's a natural language toolkit all right so after
+then some issue
+Okay so next uh so from this library
+NLTK I'm going to use the one particular module
+called tokenize
+okay and from that I'm just going to import the
+word then we have to import the resource right so which resource we have to download so from NLP TK I'm going to use
+the function download okay
+typo so there U N KT
+so this is help us
+to tokenize the given text so let's give uh let's create a variable called text
+in this variable I'm just going
+to you can give any text maybe I can
+give or what can we give maybe randomly some
+text okay i just title in the
+series okay so this is my input now it has to be split as a token so I need a
+variable in that variable only the given sentence will be broken as a small small
+token so let's create a variable called
+token okay so in this variable uh I'm just going to use the um method word tok
+this this one word tokenize so I'm just copying this and putting it over here and I have to pass the uh variable in
+which variable I do have all the sentence so this is a variable in this variable only I have the sentence titled
+in the series so I just paste the variable then if I print the
+[Music] variable now let's see the output
+I guess I'm do anyone got the
+output this is not Jupiter my Jupiter is taking so much time to load so I have used just collab
+okay this is done properly maybe this might be some keyword
+oh so we have error on
+this okay uh yeah remember last class I have just imported all the libraries in
+um Jupyter notebook so over here first of all I need to install all the required libraries
+okay here I have all
+this so others those who installed this on yesterday do you got the output
+uh let me fix the error just a
+second okay
+unfortunately my screen I missed where I made a mistake
+okay sometimes when uh like it is the the um PNK which is downloaded in the
+default location right so we have to add the the where the path has been located
+so we have to give the uh location so maybe over
+here after downloading I have to give the
+path let's check whether it is working fine or not
+still it is in different directory i guess something wrong when I tried
+with notebook uh it was working fine the same code I run in my notebook then only
+I just taken the
+N can you please share me your code if it is working very
+well and I have applied the same
+uh Okay it summons code in
+chat okay so you have installed the tab as well so that was a uh error which I
+uh got lastly so I just missed the resource uh uh blanket tab so you have
+just added it and then you got the output right good good so this was the uh function which I
+missed so over here we have given title in the series so everything has been um
+tokenized and it has been stored in a
+list yes see if you give the same code in uh VS code it will automatically
+fetch the uh from the downloads it will fetch the path and you can get the output so that is why I added this code
+in um uh PPT as well but in collab it is not
+working in collab we have to set the
+path and VS code is working very fine i just tried VS code then only I have
+taken the uh put it in the PPT
+[Music] all right so the next one which we have
+to what is the next uh after tokenization what we have to do can do anyone remember after tokenization what
+we have to do
+after tokenization what we have to do
+I didn't see any
+response
+after tokenization what we have to
+do it is uh limitization or stemming
+what is the second phase or second step which is stop word removal very good so
+we are just going to remove the unwanted uh words from the given context right
+very good most of you have given the right answer see how to do
+that so which libraries we have we are going to use for
+that so uh
+uh so from NLTK natural language toolkit we
+just going to use the corpus corpus we're just going to import
+stop word stop
+thoughts then I'm just going to use the NL
+TK see previously when I type the code it is not showing because it was not imported because for in the previous
+code we have just given import NLTK now it has been imported so it is showing all the um for easy access in dropdown
+it is showing the keywords so we're just going to download
+the stop words right
+so after then I'm going to create a variable so
+in that
+variable just made a small mistake i'm just going to use the
+set where I'm just going to use top words
+dot word for the
+connection and I have to mention the language in which language the context is in
+so English
+so let me use the filters filter token so in that we just
+checking words of word in the token uh we just converting all into lower case after converting it into lower case we
+are just checking it up okay
+you all get the code
+so if we run the Four
+we have properly imported it and we have downloaded this
+okay okay so it is saying where we have not mentioned tokens okay let's do one
+thing in token okay i just copy
+this and let me put it here as a new
+variable cons equals just paste what I have copied now if I run it will
+works yeah so here I just missed to give the tokens okay so here if you notice so
+from the given tokens it will remove the useless word which is in and the and we
+are getting the important keywords which are title and series so how it is working so first we have the corpus
+um uh we have import the module stop module from the NLTK corpus okay this
+top words which is which is help us to this module help us to remove the um uh
+text uh like usually mentioning data maybe we can see the commonly useless words in the given sentence okay and
+then we have download the stop words so this stoper data set from the NLTK library so from the library we have
+download the stop words data set okay so once it is done and we have to give the
+tokens then we have mentioned what are the tokens that we have and then u in the next sentence we have created a
+variable called step words in that step words we have set the step words
+dot words so what is the purpose of using set so it is help us uh to look it
+very faster so we can say the faster lookup so it is checking whether the given item in the
+list so it will load only the English language context okay and then we are
+just filtering the uh tokens so it is go through words each word in the token so
+word for word in token just got each word in the token from the given list
+and we are just compare like if if suppose if we have any uh upper case lowerase combination I'm just converting
+everything to the lower case okay so after uh changing everything to a lower
+case it will be easy for us to um remove the uh useless words so only
+words not in the stop words all will be uh filtered in the uh filter token And
+it is displayed in the
+output clear do anyone have doubt in this
+We move on to the next
+I can't see this
+shall we create what is the third step so first we have uh tokenize the
+given sentence after tokenizing the given sentence we have just removed the stop words after removing the stoppers
+what is the third step which we have to follow now
+what is the third step which we have to
+do now we have to do the porter stemer right very good stemming
+tagging is after then only after simming only we will be having limitation let's do
+it so over here what we have to do next I'm just creating another set of Good
+so from
+NLTK dot stem
+import portter simmer so first we are just importing
+the uh proto simmer class from the nltk the module name is stem
+okay this photo symbol is one of the common most used stemming algorithm so
+with with this we can able to reduce the uh word from their stem okay and after
+then I'm just going to create a um a variable in that variable I'm just going
+to call a class
+let me create a variable
+called stemer okay in this variable I'm going
+to call the class water stemmer so I have to mention
+this okay and over here I'm just going to give the
+words equal to so what can we give
+um playing right I have taken the same
+example which I explained the concept if you want you can take some other examples as
+well okay now I'm just going to create one more variable called stems in
+this I'm going to check word by word so I'm just going to create a list
+in that list in a loop mode I'm just going to check each word in the given list
+okay so in this
+list first let me call this simmer
+dot stem so which one I have to check i have
+to check the variable words right so I'm just mentioning
+words uh-oh not words
+for bird in the variable
+words wrongly
+closed then I'm just going to print the
+output st even though I give different uh
+context it it I just uh remove
+the remove the word to their root [Music]
+so here we have three uh variants playing played play so it's all reduced to the common stem play so now what is
+the next thing
+after this what we have to
+do we have lemonization right so it will reduce to the word in a dictionary form
+okay so before going to the lemonization do everyone got the output for this lemonization
+yes
+great so if you want to do for the previous sentence then what you have to do instead of this words okay over you
+have to use the same context if for example here I have given the tokens right so you have to copy and paste the
+tokens if you're going to use all in one all code in one then you can have a
+common uh variable with that variable you can you can call in all the
+process since I'm showing things separately it was like
+this is connected
+11 okay now let's do
+uh reminiscation so I'm just creating a new code so in that new code I'm just
+going to from the
+NLTK it's going to be the
+same i'm just copying
+so so instead of the port stemmer here we just going to use word lemonizer okay
+this class help used for lemonization in words
+so word
+knit okay then we have to download the required data set so
+NLTK dot download and the data set name
+is word
+sorry birdnet
+then I'm just going to open um multi- uh lingual word net so this will supports
+for the extended language if you're going to use any other language for that language you it will be using okay this
+this data
+set usual we just going to create the variable in that variable we are going
+to call the
+class over here we're just going to add the post tagging as well so here I'm
+just printing the word if I'm going to print the word better so I'm just giving
+a tag to it remember I'm just giving the tag as adjective if I give a a means
+adjective okay if I give V V means um verb
+so in limonization itself we are just adding the
+tag so once you're done if you let's check the
+output so for better we got good and for running we got run and we have added uh
+tags as
+well do you want these codes in prolong
+kartikaria okay so POS means I'm just adding a tag i'm just mentioning this
+word is a adjective what is the um uh we are just giving remember uh we do have
+the five steps six steps right so in the six steps we will be adding the tags to understand the purpose of the word in
+the given sentence so this PO is called as part of speech so PO is tagging
+so which is optional i'm just optionally adding it here okay maybe I just give the next
+sentence i'm sorry next is uh fifth step is uh uh POS part of speech tagging so
+due to time constraint I'm just copy paste the particular code from my reference PPT slide
+how I will upload the PPT right so over there uh you will be having all the uh
+code in the PPT you will be you can see all the code
+okay here I have taken the sentence uh dog barks loudly
+so in word I'm just tokenization and I'm just adding the POS tag now let's see
+what is the output
+okay it has some mirror let's check
+I missed the data set I
+[Music] guess so which is not
+found so let's let's take this suggestion
+so pre previous data set was not available with this editor so I just change the data set name and now you can
+see
+that so it is showing that uh NNS means non uh non plural noun okay so for that
+we are just giving NNS and
+um over here for B which it is giving VBP so which
+means it is a verb and it is in present
+tense and we have the loudly which is mentioned as RB which means adverb
+okay so what is the last uh uh last um step in
+this which is named entity recognization right so it's very
+simple so what is that we are just giving the entities like the importance
+of the word in a particular sentence
+[Music]
+So to do that we do have different library from that I have taken a spacy library and so from NLP I'm just loading
+the excuse me so first I have imported the spacy uh library which is a fast and
+efficient library that is why I have chosen that and after then I created a variable called NLP in that variable I'm
+just loading the small English model which is called as encore web SM so this
+this this model includes all tokenizer post tagger
+any okay
+uh maybe let's check the output
+If you notice um this was the example like the this was the same code which I
+added in the PPT as well so if you notice Barack Obama is a person and Hava
+is a
+GP okay gp means it's a country city
+state okay so with this we have practiced all these six steps that we have learned in NLP okay so in
+tomorrow's class we just going to create our first modu uh foundation model in what's next so in tomorrow's class we're
+going to understand what is foundation model how to choose a model for a given problem and with that let's start
+creating our first problem
+okay okay you want me the same code in chat okay i will share the code in
+chat so if you have any doubt in today's session please drop your doubts in
+chat no assignment okay can I give you one task
+maybe you can try and this is not the and this is not for the evaluation just
+only for the practice
+[Music]
+priti did you complete filling the uh Google form which I have shared yesterday for the prologon issues if you
+fill that then it will be sorted no need to worry about it
+nobody mind it will be
+added or um yes we know I will be sharing all the codes give me a
+minute i will share all the codes
+uh noted hurry i will let the team to uh work on it okay uh maybe I just add all the quotes
+which we have discussed today
+so thank you so much for joining and thank you so much for listening if you have any doubts please give me 2 minutes
+i'm just sharing all the uh codes in chat after then if you have any doubts regarding your um prolearn regarding the
+skill network then we can discuss it for 5 minutes okay
+okay I have shared all the codes in chat please refer it and uh the same content
+will be there in your prollearn as well
+just a second so if you have any doubts
+Please drop your doubts in chat if you don't have any doubts then thank you so much for joining meet you on tomorrow
+so if you have any doubt uh any issues regarding your WhatsApp next let me
+share you a what um let me share you one Google form so
+please do fill the form
+and the issue will be
+sorted recordings will be posted soon
+thank you Akai see if you have any doubts again um
+I'm just dropping my mail ID in
+chat drop
+email so thank you everyone
+thank you Paul for the warm
+feedback okay uh yeah you can use uh any region but Delas is the most preferable
+one if you choose some other region that is also well and good no need to worry about it
+tachida will do at the earliest sakshi please do fill the form
+and try all right then thank you all i I
+hope all the queries has been answered and I didn't receive any latest query in the chat
+thank you all bye yeah good night meet you to tomorrow
+bye-bye take care

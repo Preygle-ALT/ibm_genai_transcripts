@@ -1,0 +1,265 @@
+Hello everyone. Good evening.
+Am I audible?
+Yes. Um, so regarding your IBM cloud account creation doubts, any doubts that you're having regarding the account creation, we will be have a doubt clarification session from 7 to 8. Okay.
+During that time I will give the um like audio access to each one of you so that your queries can be resolved over there.
+Now let's focused on the topic the um let's sorry now let's focus on the today's topic. I hope you all agree with me.
+Yes. So what do we discuss in the last class NLP code very good? So we just practice all the um Python concept of uh NLP like we have done the six steps right MU still I have not upload the module 3 PPT in the LMS because it is ongoing module right I have not completed the module once I complete the module Then I will upload the PPT on LMS. So far I have completed two modules. So two modules PPD you can find on the LMS. Okay. Thank you.
+So in today's class we just going to understand the tokenization in NPL uh natural language processing. So what is tokenization? Can anyone tell me this tokenization?
+And why do we need to Just a second. Let me uh let me take the PPD and share it with you all. Give me one second. And meanwhile, please drop your answers. What is tokenization?
+Okay my jupitter but still I'm not able to import spacy. So Chira you're not able to import spacy. Okay no worries. Today I will show you how to use um notebook inside the WhatsApp. So there you could try all the possible libraries. It will work.
+Splitting words, breaking sentence in words. Okay. Dividing sentence in small words. Understood. Okay. Appreciate all your answers and they are right. Now my question is like even though you are uh splitting the words by word, you are breaking down the sentence into small small words. Okay. Um once you break down the sentence into small words will the machine can understand it.
+So what do we need? Very good. From the token, we have to convert it to the vectors. The process of converting the um uh string value to a numerical representation which is called as word embedding. Okay, just a second.
+I just share you PPT.
+So what is vector mathematically?
+I was not able to share this. Got it.
+is my PPD is visible to you all.
+Is my background less noisy?
+Hope my presentation is visible now. Yes, thank you.
+So over here let's understand uh we understand that okay if I give a sentence to the machine um let's take this example [Music] Huh? Okay.
+That's okay. Here I have a sample uh text AI is great at text generation. So what will happen in the uh word level tokenization? So when you do word level tokenization what will be happen.
+So that the uh characters will be split sorry the text will be splitted into small small words right. So can we do character level uh tokenization? So is it mandatory that we have to do only the word level tokenization? No. So in token uh we all know token uh token is a piece of text which model can understand right. So this tokenization can be convert in word level and or can be in character level.
+Okay. So either you can do for example if you can uh the token can be a full can be a part of a word or a punctuation. Sometime the punctuation is also um taken as a token. Okay. For example, uh let's take the word uncontrollable. Okay. So in that the particular uh the GPD2 it will tokenize the word in two three syllable and tokenizeable. So it will divide the word into it will split the word into based on the syllable as well.
+Okay. Now coming to the next question.
+Why do we need to convert text into token before it giving to the model?
+Because computer cannot understand words. Yeah. They understand only numbers. So tokenization converts human language into tokens uh or ids. Okay. Uh that the model can understand. Now the token has to be converted into sorry the tokenization has to be convert into token ids. For example here we have taken AI. So for AI it will generate some ID. Maybe it can be 52641.
+Hope till then things are clear to you all.
+Only black screen is visible. One second.
+Okay, I guess something wrong with my presentation. Maybe can I use um today let me use whiteboard.
+Sorry for the technical glitch. I was not able to present the screen.
+Okay, let me give introduction about to organization. Okay, let me take the same example.
+Okay. Here I have taken the text AI is great at text generation. Okay. If I want to give this model give this text as input to a model the model cannot understand. So what the what we have to do? We have to break this sentence, break this sequence into smaller part of text called token. And this process and the and the process of breaking down into as a token is called as tokenization. Okay. Uh Yani is it clear?
+You got my point? Again my screen is black.
+Okay. Thank you.
+Yes. Now, so this tokenization can be happen in two level. Okay. one is word level to tokenization or character level tokenization. So when comes to uh when uh when come to tokenization how the word is splitted into as a token. So it can be tokenized either by a full word or by a part of a word or by punctuation. For example, okay. So in this in the sentence um if we do the word level tokenization then we will be getting the output of this [Music] Okay. So if we do character level.
+Then over here every single character will be a token.
+Is it clear? My humble request kindly don't uh WhatsApp me during the session, okay? Because it is interrupting. Thanks for your cooperation.
+Space bar is not a token. Special characters will be taken as token.
+Okay. Now why still okay so now we have understood the process of tokenization. The process of uh process of breaking the words as a token is called tokenization. Now why we have to uh convert this token sorry uh convert this tokens to machine level language. So even if if the tokens can able to understand by the machines so computer don't understand words right they understand only numbers. So tokenization converts human language into small small tokens that model can process it. For example, over here we have some word, right?
+So okay. So over here we going to convert this token into a vector. Sorry this word will be tok this word will has a token ID. For example, if it is AI, we will be having the ID of 8247. I guess 8245.
+Okay. Now how this token ids are generated? Okay. Each language model.
+Okay. We do have different language models. Okay. Uh GPT model, DERT model, T Y model. Okay. Everything comes with the tokenizer. Okay. What the tokenizer will do? That will map the words or subwords to a unique ID. Okay, this tokenizer has a fixed vocabularies, a large list of tokens. Okay, words, parts of words, symbols. Yeah, everything has its corresponding integer ID. Okay, so in tokenization tokenizer splits the input into smaller smaller chunks called token. Okay. After uh dividing into a token uh every every tokens, okay, it will look like a single sorry every words will uh treated as a single token in a vocabulary. Now after then this tokenization will look from the vocabulary list and find its associated ID. Okay. So then it will be mapping the ID to the corresponding token. So hope it is clear.
+So if anyone is not clear with this please let me know. What if letters get repeated? I don't understand what uh see here the given sentence is splitted into small small words text. Yeah, that is treated as a token ID. So in in in um foundation model okay so we do have um different language models.
+Okay to connect with me. So each language model has its own uh tokenizer.
+This tokenizer will map the words with this unique ID. For example, in olden days we do have something called hello pages. In that hello pages all the names and phone numbers will be mapped. Okay.
+If you want to search anyone's number around the uh globe uh sorry around the particular state you can take the yellow pages from there you can search their name and you can see the phone number.
+Similarly over here we do have the language model. In this language model uh each language model is different.
+Okay. So we do have language model has GPT5 GPT2 um bird T5. Okay. Everything comes with its own tokenizer. What this tokenizer will do? This tokenizer will map the words or subwords to the unique id already. Uh the tokens has been fixed and it is recorded in the vocabulary tokenizer. Okay. From that the words will the tokenizer will be mapping the ID and its word. I will show you a program how this is happening.
+If still it is not clear kindly let me know. Sure.
+So that is why we do have something called stop word right in second step like um there if it is if we having multiple repeated words all the words will be removed and it will take only the core word right kindly don't post any of your uh account creation errors in the chat right now. We will be having a doubt clarification session from 7 to 8:00 p.m. today. During that time, you can drop all the qu ID cloud ID creations.
+Okay.
+Yes. Um yes. So, uh very good question.
+So if just model every model has different so if you are generating one uh tokenization for example here I have generated AI is 5245 sorry 6245 right so this might this might not be same in uh bird model this might not be same in lambo model okay so the token ID vary between model to Okay. So if the word is not in the vocabulary for example here I we have intelligence. If there is no intelligence there in the vocabulary then what will be happen again it will be split into multiple subverb tokens and that subvert tokens has its own uh each own ID connecting For example, when the sub subword tokenization is helpful. So whenever you have the spelling variation, whenever we have some rare word or madeup word during that time, this uh subword tokenization will be very helpful. Yes, in the same meeting, in the same link, we going to have the uh doubt clarification session. How did it Okay. Are there fixed numbers for letters as their ID?
+Um, great question. Um, I don't think so. No, actually the answer is no. So, individual letters do not have any uh fixed tokens ID. It depends entirely upon the tokenization. As I told you before, uh the each model has its own tokenization, right? So it depends upon the model tokenization. So most of the modern tokenization the models which we are having right now it it is splitting the words based on the common words subwords sometimes character only when it is needed. For example if it is very rare word or out of vocabulary words. Yeah.
+During that time they just uh split the word by characters. Okay. So there is no fixed rule like uh in just for example I'm telling up so we do have the aski key value right if it is a the asky key value is so and so right similarly there is no fixed rule for the characters. So please do remember we do not have any fixed ID uh fixed uh token ids and if you're asking all the token ID consistence within the same model yes within the model the same ID will be consistent okay when compared to model to model uh the vectors will will be having different ids for example um if I have for example I'm just telling CAT for CAT if the um uh code will be I'm just telling only for the example 567 so the same 567 will not be retains in the lamb model it can be different what if tokens cannot be for sub tokens cannot be formed if sub tokens cannot B then it will be splitted as a character tokenization. In rare case I understood like many got the point but you are still asking the question in the chat. I cannot uh straightforwardly ignore those uh doubts that is why I'm still still we are in the same part.
+Okay. So now if everything is clear, we'll moving to the next part. Now I will have one I I'm I'm just asking you one question. Okay. Do you think Midnight will be treated as a single token or multiple token?
+Midnight will be treated as a single token or mid uh multiple [Music] token. Maybe I just put it in this example. Okay, this is single token or multiple token.
+depend upon the model. Great. Good. Nin single. Okay. Multiple single. Okay. Let me raise a poll for this. So I can understand how many of you got the point.
+So, Midnight a single token or multiple token.
+Okay, from the polling I can understand only around uh 230 students were active in the session.
+[Music] Okay. Many of you has given that it is a single token.
+Okay. And the answer is single token.
+No, because it's a common it's a common English word, right? So, it will be treated as a single token only. All right. So, I I hope you all clear with See when it will be treated as a character level actually you need this level of understanding. See when you are splitting the words sentence into character uh words okay if the machine cannot able to understand that during that level uh if it is not a common vocabulary common word in dictionary then again it will be splitted into the next level maybe in characters not every time it will be divided into characters Well, it's a common word. So if it is someone's name then you have to uh train the model accordingly. Understood?
+So please make note on tokenization always works on vocabularies not on alphabets. Okay. Most modern tokenizers like they are splitting the words operating based upon the common words subwords and at the least case only on the rare out of words only it will be taken in the characters level. Okay. Now coming to the next point, the process of converting from vector token to vector is called as word embedding.
+So what is word emerging? The process of converting token to vector. So what is vector? It's a multi-dimensional array kind of matrix. So why we are doing this vectorization? Because machines cannot understand the strings. It can understand only the numerical representation. That is why we are doing it up. Okay. What are the key features?
+See words with similar meaning or words on the context usage or map to similar vector only. For example, um so words like words like king, queen which are close to in vector space.
+Yeah. Then king and apple.
+So when this embedding is useful, okay, whenever you are doing some sentiment analysis, text classification, whenever you are doing some machine translation, some chat bots, virtual assistants, if you are creating application which is simil which is relevant to this context, then we have to you this embeddings plays a major role.
+Have you all heard about this one hot encoding in uh machine language machine learning models? When you're training some model, have you ever used one hot encoded? How many of you know one hot encoded? Okay. Uh just um Okay. Let me let me explain it very simply. Um uh let's take an example of um COVID form.
+So you're going to create an application. In that application, if you apply based upon the symptoms, you're going to get the okay based upon the symptoms you're going to categorize the uh patient whether whether they are affected with the disease or not. Okay. In that such cases u we have to convert some categorical based value to the numerical value. For example, SNO. So this SNO will be converted to will be in uh encoded. Okay. And that encoding is called as one heart encoded. We have two types of encoding. The most commonly used is one heart encoding. Okay. That is called um how it is how it will be converted. it will be converted based upon the uh numerical binary value zeros and ones. So in traditional machine learning we do have the one heart uh encoding.
+Okay, this this one hard encoding will assign a unique binary uh vector to each word. For example, if it is no, it will assign zero. If it is yes, it will assign one. Okay.
+[Music] Um so with uh in in in foundation model in uh in NLP with embedding we are just overcoming this. Yeah. By giving capturing the um context based representing this matic closeness. Yeah.
+Reducing the dimensionality we are using this word embedding.
+Shall we move on to the next topic? So till then things are clear shall I proceed?
+Okay, I have not uploaded module 3 yet because I have not complete the module, right? Once I complete the module, I will upload the PPT.
+Okay. You want me to explain one heart?
+Okay. See this one heart encoding is uh we will be in machine learning uh when you're creating an application when you want to convert uh when you want to represent some categorical value u so we will be using this one heart encoding.
+Okay. Uh so in which characters in which category we will be using this one hard encoding we will be using in the words labels or character for example um you are just creating an application form in that application form you do have a field called are you interested in this course so for that answer will be yes no yes no okay so I'm just going to convert the particular um column to a binary vector by giving yes as one and no as zero It's just a simple example.
+So when you want to do a um if you're splitting some words okay so if you're going to use this in older NLP model okay like which was very first NLP models they they have used this one hard method for the classical applications for example if they want to tokenize they they just use the combination of 001 and with the zeros and ones they have encoded the word and they have trained the NLP model but that was very old uh uh [Music] model is it clear so how now let's understand how this word embedding are created okay so this word embedding are created uh the just a way to represent words in a matrix format. We can say it as a continuous vector space.
+Okay, remember last class we just did the corpus model. In the corpus model uh we have did uh lemonization, right?
+So first what will be happen token text into words then we will be removing these stop words and punctuations. Then we will be normalizing the text which means we are just converting text to the lower case and stemming. Right after then for every targeted words there is some fixed number of surrounding words.
+Okay. So with that we will be training the model um so we do have a model which is called as data set which is called as tiny word embedding.
+So there they have just given the um vector for each words. I will show you that.
+Uh maybe if possible I can get the image and put it over there.
+Okay. So if you look into this image, this is according to um uh remember last class we have used a module called corpus. So according to that module here we have just represented the each word with three uh threedimensional matrix okay threedimensional vector I'm sorry we should not uh you have to use the term vector so if you notice in this example each word like cat dog apple so which are which are associated with the unique vectors so For example, if you notice in this vector, see, look at the values of cat and dog which are close together, right? Which are reflecting their sematic relationship. Okay? If you look into the um happy and sad, so have opposite direction indicating the contrast meaning So is it clear? Move on to the next Okay. How these values are um decided? Okay. Understood.
+See the values okay the numbers in the vector are from the training. Remember we have just taken the corpus. Corpus what is corpus? Last class we have used it right.
+In last class we have just used this what is corpus paragraph no I I mentioned in yesterday's class what is corpus No. Stores different sematics words. No. No. Ps collection of No.
+[Music] No. Very good. It is a data set. Corpus is a data set. In NLP in NLP, we do have this data set. This data set is made up of real world text. So it includes books, articles, websites, tweets. Okay. Now coming to the values, how the values are decided to this tokenization. So depend upon the corpus.
+Okay. Uh it is trained on a very large data set, right? So from the large collection of text okay this corpus optimize the vector value to capture the meaning b based on the content context. So this is how the values are decided. So do anyone have doubts in uh tokenization and word embedding? If you have any doubts, please drop your doubts in chat or else can I move on to the next topic. Okay. Now we're going to understand since there is no queries in chat collection of term. Okay, I just summarized what is word embedding ones. See we know what is tokenization. Tokenization. Tokenizer is a model uh for uh in uh see in every model we will be having the tokenizer.
+tokenizer will um split the given string into small small words and each word has its unique token ID. Okay. And the process of converting token to a vector is called as word embedding.
+Uh no uh TF IDF is not a it's it's not word embedding. It is considered as it is not at all considered as a word embedding. It is a vector representation of any text.
+So TF IDF it's a way uh it's numerical way of representing importance in documents. Word embedding is representing in a vector representation by capturing it [Music] meaning.
+Okay. So word embedding takes place after tokenization month. Good question. So what do you think Naven what is your perspective? Yes. We're going to learn this next. So I'm just explaining the basics. Once you understand the basics, now we're going to create a program I didn't get any answer from you. What is what is your opinion on your question? No, it is not like that.
+Whoever required it will be tokenized.
+No, it is not like that. Remember the steps which we have learned the flow uh process flow in NLP. First we will be having the raw text. The raw text will be converted into tokens. Tokenization.
+Yeah. there each word will be splitting into small small sorry so each uh sentence is splitted into word subword or a character right so during that time the word will be mapped with the token ID after then with the help of the token ID they will be converting it to the uh word embedding so it will be like this maybe okay I'm [Music] Okay. So for example, now I have a word all is well. Okay. So what is this?
+This is a raw text. Now this raw text will be converted into tokens.
+All is well.
+Okay. After uh I just mention it as a tokens. Okay.
+So after then after after uh splitting the uh text into tokens the token has to be mapped with the token ID. Yes.
+Now if all uh uh token ID maybe I'm just randomly mentioning the uh values this is not the exact values just for example I'm mentioning over here so what is happening mapped with token ID. So first we have a raw text. After getting the raw text, the text has been splitted into tokens. After splitting them into tokens, it is mapped with the token ids. Okay. Now with the token ids, we are just going to do word embedding.
+So converting each token into a vector. So for example if it [Music] is okay if it is 2 3 4. So this will be converted into 3D vector like uh 000.2 2 comma 0000.6 6 comma again it is a random value please uh don't ask me how do you generate this value how do we got this okay so the token ID is converted into dimensional vector how the values are will be converted depend upon the sematic meaning and relationship the mering will be happen here I have given the random values but uh in general it will not be like the random value. It has every word has its own sematic meaning and relationship with that. The values will be generated into 3D Hope it is clear.
+Okay, it's a very good question. Uh, what is the u relationship between word embedding, vectorization and one heart encoding? So there is a difference between all these three things. Okay, first let's take vectorization. So what is vectorization? It is a method. This method will convert the text to numerical vectors right uh vector in the sense array of numbers. Okay. So in vectorization we do have different methods. Okay. We do have one heart encoding. We do have TFI uh uh TF word embedding. Yeah. So these are comes under vectorization. So this vectorization is a broad like umbrella for turning numbers into so text into numbers. Okay. One heart encoding is one type of factorization. So over here we just uh represent the words only with the binary value of 0 and one. So it will be having the combination of 0 and one not then any other words. Okay. When it comes to word embedding again it's a specific one of the type of vectorization okay over here we are just mapping the word okay mapping the word to uh it's it's tense and uh um low representations so how this is happening this is happening by capturing the semantic relationship between the words.
+So what what it means which means similar word have similar vectors. So typically if if you someone has asked whether we have to one do only 3D no it is not like that we do have from 100 to 300 dimensions compared to thousands for one heart. So vectorization it's any numeric representation of text.
+Okay. One heart encoded we will be using either with binary value zero or one.
+Okay. Word embodied where we will be learned from the dense numeric picture.
+Um is your daughter sorted? Uh uh I think your name is Hitisam. Hit Sham. Am I pronounce your name correct?
+Okay.
+Now, now we're going to understand about transformers. Uh I hope you all remember transformer which we learned long time back. Not long time back, three to four classes back.
+So what is transformers? Can anyone tell me?
+I think in module one we have learned about it. Parallel processor. Okay. Deep learning. Very good. Neural network architecture. Good. Good.
+So we can say this is like a process of converting uh sequence to sequence. Have learned about sequence to sequence and transformer. Right? So uh this transformer has the attention mechanism.
+Remember in RNN we can able to um listen only for the certain duration. So in transformer we have four um important concept. So first one is self attention. Remember we have discussed it already. What is self attention?
+What is self attention?
+[Music] Hello. Am I audible?
+[Music] So what is attention? Self attention.
+No.
+Better context capturing by given weightage. Very good. Nin. Gooda.
+Capturing relationship between. Very good. Importance. Okay. Thank you. Now only I can see the text.
+So self attention is giving important to each word in a sentence. Right?
+What is encoder decoder?
+So what is encoder decoder?
+input output. Okay. Helps input and encrypting and decryting. Okay. Compare compress.
+Okay. Decod construct. Okay.
+So remember like last class we have just seen the example of uh generator and uh compressor same applies here. So what encoders will do? Encoder will receive the input and process the input and decoder generate the output sequence. So in encoder is for input sequence and outod uh decoder is for output sequence. We can say input [Music] sem sequence and decoder is for output generator. Okay. So what is the next concepts which we uh saw in this transformer which is parallel processing? Uh one sec. Give me a minute.
+I'm sorry for the interruption. Yes, Posh. The next one is parallel processing. So, what is parallel processing? In parallel processing like uh unlike uh RNN uh in parallel processing, it works on entire sequence at at sequence at a time. So where where the training speed efficiency has been improved and the last one is we do have positional encoding. Over here we do not build the sequence or order at over here we just work based on the positions.
+Okay. So now let's see how this transformers work in let's do a small exercise in Watson.
+So I just stop share the screen.
+Now let me open Watson. So I'm sharing the screen.
+Okay. So here let's create an application to practice the transformer in NLP. Okay. So now we just going to understand how tokenizers works in transformer model. Okay. Are you all clear what we going to create now?
+Is everyone clear with what we going to make now? Can I get some response please?
+[Music] Uh Anushka Singh which link you want me to send. Okay. Now we going to uh understand how tokenizers work in transformer model. Okay.
+So here we're just going to load a pre uh trained tokenizer GPT2. Okay, with that we're going to convert a sentence to token and then from that we're going to we're going to decoding the token back into the word. That was the task which that we're going to perform. Okay, first let's create the project. So what you have to do you have to click on the hamburger icon go to the last and choose what's next. Okay. So from here we have to choose what's next AI. Hope you are on the same page.
+So, do everyone got the same page?
+Okay. All right. So, over here what we going to do? I'm going to create a new project. So, how to create a project?
+Again, click on the hamburger icon.
+From there, select view all projects. Yeah. From there, create a new project and name the project. Um I'm just going to give the project name as token. Okay. Once you give the project name, click on create.
+So you all got the same uh page like this Adita. Yes.
+Are you all there? Great. Okay. So over here uh we going to import asset. Okay.
+So if I going to work on any model okay straightforwardly I can load some data set and I can build on the uh pre-built pre-trained model from the foundation model. Okay but now what I'm going to do I'm going to check the um how transformer works in NLP. For that I'm going to import the assert. So in the in the over this tab you have to select on the asserts.
+Okay I'm going to import a new assert.
+So you have to click see first you have to select the asserts from the menu bar.
+After then you have to click on the new assert uh here since I have already imported the Python model it is showing up here.
+So for you all you have to just type notebook and it will show the model. So I'm going to work with the model in Python.
+Okay. After selecting the model, you have to define the model name. So I'm just going to give I'm going to give my model name as um P1. Okay. And it will show you which lang which Python version that we are going to use. So it is showing up 3.11.
+So I'm clicking on create and within few seconds the interface will be loaded. So do you all got the interface? Notebook was not available.
+It will be there for everyone.
+Aditya social you are in which shop? Uh which page. Okay.
+Same here. Huh? What to search? You have to search for notebook. Can you please tell me which you're in which step?
+Okay, it's loading. Okay. So once you click on the assert page there you can find a search bar. Maybe I can go back.
+Okay. So once you click on the assert, so you have to click on new assert. After clicking new asset, here you can see a search bar, right? You have to type notebook in the search bar.
+Then you will be getting up the model. Chan, you're in which page? Can you please let me know?
+Server's slow.
+Okay. This was the previous step. What to do after? Okay. Terun.
+After clicking the new asset, you have to search for the notebook.
+Okay Pal after selecting the asserts after clicking on the assert maybe over here you have new assert right you have to click on the new assert after clicking on the new assert here you have to search for notebook. So once you give notebook you will be getting this model work with data and model in Python or R notebook you will be getting up this and you have to select [Music] it. Once you select the model it will ask you to enter the project name. Then click All the steps from the beginning. From which step Okay. See if you're getting the uh something sometimes no result, no data found, reload the page and try again.
+Maybe due to the server uh you cannot get it up. Everyone will get If you have a good internet then you will be getting this page. Please do check your uh it's logged.
+Okay.
+So once once you once the page has been loaded over here what I'm going to do I'm going to load the uh libraries. Okay first I'm going to install the transformer library. So I'm going to install the hugging phase transformer library. This library help us to um it it will be having the access of pre-trained models like GPT, BERT. Okay.
+From there we can take their tokenizer.
+Okay. So, I'm going to use Okay, here I have my first code pip install transformers. So, what this will do, this will run the code in the shell prompt and it will install all the required packages.
+So did you all complete the uh packages in installation Kia? What's happened?
+Maybe the network uh might be slow that is why it is stacks at 99%age.
+Okay, very good.
+Okay, you don't need to select any runtime. Automatically it will fetch the runtime by you. Don't select any runtime. Just give the name and click on create.
+If it is stuck at 99%age which means you have very poor network. Okay.
+[Music] How did you run? Okay. See once you just like your um just add the terminal add the code here.
+After adding the code here, can you see a play button? This play button help you to run the code. So here all the packages has been installed. Okay. Even if I'm going to create any other program, any other project, I no need to install this again because it is already installed. Okay, the second step is what I'm going to do. I'm going to import the important um class. Okay, just let me charge my laptop.
+Okay. Now from the transformer I'm going to import the auto tokenizer. Okay. After then I'm going to create a variable called tokenizer. Uh in that variable I'm going to check I have some issue.
+So I just created a variable. In that variable I'm just going to store the I made a mistake.
+Okay. So what the autodoger will do it is a class. It automatically picks the correct tokenizer based on the model name. Okay. And from the pre-trained GPT2 it will download all the to doer like vocabularies, merge rule, configuration files, everything. Now what we have to do? We have to give the input.
+So what it will do over here here I have just passed a message which is it was a dark and stormy. Yeah it passed to the tokenizer. Now over here we have the um written tokenizer equals to pt. What this will do? This will convert the token into um a pyarch tensor. Okay this was a required for model. Okay this was a model input. We are just giving the input to the model. Okay over there we have the input ids. This will give the actual ids that represent to the word and subword in the given text. Okay. If I run this code, I will be getting the uh token from the tensor. Here it is showing the tokens.
+So do you all get the output till this? I will show you how do we import the first maybe I can give the code in chat by using pip install transformer help us to import [Music] it libraries Please.
+Very good. And I will give the next part of code.
+So once you all got the output, please update me and chat. We'll move on to the next step.
+Do you all got the output? Shall we move on to the next part?
+Okay. Can you please repeat what returns tensor to? Okay.
+Sure. So over here we have given the input uh the input has been passed to the tokenizer. Right? Now we have return tensor equal to pt. What this will do?
+This will convert the token list into a pyarch tensor. Okay. Uh which is required for model input. Okay. And we have dot input ids. This gives you the actual token ID that represents the word subword. Okay, PT means by touch or if you want you can Okay. Is it clear now? Now shall we move to the next step? Now what we going to do? We going to decoding the token back to the text.
+Okay, for the decoding back to the text I'm going to use a for loop. In that for loop I'm just going to uh process the each token in tensert.
+So I have decoded the Okay, I'm just sharing the code in chat as well.
+Okay, very good question. Someone asked me why we have uh seven values in tensor we have only six words. Yeah, so what what happened here and kit? Please understand we have passed the value called it was dark and strong. Okay, it has only six words but according to GPT2 tokenizer it splits word into multiple tokens especially if we have some punctuation or vocab if it is not in vocabulary. So over here this straw has been splitted into uh two words which is storm and white. So that is why you we got seven tokens. You got my point. and get everyone got the output.
+Why did you put ID? Yes. That was our variable name. That is why we kept it again. Here you are asking. This was our variable name. That is why I put it in the last as well.
+So over here inputs ids is part of the tokenizer output. IDS is your input variable which holds your input I mean your data.
+Okay, they have already answered why do we have seven values for the six words.
+So did anyone miss like why when the explanation why do we have uh seven values in for the six What? Okay. Because some are like uh Yeah, understood. Some are like um giving the same text uh dumping the uh inbox. So, I'm missing many of your inputs.
+Very good. What does PT store? PT doesn't store anything. It is a pyouch. We just calling them model. Okay. Now can I give you one uh input? Let me give you one sentence. Uh you all try to predict it.
+Okay, just put the word in over here. So this should be your input text. Tell me the answer. What is the answer that you all got? Night in the city of London with three dots. The quotes has been shared already. Sam ready.
+I have just given a text. You have to use this text in your code and find me the show me the answer. Okay, this are good. Syntax error. How come?
+Let me show you how to apply it over here. Just copy this text. I just take the same code. Instead of this text, you have to pass that text encoding and decoding on the same block. Okay, if we run the code, this is how it will be.
+Very good. Most of you have got the right answer. Good. I appreciate you all. Well done. Now, shall we move on to the next part?
+Okay. Now we're going to understand how to predict the next word using GPT2 model. Okay.
+So before then I have a um Google form to share. Please one minute. Let me share Just a minute. I'm sharing this.
+Okay.
+Okay, try with the same uh thing and whether the calculator and smaller makes any difference or not. Check out. See, I have given the same thing, right? You need to save it auto. We are working on cloud automatically it will save uh when you open next time the document will be there. So please try with the same output sorry same code.
+Let's try with the same contest changing the uh letter uh case. Change it to the upper case and check whether it is working or not and update me in chat.
+Uh I will send the Google because your uh multiple people are uh sending the text in chat and we have few people need to uh s fix it up there IBM C issue. So once it is fixed I will share the Google form in WhatsApp group there you fill it up. Okay. Ar again. No, it will not. It will tokenize only London. Okay. So, all right. I think it's time um uh so let's wind up the today's session. Today we have learned about tokenization. What is tokenization? Why it is important and how it works and we have seen word embedding and how it works and we have understood what is transformer and four key concept in transformer and we have just exercised the transformer in uh WhatsApp next.
+Okay. So try to create some similar task in WhatsApp and if you find any doubt any glitch in the particular code you share it with me email. Okay. when you are emailing me please update please give the proper context sometimes you are sending the mail without any subject yeah and you're the even if you are giving any text it was like a WhatsApp text sometimes you are using the short ends so please try to elaborate your uh issue properly all right so those who have done those who have complete the task you can leave if you have any doubt You can put that in chat. Those who are having issue with the IBM C account, IBM C uh creation, please stay back. Let's have the doubt clarification on how to create the IBM cloud account. If you have any issue with the feature code thing, uh please stay back. Others can leave. Thank you all. Thank you for listening. Please don't drop any text in chat.
+I will call on after the other then you drop it up.
+Okay. Okay. We'll check it tomorrow. Thank you.
+Now if you have any please drop all your issues in chat. I will call one after the other then you can explain your uh work.
+No, IBM cloud is not the C not able to access Poland till now.
+Okay. Arian, can you please uh Arian Sanchi, can you please give me your ID, register number when you please WhatsApp me. I will update you on that.
+Okay. Bin Kumar. Okay. So those who are getting error when you are applying feature code, how many of you have that issue?
+Can you please raise your hand? You're trying to apply the feature code, you have the issue. Those who are having the issue, please raise your hand. Okay, great. Now, can anyone give me the um credential so that I can show in my screen how to fix it up? You can do the same.
+Okay. Harish Shri please give me the Passport.
+Uh Harishri please share the uh verification code.
+So what?
+uh Harishi please share your uh feature code. Okay. So if you are getting a error like this. Okay. Before pasting the feature code what we have to do? We have to go to a link. I will share the link in chat. Everyone those who are facing issue while applying the feature code uh please use it up okay use this link just a minute I'm sharing the link Okay, I'm sharing in chat. So those who are facing issue with applying the feature code, please click on this link. Okay.
+Okay. So you will be getting a profile page like this. All right. So in this profile page, did any everyone got this profile page? Copying his feature code. New tab. Paste.
+Okay. So, uh if you notice those who are having I I told you on the other day, right? So, if you give the last name just like P or V, you will get some issue. So, I'm just going to the contact information. In contact information, see the last name was just P. So, what I'm going to do, I'm just going to change it as IBM. Okay. And then over here I'm just giving the salutation as mister and I'm updating this. It's been updated. I'm coming back. So automatically this will be done.
+Okay. Actually I made a mistake. While updating the profile make sure you have been logged out. Okay. I'm just rechecking it. Everything is fine. I'm going to log in again. So can you please quickly share the credentials because after then so many input was there.
+Just a minute. I'm just loading the chat. Chatting is getting loaded.
+Oh, I'm sorry, Harishri. I thought uh I will change it up. Uh please share the credential once again.
+Harishri updated That Okay. Can I verification code? Please share me the verification code quickly.
+Rash Jane, please let me uh fix this first and I will come back to yours.
+Okay. Now let's give the feature code. Feature code over here.
+So it is applied successfully. So your account has been updated. So how do check that? You have to go to manage account [Music] setting. So here you can see that your account has been updated.
+Okay. So this is how you have to fix the issue with um when you are trying to paste the uh feature code if it is not working properly please use this method.
+Okay. Okay. Vit thank you. So I hope those who are having the issue has been started. Oh I'm sorry the screen is not shared.
+SA can you please share your credentials? I will check it up. Okay.
+Anushka. Um, let me check yours and you will be getting a ver uh uh like verification code. Please share that.
+Okay. Please share the verification code. Anushka.
+I will do one after the other. Now let me check Anushka's [Music] issue. Uh Anushka are you there?
+Okay. Unmute you. Okay.
+Okay, Ashant I will check. Please wait.
+Anushka I have given the access to talk.
+Can you please unmute and talk and tell me what is the issue?
+Are you there?
+Hello. The issue Anushka.
+Uh yes ma'am.
+Um problem is ma'am uh when we are doing what's onx AI ma'am am I audible yes you are excuse me ma'am am I audible yes yes you are please continue ma'am whenever I'm using what's next I'm getting this issue and IBM Yeah and ma'am this is with a very good network connection also and ma'am as we go to IBM cloud ma'am it opens another like similar interface and all those things but ma'am in the uh navigation panel I don't get the project option also I have to create a project by going to like uh at the just at the bottom of the web page uh there's a create project option from there like when we open the what's next AI after going from the dashboard to what's next AI in that interface uh I'm not able to get the project option and also ma'am the notebook option is not available and ma'am in the resource list my uh location is set as Frankfurt but ma'am while you were guiding us regarding how to set up the IBM account ma'am you set it for me as uh Dallas so I don't know uh like what it would be because of that I'm getting an issue Understood. Understood.
+Your project is not available. Yeah.
+Yeah. I'm checking that. Please wait. You have worked. Project is there. It's working fine, right?
+Okay. None of the assets has been loaded for you right.
+Hello there. Okay. Can you please uh share me the details in what's uh in email? I will look on to it.
+Okay. So, Ashbat, what is your issue?
+Ashwat, am I audible?
+Hello.
+Uh, yes ma'am. Okay, please drop a mail.
+I will fix your issue. Okay. I think there is something I need to check. It will take little time. Uh please uh drop all the credentials. I will look onto it. U should I personally on the Android one or should I do it to the PC?
+I gave my mail ID right JNC at Android Technology. To that mail ID you have to drop a email. Okay. Sure ma'am. Okay.
+Thank you.
+Okay. So those who are having a notebook issue, I just look into it. I I I I'll let you know. I talk to the technical team and I update you on this.
+Okay. So any other issue apart from this? Do anyone have any other issue apart from this? Please drop it in the chat. Unable to play feature code.
+So Chris Rajan can you please share your credentials? That's Verification code please. Crush Please give the last name as IBM. Oh, I'm not sharing my screen. I'm sorry.
+It is updated. It is not showing token has been updated. See if not it when you when you just go for the upgrade account, it will ask you to uh the over here you will be having the type register with code. So that is not there which means your account has been updated.
+And let's check. See everything is working fine.
+All works fine. I'm unable to log into my program account. I tried for posit option. type my email but I did not receive any. Okay, just try to login with try to login with the default password later on we can look into it. Okay, so regarding the notebook issue, yes, please do drop me a email with your credentials. I will look what it is. Okay ma'am, so far notebook issue.
+Yes, for notebook issue please email me with uh details.
+So those who are having a notebook issue please drop me a email regarding the skill network I will update you. Still for us for the startman it is not yet assigned. Har prasad. Yes. If you guys having any issue with uh the fe [Music] um hope all the queries has been sorted.
+See if you uh if you want to check your code is updated or not go to manage next to account you will be having the account settings click on the account settings there you can see ma'am I'm not able to access what's in yeah so I cancel my account conver you please share the credentials I will check it How to check if the quality is up against those who have the issue with um notebook. Drop me a email.
+Give me the verification code mandep already I have shown the steps how to apply the feature code please check on that okay those who dropped the credentials I will check it up uh can you please share the uh verification code. Are you there? Can you please share the verification code? If you don't have the surname, please put IBM.
+Hello. Didn't receive it.
+Okay. Better you just drop me a mail. I don't know why you are not receiving. Uh it is showing that you receive there is an issue in sharing the OTP. So please drop me a mail regarding this. Attach the appropriate screenshots.
+convert. All right. So with this I'm going to end up the session. Hope most of your queries has been sorted please drop a email.
+Yes, Lkesh. See, so far I have not uh we have not done IBM C. Okay, I will look into it.
+Conver, I I showed you how to do the feature code. Maybe after this class look at the recordings and please try to complete up still if you're not able to do it then drop me a email. See what was the last name that you have given in your account. I showed you the steps right?
+Did you follow the steps? Okay. And try again. Surely it will work.
+Okay. And if you want to confirm go to your account ITM cloud account there you do have the option of manage. In that manage you will be having the account settings. From there you can verify your account has been verified or not. Okay. So do any other queries apart from this? Shall we end up the call? Shall I end up the call? It's jansy atroid techchnologies.in. Okay. Then then then WhatsApp me uh location will fix this issue.
+uh link for the WhatsApp chat to be honest I don't know you just drop the uh you just drop the text in the group from there I will call you from the official number Okay, I I will text you from the official number. So that is not my number bin. So any other doubts? Shall we end up the call? Any other queries? Okay, if there is no queries then I think we can end up the call.
+Thank you so much.
+Maybe uh just check tomorrow if still it is there you mail me regarding this.
+Okay. Disha during this call I have showed you what was the last name that you have given in your account settings.
+Please go and check it up. Still it was there. Then mail me with the appropriate screenshot.
+Okay. Uh please give IBM sometimes it won't and please make sure whether you have given the salutation or not. If even if there is no salutation sometimes it was it will not work. All right. Still if it is there then uh update all the screenshots and do mail me.
+Okay. All right. Then any other issues? Okay, great. Thank you. Any other issues? Do anyone else have the issues? Okay, then. Thank you all. I'm ending up the call. Good night. Meet you tomorrow. Bye-bye.

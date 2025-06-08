@@ -1,0 +1,595 @@
+hello everyone good evening am I
+audible yes thank you Naven so the participants strength is too low so let's wait for 5 minutes so that others
+can join so they will not miss the session oh good evening man
+good evening Sel okay
+yes uh yes Navin uh soon we're going to post a um assignment in LMS sorry which
+means a prol you will be having a assignment this
+weekend so did you all practice that exercise two sorry three and four I'm
+sorry two and three fine
+nin almost okay yes good goro
+goodie so
+GPS and if you notice uh IBM uh cloud account is server is very down we
+couldn't access IBM cloud today so what I planned is so let's create an application with uh other ID which means
+you can use Python notebook or Google
+collab whichever suits you fine
+Yes server down um what type of assignment google
+Krishna it depends see um we'll see how much we can cover till Friday okay so
+based upon the topics which we covered till Friday I will be giving you one task which has to do on the weekend and
+you have to submit it on the Monday yes you can use VS code
+um a small task not a kind of application a simple task kind of a
+programming one and you know at end of this uh course you supposed to submit a project with us so soon we will be
+discussing about the use case so you have to we will be giving a use case so in that use case you have to work on and
+you have to submit a project okay no assignment will not be in MCQ
+format yes it is marked assignment reook okay
+mad so once you all open your ID can you please update here so that we can start creating the application
+so please do update me once you are ready with your interface
+okay today we just going to see how see last class you have created the code
+generation application using um what's an AI environment right so in
+today's session we're just going to create the same using Python code
+and then we're going to understand what is classification and how to implement classification in a
+code sure in just a
+minute yes how you can use Google Collab as well
+yes IBM cloud see IBM cloud uh server is down so we cannot use it right away so
+let's practice the code today in either Jupyter notebook or Google Collab or if
+you're comfortable with any other IDE please use
+that Arian I'm talking about IBM clouds usually where we used to get into uh
+what's next right uh that interface is not
+looking you have to run that in your PC abinavia
+uh last class itself I have mentioned you the in screenshot they have used the old model okay uh but you couldn't find
+the same model in the latest what's next which you are using so over that you have to use
+chatbot using um experiment foundation model experiment you have to select that
+one Okay so shall we create it
+up okay so let me put a open question to you all
+okay so how will you write a simple uh code
+generation with rulebased programming language
+so where we have to give if else right if condition exactly we have to use if else
+in looping so if you know the machine has to print this code for example if
+I'm going to create an application which has to print only the uh factorial or
+only the palendrome program I will be giving an if condition if user gives this prompt then print this code else uh
+just go with a uh default value right we can do such like that so what will
+happen if uh so can can we write the code for all the possible programs like
+that will it is it possible no right so how to overcome
+that how to overcome that
+[Music] um we can Okay we can train a model with
+suitable okay very good Madin Kumar [Music]
+um okay we can use a model good
+Nishant I like GPT good we can uh using any buildin applications good one yeah
+you know uh train model from next word prediction
+okay good try okay yeah good one yeah we have to
+use any trained model so we have we are going to use the same we just going to use some LLM and from LLM we're going to
+take on any one applica uh pre-trained model from the pre-trained model which is going to generate the uh code okay
+remember last before class we have used how to generate a image from the given prompt
+text yeah so for that which model we have
+used for that which model we have used no we have not used GPT 4.0
+zero for the image to sorry text to image generation which model that we
+have
+used good stable diffusion hugging face li hugging face is a not a model which
+is a library so what is the difference
+between model and Ready
+what is the difference between library and model
+good good shab good man good Sam good
+one good ya good
+criticumar good brah very good right great right great right great right great right great right great right great right great right great right great right
+answer
+right okay good gosh good aan
+Well done so in uh now we going to use same the hugging face library from the
+library we're going to select the uh model and there we're going to start creating the um application okay so what
+was application that we going to create in today's session we're going to create a code
+generator so how how we going to build it we're going to build through uh transformers
+okay first let's install the required libraries so I'm going to use pip
+install so tip install trans for
+m and I'm just going to use accelerate
+okay and I'm just going to to clean my um to clean my output place okay i'm
+just going to keep the super bubbles for the output uh space i'm just going to use white
+so I'm installing the
+libraries so do everyone clear with why we are installing these
+libraries uh I had just changed again thank you
+so do anyone have uh Okay so if I put that in quiet mode
+it will keep my output area very cleaner it's kind of a
+cleaner m got it okay
+so do anyone have doubt in this particular code shall I move on to the next
+code okay see we going to create we all know that we're going to create the application code generator right so
+um if I want to generate the code we I have to use the library hugging face so
+this hugging face library is available through the it's a pre-trained model which is available in uh uh transformers
+so with the help of pip so pip is a command which help us to run uh shell
+commands okay so through that I'm going to install transformer which is a hugging face library it it it has many
+pre-trained modules um so that I'm using this libraries okay and then I have used
+accelerate okay this is optional if you want you can use it or you can skip it
+uh without this also your code will work fine just to speed up the model because here we if you give a prompt it's going
+to generate a code right maybe the time has to be very fast the the the performance has to be speed up so that
+is the reason I have included accelerate if you don't want it is optional you can remove that okay and this quite is also
+optional uh every single time when I run my output the area has to be clean so that is the reason I have just used
+quite it's a cleaner notebook
+fine transform spelling is still wrong yeah sorry I didn't see this i was
+in France for
+months actually I was in the uh Zoho page to see your comments i didn't see
+the error thank you thank you
+Adita yes thank you mother i have changed it
+up uh it's CPU i have not used GPU because it's a simple small
+application
+it's my humble request during the session please don't do any
+DMs Because every time you send some text now it's like a pop-up box was hiding on my screen i
+couldn't so now all the libraries has been installed successfully just a minute official call
+okay so Aish what what is the error what was error that you're getting aish so
+hope everyone uh install your library successfully
+and present this quite is just a cleaner notebook which keeps your output area
+clean okay now after this we're just going to
+import the required modules so from the transformer I'm going to take only the
+modu uh required modules here I have a question okay instead of the library
+straightforwardly I can use the modules right why I'm installing the library first then I'm importing the
+modules what is the reason
+what is the reason
+okay it's part of a transformer very good man
+very good was the right answer
+good good
+and sound is coming i don't understand adita is there any background noise you're trying to say there is a
+background noise from my side
+okay I'm sorry just a minute let me see what it is
+i'm sorry i think the noise is reduced now
+okay so the answer is like the good uh good good practice is like if you install the module okay from the library
+instead of instead of installing all the modules we are just using only the required module so that is the reason we
+are first installing the library and then from the library very specifically we taking the module okay so if without
+the library the module will not work if the module has to work first of all I have to import the
+library so as usual I'm just using
+import okay
+um till this things are clear shall I move on to the next
+Okay ta is a Python library uh we can say this is a core
+Python um so from pyarch this to is a core library okay this is help us to
+work with tensas and which help us to run our model so that is the reason here we are just importing
+touch okay and here if you notice here we we are just use auto tokenizer so
+what is the reason of using tokenizer this tokenizer will convert the strings to token and back to the strings again
+so that is the reason here we are using auto tokenizer and we have used the model
+auto model for casual lm so this model uh specialized for um uh like code
+generation it's very um meant for uh ideal for code
+generation should I move to the next code
+yes okay now we have to load a pre-trained code okay so first we have
+to uh we have the model from the model we have load the print pre-trained code
+see just visualize just compare this code to your uh IBM cloud so in IBM
+cloud you will be creating the what's next in the what's next you will be choosing which type of prompting that
+you're going to do whether it's a free or structured so we will be selecting the structure after selecting the
+structure you will be giving the prompt input and output so before then you will be selecting the model the suitable
+pre-trained model for to complete the task here we are going to do the same okay here we just going to create we
+have we just going to choose a suitable model for this so for that I'm creating a variable uh I just keep it as a
+model name in this model I'm going to uh uh choose the suitable um
+uh code model okay pre-trained code model okay here we're going to use a model called Salesforce code gen okay
+this model is a open-source model from a Salesforce okay this this is help us to
+generate code in multiple language okay so in double quotes I'm just going to
+mention sales force
+slashcode jin
+hyphen 350 hyphen
+multiple so what is this 350 this 350 is size of the models in parameter so you
+can give up to 350 uh million parameters which is light so it this
+will run on your CPU in collab this will not run on GPU this will run in CPU
+because of its
+lightness okay now what should come next maybe I can run this
+code okay okay no errors we'll go to the next set of code so what should be the next logic
+actually I didn't understand like you have given in
+um can you please put your uh query in
+simple are you asking this out of curiosity You're just testing my
+skill okay
+i didn't talk anything
+Rohit it is not uh I didn't take this code from YouTube hope I didn't take
+this code book code from any books okay it just come out of experience um I
+think I have mentioned you already i have eight plus years of experience four years I worked as a game developer and
+four years I worked as a fullstack developer and here as a project manager
+in Android technologies it just comes from experience I guess
+and sometimes if code went
+wrong no that I don't take that credit like I didn't write the code all by my
+own I write the logic if it is goes wrong then I will take any AI help to fix it
+Okay thank you for the appreciation so can we continue with the code
+it is not like that Arian like if you're comfortable the thing is like if you're comfortable with one program language no
+uh you can understand any code all the thing is like only the syntax get differ
+but you can easily decode the logic that is what happened here if you give any
+code I can easily decode the logic in regardless of the structure Even I can write some code with um error i can I
+know uh I made so many mistakes in code but I can decode the logic if you're good in logic you can write a good
+code okay uh I think we can continue with the
+task uh my question is what should come after this see I have imported all the required libraries i have imported all
+the models yeah now I have included specific model this is a pre-trained
+model okay here we will be having all the data data kind of data set
+okay so what should come next yes Adita you have to see uh in
+previous class you have set the uh runtime to GPU right so it has to be
+revert back to CPU which we can get little later once let's complete all the things um we have to put in prompt okay
+good social good right uh we have to take the tokenizer okay we have to take
+the tokenize okay create auto tokenizer object okay
+good good good try i appreciate first um now you have
+mentioned the model right uh for every model has its own tokenizer because here
+you're just going to get the input in the form of string and you're going to process the uh string as a um and in
+that tokens yeah the the string has to be convert to tokens which can be understand by the machine and then from
+the tokens it will be generating the output so what's the next thing you have to download and load the tokenizer to
+your model okay so let's see how to download and load the tokenizer to your
+model why we are doing so because every model has its own vocabulary right if
+you're giving one string that string has to be converted to its associated uh
+token ID this token ID will be taken from any vocabulary which is associated
+with comes along with the tokenizer of the particular model now what we going to do we going to download and load the
+tokenizer which associate with the model so over
+here I'm just going to take type tokenizer
+equals auto tokenizer
+so from where I'm going to access it from a pre-trained model so should I have to
+mention the model name again over here what should come over here in the bracket which parameter I have to pass
+here
+can you tell me which parameter should I have to pass there
+just a minute let me connect a charger
+uh can I get the answer which parameter has to be passed here variable what is a variable
+name uh good Anthony good one aditya goodas
+kia yam it is not GPD2 because nowhere we have mentioned GPT here so here we
+are just going to use this model i'm sorry okay so here already we mentioned
+that this is the model that we're going to use so over here you have to pass this as a
+parameter okay
+so now what will happen this language model from the model name I mean uh so
+the the language uh it it loads okay okay the variable model loads the
+language model
+towards okay now let's create a function in that function we're just going to generate the prompt so I hope you all
+know how to create a function in
+Python so I'm going to use the keyword diff
+gin rate underscore code
+over here uh I'm going to create a new uh later on I will be creating a variable called prompt uh in that
+variable user will enter his prompt okay whatever value user enter on the prompt has to be passed as a parameter here so
+I'm just giving it here is it
+Yeah uh till then things are clear shall I move on to the next line
+okay um shall I proceed no doubts
+right
+very good most of you have given the right answer
+okay now I'm going to create one uh variable in that variable I'm just going to uh get the value in a structured way
+so that the model can understand uh the code in a readable way okay so let me
+create a variable called input text so over here I'm just going
+to get it in a string format okay
+uh as uh uh output
+code two and whatever I'm getting as a prompt
+I'm just going to pass it over here and then I'm just giving those in a
+new line slash will be giving in a new line okay so here I just added a structure command so that the model it
+helps the model to understand the write readable Python code
+okay now this token this input has to
+be tokenized yes the text has to be convert into a uh convert to a tensor
+using the tokenizer so for that let's decode it encode it
+so for that I'm just going to create a variable
+input okay input is a keyword so I cannot use it so I can use inputs so
+inputs equals tokenizer
+tokenizer dot so what is a uh how how to change the
+tokens to num vectors with encode function so
+we are just going to use encode okay and here we have to pass
+the values parameters so what are the parameters we have to pass we have to
+pass the
+input text and the written tens are
+Okay so PT means pyarch okay so here I'm just converting text to a tenzar using
+the tokenizer later on I'm just writing the pyarch tensor which requires the model inference so that is the reason
+here we are just written tensor to equals to pt pt means pyarch sensor
+okay now I'm just going to convert the uh output okay i'm just going to convert
+the uh vector to text again for that I'm just going to create one more variable
+called output so in this variable I'm going to
+use model dot
+generate so what it has to
+generate I think I made mistake it is showing my color
+actually here I forgot to add the
+model
+here I will be passing the model name
+okay actually I missed it that is why when I call the model it
+is showing some error okay now generate inside this we just going to pass the
+parameter the parameters are inputs because here we have the uh encoder so
+inputs uh and then I have to mention the u what the generator will uh will do
+here this generator will tells to the model how to generate the code which means the token okay so the maximum
+length should be 256 and the temperature should be kind of 0 to 7 you can give
+any range below the one if you and do sample we just going to do
+which means enabling sampling
+okay so max
+length 256 and I'm just going to use [Music]
+temperature equals 0.7 then
+do sample = to
+True okay so till then uh things are clear to you
+right let me come to the
+chat yes
+now see now the uh machine taken the tokens uh sorry string it converts to a
+token now the token has to be uh revert back to the readable Python code right
+for that let's create we have to do decoding because here we have done encoding now we just going to decode to
+the human readable format so for that I'm just creating a variable called code in that variable how do we access it now
+all the toas are stored in the tokenizer right so I'm just going to use
+tokenizer tokenizer
+dot decode converting back to the human readable
+format there is an error we'll check what it is little later
+somewhere i missed the
+Okay check that later
+okay so over here so where do we have the tokens the tokens are stored in the output right
+so let's give let's call the
+output
+with skip
+special tokens equal to true so what is the purpose of this skip
+special token okay this will remove tokens like EOS end of state uh sentence
+padding so those tokens are special right so this will skip all the special tokens when
+decoding and I'm just going to return the code back to the
+function now I'm going to get the prompt from the
+user and I'm going to get the input from the user so I'm just using the input function so inside that the user will be
+giving
+um enter the
+code that you want to
+generate okay so now will will we get the output do we get the output now
+yes but here we have to create one more variable so that this will call the
+entire function to this variable because we have some
+uh we have to call the function right this generate code then only the code will work so for that I'm just creating
+um a variable called output
+code equals so in this I'm going to call the
+v function so what is a function which is generate code so
+generate code and where I'm going to pass the parameter
+this user prompt so what will happen when the
+function is called this uh this this is this variable pass to this function variable and this function will be
+called and all the code will be executed and it will return the human readable code so that will be stored in the
+output code okay now if I want to print the
+um statement so I'm just giving
+print third
+code so we have to print this variable okay let's run the code
+first we have to token let's read the
+error it is telling that repository is not
+fine okay it was not able to uh get into
+the library why so I have given the right library name
+everything let me do anyone able to check uh fix the
+error what was the error
+[Music]
+actually so here we should not have this
+Yeah so it is asking us what code do you want to
+generate maybe we can take this to the new line slash
+in slash in now let's stop and run
+again okay so odd or or even
+number
+Already I have skipped this masked this with skip special token did anyone got
+the output
+okay generated spelling the last okay this is not a problem because
+this is inside your print whatever you give that will be print that is not a
+problem so here I have the code can you see
+this it is working fine if I run this code
+again everything will be disappear it's just because of this
+um here you while installing the library you have given quite so because of the
+quite every time when you run your output area will be clean so hope you all got this output do everyone got this
+output sure i will be sharing this code in chat okay from the library
+i have shared the code in chat
+okay previously I just missed when when I create the model name I missed out the
+uh I just made an error in the model name i just give only 350 i forgot to give M capital M so that was a mistake I
+made and when I change that it it works fine sham you got it
+yes yes Sham you're right so do everyone got the
+output can you all please update in the chat if you got the output or not
+okay okay you want me to give the input once
+um print
+hello
+world so my output is here i have just given print hello world so here is
+my code
+okay all
+done no problem take your time and try and if you find any doubt anything not
+clear let me know
+anthony can you please update me what is the error of course the class recordings
+will be uploaded in your
+drive it is not an error still it is generating the code please wait for some
+time
+hello uh can you please give me a
+Actually I don't understand one of your student has like called me right now
+please understand during the session please don't call me don't uh text
+me okay it is not recognizing the library uh maybe can you please share
+the code exact code what
+you okay Anthony no worries I will be sharing this code in prol maybe you can
+try after some
+time see in your model name you have missed M after 350 you should have M
+please I have shared the code right and the code is also visible in the screen please check it by yourself and uh
+correct it see only debugging will make you a better
+coder all right so with this we all take 10 minutes break so come back by
+6:20 we'll move forward the session
+okay to you all can we take a 10 minutes
+break yes A this code will run in Visual Studio Code
+also yes please take 10 minutes break and come back
+and which means uh you have not used tokenizer please do
+check uh good question sound you cannot generate bigger code with this program
+this is a simple lightweight it with this you can able to print only simple uh codes so if you want to generate a
+little uh heavier codes then you have to we have to use GPT3 and there we have to use some API keys we have to we because
+there is a different interface right if you want to connect that interface with yours then you need some API keys and
+with that API keys with that you can able to create it
+yeah we can do that
+yash okay IBM cloud is working thank you Ragul for the update let me check
+thank you Rul for the update
+so welcome back the session so uh IBM cloud is working fine so let's do
+a task in IBM cloud
+okay so now we're going to practice the exercise which is given in your IBM C uh
+so the exercise is we going to practice classification so what is classification
+can anyone tell me what is
+classification meanwhile please all of you log on to your IBM cloud and update me once it is done
+are you all there can I get any
+response good mother good pers
+good criticumar I will explain rishik please
+wait in this in this exercise I will explain that so that you can understand much better please wait for a few
+seconds okay so here we just uh shall we start the task is everybody's ready with
+the enroll uh I mean interface
+This
+Again my humble humble request to you all kindly please don't text me during
+the session should I have to um clarify your
+queries in WhatsApp or should I have to take the session please
+understand thanks in advance okay now let's create the
+project um let's take what's next
+i'm launching the application sharing the
+screen i'm going to create a new
+project just give the project name as class
+E5 and I'm on create
+did anyone face an issue in creating the application
+what's wrong with
+This anyone facing an issue like me
+okay uh let me check one last time
+okay
+d
+please let's try uh by removing some project actually this is not the right
+way maybe a glitch we'll check once
+okay I think some glitch again
+so everyone getting the same message or do anyone able to create the uh application
+Uh possibly can you all please give me a minute let me check with the back containing
+Someone again they have texted me i'm so sorry strictly I will not respond to any
+of your messages or calls during the session thanks for your
+understanding okay I think it's a glitch let's stop this
+screen someone told me like they have just get into a project a old project
+maybe a P1 so there they are trying to add a new asset
+i don't Oh yeah it is working I guess
+ah okay
+okay someone asked me the reason of using sapling and temperature okay let
+me explain it okay see when we are creating a model okay
+uh this decoding okay this is uh this is a main thing this thing knows how
+language model generate responses how to choose between greedy and sampling
+decoding yeah so depend upon your um output depend upon your expected output
+this will be happening okay so now let's understand decoding parameters decoding par decoding can be happen in two uh
+method which are greedy method greedy parameter and sampling decoding parameter okay so what is greedy uh
+greedy parameter which is uh this will select the token with the highest probability
+at each step okay so if you do like this so what will be the what will be the
+advantage you can structured and inst it can be a structured or instructure
+content you will be getting the ideal factual data yeah so so in in which
+scenario you have to use this greedy decoding approach so when you are creating an applications like code
+generation some mathematical problem or some uh technical document or some kind
+of uh FAQ or instructions in these scenarios in these scenarios of application you have to create sorry you
+have to use the decoding uh parameter as greedy okay so in the code which we are
+using recently we have used sapling decoding so how this sapling decoding
+works it works on randomness choosing from uh uh like any token distributing
+any token so not just the one on top it will choose uh anyone
+randomly how it works how it controls
+the parameters which are temperature top K and top B so what is the temperature
+the randomness control randomness um if you are taking the highest value it will
+be more random okay if you're taking the low value it will be very very less random okay and we will be having the
+top key so from the sampling it will be take the top s tokens okay and we do
+have the top P also this is for the smallest set of tokens so we use top rarely
+so when you have to use this sampling decoding so when you're approaching some chatbot role playinging or some kind of
+storytelling script writing so on these um scenarios uh you have to use
+sapling okay I hope someone I just forgot the name I'm so sorry uh your has
+been clarified okay so over
+will explain yes you're
+right shoubam okay uh I'm going to share a link in
+chat it's a feedback link okay so I want each I uh expect each one of you to fill
+the feedback form without fail please do click on the uh form and
+update your feedback once it is done update me in the chat as well please
+take five minutes of your time
+so please use the link which is there in
+chat thank you Aki oh yeah sure I will reshare the
+link those who missed the link please use it
+okay what is the purpose of auto model for casual LM u because that is the
+model this model help us to generate
+code does it always clarify or should still should I have to explain a bit
+deeper uh I don't know this is form from Android like they just want to take a feedback like how the classes are going
+on are you comfortable with the class so that is the reason they collecting it
+up great thank you Roy
+see Salesforce they just we are just using the pre-trained data
+set that is not a model that is a data set
+preset did me delete that because it was two time by mistake I just mentioned it
+two time that is why I deleted
+Okay a you
+kidding thank you so much for the feedback
+don't do like this
+buddy thank you for feeling the feedback
+tanisha it was a good one um instead of me explaining you can you all please okay take your time just go through the
+different types of model in ML and understand why the models are used in those scenario
+yes sure I can explain uh Ashna but IBM cloud is not working right okay can I
+explain you just by showing the screenshot from the IBM C do you all okay with that can I explain lab 4 and
+lab five uh just by showing the screenshots from there so maybe you can
+try a little le later later
+that's so nice thank you
+Shira no these kind of feedbacks made my day thank you
+you know uh while developing code like we are like I was in a critical projects where we spend day and night to create a
+game no even I didn't get the satisfaction when I teach
+Um if you want to be a game developer like uh you should be really good in physics uh you should really good in
+math and you should know see it depends if you're going to create a 3D games uh
+depend upon the requirement um you should know like I was in I worked with
+Unity game engine so there we are using max to max to max we use C sharp so if
+you know very good in logic you can place
+well hush the cloud is working but we couldn't get create
+the Oh really nanit is it so you're good in
+game design game development i'm sorry uh no Adit i have not worked with
+Unreal Engine i worked with Unity engine
+great good choice Aish i think we are deviating from the
+uh topic
+um Johi just drop a email okay
+see if you want to be a fullstack developer you should be really really good in HTML CSS JScript see if you are
+very strong in JS you can easily fit into any framework so like mean or m
+both comes like both is a full full of JScript right um I was I'm a ME developer so uh I
+don't I'm not I don't have much knowledge about other stacks
+yes Aish I agree with you the class is not over i'm so sorry
+like we are into
+Okay see if um Mitra like if the code is not working well in the VS code then you
+have to check with the libraries because in uh in collab like many uh libraries
+works inbuilt but in VS code you have to literally install it by your own uh so
+again if possible you can share me the terminals uh messages terminal outputs but then we can understand what are the
+libraries that is requiring for running
+up yes yes uh
+Shoubam okay uh so do you all agree with sharing the IBM C there can I show the
+screenshot because it's a simple thing all need is just an explanation I will show the screen and then you can please
+uh go through the steps later on when once everything is fixed then we can you can just create the project by your own
+and if you feel any uh glitch or anything not working well then we can do that in next class 10
+That's Are you all okay with that
+okay I'm sharing this screen project class sorry
+classification project
+okay see over here we just do we are just going to give classification which means we're going to give a set of uh
+instruction from that the machine is going to classify which uh which which
+uh type is it okay so first just like uh creating the last project you have to
+click on new project selecting the project and you have to add the asset so over here they just give experiment with
+foundation model build prompts but the one which we are using the one in your trying you couldn't find the same model
+so what you have to do you have to check with um the type what is that I forgot
+chatbot chatbot with foundation model uh build prompts so select that model that
+prompt okay then it will react over here
+so from here you have to select see so far you just worked with structured so from now on we going to work with free
+form so what is the difference between structure and free form any
+idea structured where you will be using templates yeah kind of input output
+format but in free form so this is a a way you can enter any kind of natural
+language prompt without restriction which is ideal for testing okay so over
+here you are going to select free form after selecting free form you have
+to select the model flang ul 20B is it a opensource or IBM
+model is it a opensource or IBM model
+then you all create along with me no goro it is not IBM model it is open
+source it is provided by Google very good a shanka yes yes shira good shira good
+rakshit good try if I use him yes it is open source and it was provided by Google very good uh and this is very
+meant for generating the um applications like um NLP if you are
+going to create any task which is relevant to NLP like summarization
+questioning answering code generating then this is a best model to do
+okay so here you can use like creating email summarization can be done with this uh
+free form plus flag ul to
+20b okay now below to this they have a scenario okay the scenario
+is over here they have uh this is going to uh respond to the people okay
+so here they have given the context you're going to act as a business consultant okay and over here you're
+just going to it's a project based thingy and there you're just they have some predefined categories okay and
+we're going to describe them okay so they have three categories which
+are model management customer care and data security so along to that they have just
+given the input so you can take all this prompt
+from Google okay so and at the last you can ask what is the project
+classification okay by reading all this when you click on generate it will give
+the answer it is data security if you compare to the previous uh applications which you made then you will be giving
+the input and expected output input and expected output and at last it will
+generate the uh output for you but over here you have not given any output sorry
+any input or output you have just given a summarization the machine itself understand classify and gives you the
+final answer
+so are you clear with this so if you notice at the end they
+have just given token 27 inputs three generated and 2110 out of 409 so the
+time taken is 13 1.3 seconds so what it
+means it is telling that the token usage when um so the model reached the natural
+endpoint in its resource sorry response that is what is it is mentioned as endpoint sequence token encounter and
+below to that you will be having token usage there it is from the input they have taken 27 tokens and the output is
+three tokens in to in total which is 210 tokens out of 4,96 token
+limit so is this classification model is clear to you
+all a final assessment will be kind of
+MCQ all right so we'll stop here with this uh from tomorrow tomorrow we will
+be seeing um the other
+projects okay um how to select the foundation model prompts then general
+techniques yeah we will do some sentiment analysis okay
+so if you have any doubt in today's session please drop your doubt
+and if anything is not let me
+know no problem i will explain again yes your project also will be
+graded and feel free to drop your feedbacks in chat if you want to be add anything to the session
+sure I will explain once
+again so you have to submit all the projects in Brolan okay see over here this part
+you're asking about this token part Disha and
+Madan okay see this was the last okay not
+this okay so over here I have given a very big draft so which mentioning the
+different name different project description okay I have all these things okay and then I have just asked the
+question what is the project classification okay so in in the total context totally I have 207 inputs plus
+three generated equals to they have given some data so what is the data all about they have given that token usage
+so totally input token is 207 and output token is three okay so in total which is
+210 tokens this 210 token is taken from out of 400 sorry 4,96 token limit and
+the response time the output generation time was 1.3 second so it is telling how
+fast the application is responding to you
+okay thank you so thank you all thank you so much uh feel free to drop your feedbacks about the
+session i love to see your uh feedbacks thank you
+uh are you still I have not created anything in prol
+Thank you Shubamu
+system yes Moansa you have to complete everything in the VIT skill network just
+look at all the modules and there you have to um do the skill check in case if
+you don't have any doubts you can wind up for the day thank you to a
+Thank you Kitik Kumar for the lovely feedback yes A Shankar what is your
+doubt thank you Arvin sorry
+Arian Ishan all the recorders will be there in your
+prologation of Python code I did with credit model the premium
+okay what is it doubt it looks like a statement yes those who are done those
+who don't have any doubts you can leave the meat thank you
+bye thank you all

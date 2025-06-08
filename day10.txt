@@ -1,0 +1,549 @@
+hello everyone good evening am I audible to you
+all yes thank you for the response okay did you all practice
+um instruction based
+prompting yes I have disabled the uh quiz in prollearn i want to ensure that
+everyone has uh have got their credential LMS like
+um so if everyone is able to access your prol then I will active the
+Okay see in last class like when I asked you for the um prollearn so you have not given the
+proper input in the uh form i was I was forgot to give the email id so without
+your email id I was not able to fix your prollearn issues and that's my mistake
+i'm sorry today we have quiz of course we have
+quiz so let's start the quiz by 6:00 uh meanwhile those who are having
+issue with your prolearn or any portal issues please fill the form meanwhile I
+fix and we can start the quiz so the link is there in
+chat i will drop in WhatsApp as well so please click on the link and drop if you
+have any issue with any portal issue it can be IBM C it can be prollearn or it
+can be IBM cloud any portal issues please fill the
+form see if you are mailing your concerns uh that you're facing issue
+yeah I understand but while mailing or while uh WhatsApp please drop your
+um your email id kindly hereafter don't WhatsApp me kindly do
+emails drop only
+emails no problem once I enable your quiz it is active for four to five
+class you can comfort uh comfortably complete the quiz within the time
+limit 1 minute
+Okay i'm sorry it's official call i need to take it
+up see quiz bill not visible right now
+um so please do fill the form if you have any doubts so shall we start our today's session so last class we have
+seen how to use um uh third party uh foundation model to create a
+instruction based prompting so in today's class we going to create how to create a gen code based
+prompting so did you all practice the last class uh code
+yes you have quiz today um and the quiz will be evaluated for 10
+marks
+okay I think you all very concerned about the quiz i told you the quiz I will make
+sure once everyone uh once I make sure that everyone is not having a issue with your prollearn then I will uh enable the
+quiz
+Ar quiz is not postponed it will be happen today i will enable it
+okay I'm enabling the quiz those who want to do the quiz right now please complete it so I think after completing
+the course you all let me to take up the class so I enable the quiz right
+away so
+You people are very concerned about the quiz uh test
+assignments okay the quiz is live now you can all start doing the quiz take only 10 minutes now time is maybe I can
+share the screen uh time is 5:10 so within 520 please do complete the
+quiz so it is
+visible you have maximum three attempts if you want to score more uh like if you want if you would like to take it re
+again you can do it it has three
+attempts krishna Gupta now that quiz is live you just go and check how many questions are there
+so those who are having issue with any of your uh portal access please drop the text kindly don't WhatsApp me see I told
+you not to WhatsApp me during the session time i have given the uh link in chat
+please complete fill the
+form see I genuinely want to fix the issue that is why I have taken the WhatsApp call so far but no uh you
+people are taking it for granted I guess like uh I'm just getting a u textes even the late night on
+Sundays just not fair
+so if you have any issue please email
+me if you want to do it later then it's your choice it will be alive for 5 hours
+[Music]
+see you can uh I have uploaded the quiz it will be active till um by end of the
+day which means active till 12 p.m okay so till then you can try you can
+complete up the
+quiz the quiz will be alive till 12:00
+p.m so you can attempt at any time and you have maximum three attempts
+so if you have any issue with the quiz or any issue sorry if you have any issue
+with your uh prollearn uh your any credentials like prollearn IBM C IBM
+cloud please fill the form which I have shared in the which I have shared in the uh WhatsApp
+uh chat and group
+Okay so you have five more minutes to complete the quiz those who are uh doing right now
+Just a minute
+all
+right you all done those who are doing now did you all
+done
+anyhow the quiz will be there till uh 12 a.m
+right maybe you can try a little later okay if the site is not working
+not a problem you can try a little later okay
+ibm C same as skill network since on skill network we can see
+RT since we have not received any
+mail okay see IBM C is the course see you are
+learning the course through the portal IBM C okay ibm C there you can see the
+modules what are the the detailed course structure will be there see uh in this
+course in this um jai with Watsonx you do have seven modules I guess so all the
+seven modules has been detailedly elaborated in the IBM C portal okay now
+how to access this IBM okay IBM C so this can be accessed via two ways okay
+one is either from the Android prollearn.in If you received any email
+credentials from us mentioning that the or Android [Music]
+um skill network.in you can login with the credentials which you have got mail
+ID and password if you didn't receive any mails then remember last class I
+have shared you one link skill VIT skill network link you all registered under this domain vit skill v.skll network so
+over there you will be having register button so you have to click on the register button and then please drop all
+the um informations which asked over there and then login up so while registering please make sure the name
+okay what name has to be print on the certificate you have to give the correct name okay and you have to use uh the
+email id which you have used for the course enrollment
+your IBM C exam will be conducted on that site only
+yes focus you can give maximum three
+attempts yeah I will be sharing the VIT skill network once again in the chat
+so I have shared this G network link in
+chat stop sharing the screen
+so here I have shared the screen uh see this is for those who are not get their
+IBM skill network if you have uh raised the query in chat that the IBM C access
+so over here you have to those who not received any login credentials from us
+okay regarding your IBM Credentials I'm talking about if you not received any
+credentials mail from us then use the link which I mentioned in the chat by
+clicking on the uh link it will redirect to you this page
+over okay so over here you have to click on
+register and then you have to drop all your informations see this IBM C is very
+very important because here only you will be having your final main exam and
+the certification is very important it's globally recognized
+certificate so here you have to give your full name how do you want to be printed in the certificate in the same
+way you have to give the full name registered email id the email id which you have used for the enrollment and the
+uh profile name password then click on create an account for free so once it is done then you have to sign in and there
+you can see your IBM C course I mean your uh genai with what's next course
+will be ritur that's what I told you if you
+received a credentials credential mail from us then there we have a separate link use that link just put the user ID
+password login up if you didn't receive any such mails then use this method and
+registered
+yourself chanu if you received the mail then use the mail mail credentials
+you will not get any mail from C you will be getting mail from Android technologies regarding the uh C
+credentials those who have any issue please fill the
+form see every class we are just utilizing this 30 minutes for getting this uh fixing this uh credentials
+issues
+okay the form link i'm again sharing the form link please do complete the
+link which is there in chat
+okay so if you have any issue please fill the form now let's start with the
+today's class i'm just going to open IBM cloud why it is not working it's the
+Oh my god I forgot my password
+please log on to your What is this
+i think IBM server is quite down that is why I'm not able to log in IBM cloud
+itself uh so do any other uh logged into IBM cloud
+okay thank you yes um as I said I think um server I
+server is down
+so let's revise the last class so
+Okay uh since the tool is not working let's use Google Collab or if you are comfortable with any other um ID you can
+open that okay
+ma'am last she thought how to give input and out oh you're we are revising yes thank
+you so I'm stop sharing so let's open Google
+Collab so over here let's do a task
+to do this task you can use
+um Google Collab or you can
+Python note Jupyter notebook as
+well so over here let's build okay my screen is shared
+okay now uh let's do a task the task is like we just going to build a uh text
+prompt okay so we're just going to create text to image generator so if you
+give a uh the web based application so where you're going to enter a text prompt and it will generate a image okay
+so once you all open the uh IDE please drop the confirmation in chat so we will
+start the project
+so what we going to do we're just going to create an application if you give a context a small sentence simple sentence
+this application is going to generate a represent image for that okay so to do
+this we're going to use the tools um hugging face diffuser library so last
+class when we trying uh transformer that is also hugging face library one of the
+hugging face library okay and we're going to use pyouch transformers
+yes so first let's install the required uh libraries to our terminal i'm going
+to use pip so through pip I'm going to install uh
+what are the libraries that we going to use we're going to use diffuser we're going to use
+um
+transformer so So pip
+install transformus
+diffusers
+spicy so I'm just going to use accelerate save tensor as
+well see the
+rate save 10
+source so these are the libraries which are required to create
+so we have to install diffuser
+transformers accelerate and save tens so let's run this code
+so once you give all the libraries it will take few seconds to install
+yes of course if you are very comfortable with VS code then you can use it
+up so here we have this
+So we have diffusers transformers spicy accelerate tensas
+flow so once you have installed all the libraries please update
+me tarun Kumar where did you join the session
+shall we move on to the next step do everyone completed this step
+okay so once we all done now we're going to
+use just a minute
+uh just a minute just got to
+Okay i'm
+sorry so all the package has been installed successfully now I'm going to
+create okay so already we have imported the library diffuser so from the
+diffuser library we going to install few um modules
+so here I'm I'm going to use the uh model stable diffuser pipeline okay so
+from diffuse
+diffuser diffuse oh oh this
+error from diffusers I'm going to import the
+model stable diffusion pipeline
+Okay so after then see this this table diffusion pipeline this is a pre-built
+pipeline so this will handle the all the comp all uh it's a kind of object bundle
+component okay so it it this is responsible for generating images from
+text so how it is working working based on the stable diffusion model okay and along with that I'm going
+to use the touch uh which is a pyarch library uh so it's a deep learning
+framework this has help us to handle the tensas and computation
+okay so I'm just going to use
+import touch
+r okay so did you complete these two lines
+any
+doubts let me come to the chat box just a
+minute okay so an now we are just going to
+create uh since our IBM cloud our interface is not working so instead of
+teaching something theory I just want to show a practical task uh how to create text to image generation so if you give
+a text as a prompting then you will be getting image as a result and output so how to do that so we are doing it with
+the core Python and with some pre uh train
+models spicy we have already used it right so how for uh generating remember
+in first class when you're using transformers so there we have used spicy
+Okay stable diffusion pipeline
+sure see this is a pre-built pipeline okay so here you will be having objects
+that are bundled together so you will be having different objects which are bundled together okay this this uh this
+is helpful or this is we can say this is very needed for generating images from
+text using uh stable diffusion
+is it clear
+torch is a pyarch like it's py you know pyarch library right so in in uh python
+we do have different libraries num pi panda similarly you have a library called pyarch so this pyarch library is
+uh very useful we are using pyarch in deep learning framework okay so why what is the purpose of this pyarch this
+pyarch Without pyarch you cannot handle tensors and computations so that is the
+reason here we are using pie chart
+is it
+clear should I move to the next line of code
+okay now I'm going to create a variable in that variable I'm just going to load
+some pre-trained stable diffusion model from the hugging face library
+okay so let's create a variable called
+pipe
+oops and I'm going to use a pre-trained model
+from stable diffusion pipeline so then how do we have to call it first we have
+to mention the model name stable
+diffusion model dot
+Fusion
+pipeline a pre-trained
+model so remember when we are using um WhatsApp next there directly we just
+go to the uh tool we we have we are using a tool what's next so there all
+the uh model has been available so from the drop-down you're just choose selecting the model and you're putting
+it up right but here when you're writing the code through python so you have to
+type the uh model name over here so here I have just given the model
+name run aiml stable diffusion version
+Right so we are loading so it loads from the stable diffusion version one model
+uh so where this model is located it is loc it is from the hugging face library
+right from there we are loading this pre-trained model okay and below to that
+we are using uh torch d type equal to torch.flat 16 which means we are just
+say we are just making uh when when it is generating it has to perform very
+faster so for the faster performance and low lower memory usage so it has to use
+one work only on our GPU not in the CPU so for that we are using this half precision method
+so the code is clear to you
+okay now as I told before now I'm going to use C G GPU not CPU so for that I'm
+going to create okay till then things are clear
+to you all
+once I complete the code I will share all at once
+okay so I'm going to check whether I have used
+Um
+this GPU or uh CPU so why we are using GPU it will reduce the memory usage and
+it will accelerate our time like so that the performance will be very fast the conversion will be very fast
+okay so
+here so I'm going to move the pipeline to um GPU which is uh available for the
+faster interface so pipe equal to pipe dot cuda so have you heard about this
+cuda have you heard about
+Okay actually it is help us to uh uh when you're generating any graphics
+for game or a video okay during that time so if you want to unlock their raw
+power then we will have to use CUDA okay so in ML training in AI IML training or
+image diffuser or video editing we will be using this
+CUDA okay so that is the reason here we have given
+CUDA so what this will do what this CUDA will do now over here in our
+context so it will check for the available uh GPU and then else if it is
+not available then it will fall back to the CPU so if if GPU is not available
+then my code will be run on the CPU which will uh takes time to load which
+will make the application to load slower so literally here we are checking whe
+the cur is available uh to run the uh code uh to to run the process generation
+process if it is not available if cuda is not available then we are going uh we
+are going to run the process with CPU now what if condition is get satisfied
+so what if uh cuda is available if it is available then the code is going to be generated on the
+particular context now I have to give the prompting right so
+in if it is what's next there we do have the option of giving prompts so over
+here it's a raw code python uh like here literally you are giving all the code so
+you have to give the prompting so I'm just going to give the
+prompt so what can we give the prompt what prompt can we give
+um
+So you can give whatever prompt you
+like okay this is my prompt so I want a image
+with rainy forest and fog okay so after then I'm going to we
+uh I have given the prompt now the image has to be generated right so what I'm going to do I'm going to create one more
+variable i'm going to name it as image so in this variable I'm going to store
+the image
+process so what we have just given uh we are just passing the prompt to the model
+pipeline yeah so what it will do it will tokenize the text then it will generate
+a Latin image representation and after then it decodes into a full color image
+and the output will be stored in the image zero okay this is usually the list of u um images and then it will select
+the first image from the list okay and at the last I need to save the
+image right
+so here I'm just going
+to save the image then I'm going to run this
+code what happened why I'm not related to
+Oh by mistake instead of giving code I have given text so
+far so now code is getting
+Yes I'm so sorry actually I was in the uh collab tool i when I was in that
+screen I was not able to see your chats if it is if I could see yours I could understand that I'm typing in text box
+instead of the code block so by mistake I have choose the
+text what is the error
+disha once my code runs successfully then I will share the code
+so it takes uh time to little time to load
+meanwhile I'm sharing the code in chat so did anyone got the
+image no okay let's see
+so that was the advantage of using what's next like that we don't need to worry about giving this like loading
+everything so where we can use any uh predefined
+model pre-trained model from there it will be composed fast here also we are using pre-trained
+model okay so let let it run meanwhile let's all take a 10 minutes
+break so we'll meet after 6 at 6:15
+take a short break short 10 minutes
+break code is there in chat
+let's take a short 10 minutes break so we'll meet at 6:15
+so welcome back to the session uh did anyone got the output for me it's still loading it's taking too much of time
+do anyone got the output
+yeah for me also it's still loading
+architkumar is what's an like uh IBM cloud is working for you for me it is not
+working i have shared the code
+already okay
+yeah no the code is correct i like it is like we are just using only the module we have not give any specific uh new to
+generate right we just giving the prompt it is it is very similar like how we did in the uh IBM Watson X here in my code I
+have just given I'm just using all the uh
+pre-rained model I have not used any code so it is not looping I guess aditya
+what is your perception
+okay so install float 16 we have to
+use float is it working for you
+sorry not I
+It won't check like automatically it will uh switch it up right should we have to set set
+that sham
+great karthikaria got the output
+yes as you also just I change my runtime to GPU and let me run the
+code okay just copy this code
+first let's complete all the libraries done okay
+so still the IBM cloud is not
+working okay meanwhile let's explore your IBM C
+over here if you look at my screen so here in your course in module
+4 okay I just share the screen how is this
+so once you log into your IBM
+C so you can see your course uh geni using what's next okay over here if you
+scroll down so they have given some lab
+code so here they have given the code for doing uh code
+extraction sorry code generation and extraction so here everything has been added with a screenshot so follow the
+screenshot and try to create the application when you come tomorrow okay so over here they have given how to see
+um uh in in any AI if you give the code for example if you visit charge and
+you're giving the prompt like give me a python code for printing 10 numbers okay
+so it will give the python code okay um over here we are just going to create an
+app which will generate the code any programming language code okay
+so here all the steps has been attached with screenshot so please do follow the
+screenshot and try to create this
+exercise it's a self explained all are everything is self explained uh please
+try this exercise as well as we do have another
+exercise which is extraction please look onto this exercise as
+well so try to create these two exercises
+both are in the same form which is uh structured
+method um so tomorrow you just try these two exercise so tomorrow first 15
+minutes let's explore this exercise once and we will be uh then get into the next topic so over here the third one
+is yeah fourth one is a classification project that we will do in the class
+is it clear what you have to do before coming to the next class
+john already the quiz has been uploaded in your prolearn it is it will be active till 12 p.m you can do at any
+time rishik see instead of uh learning from the PPT you have every all the
+materials over here in PPD I just mentioned only two or three slides very uh crisp uh only you can see the brief
+information over here you have the detailed info uh content okay I'm just
+going to your module Hey
+So here if you look into any content they have given elaborated information see they have given all the informations
+elaborated
+informations so you can refer from
+this in PPD I have just given only the limitized content so here you have the elaborated content from here you can
+prepare for your
+exam
+tonight I say today's 12 p.m
+connect yes Aditya you have to complete lab access 3 and four and if you find anything difficult if things is not
+clear you can um we can discuss in the first 15 minutes in tomorrow's class
+yes you can see whenever you have time you you please go through the previous
+uh module concepts um so as of now we have completed we are
+in the fourth module so whenever you do have time please go through the
+content okay so here we have introduction uh 1 2 3 around five six
+concepts is there right so go through all the concepts and take a skill
+check so try like this try to complete first three modules before next class
+okay she will check on
+that IBM C like you didn't receive any uh credential mail from
+us Mandra Singh
+sequence is already there in your prolog you can do at any
+time before end of this
+day see you have to complete every module see at least if you want to generate the certificate at least you
+should have the 75%age of progress if you scroll down uh scroll up over here if you look into the progress it will be
+showing you course progress okay [Music] um see at least you have to complete
+minimum you have to complete 80%age of this course to get the certificate
+so start uh start exploring this module 1 module 2 till module 3 please try to
+complete before uh tomorrow's class okay and try to complete all the skill check
+and once you complete all this topic at the last you will be having final assessment and with that we will let you
+know when you can how to claim your certificate
+it is compulsory of course it is compulsory then only you will be receiving the certificate from
+IBM okay let me check the code
+okay uh we got the output uh I can able to see the image the image has been
+generated
+so did you all got the
+output IBM C and Prolon Android proloon or not okay see uh to access IBM C you
+might get the link from Android prollearn Android prollearn
+link so through android prolon link enable to access IBM C few can access
+through that few cannot you have to do with uh vit skill network
+uh thank you so much for your message like it is like your I have showed you how to resolve the problem how to fix
+the notebook issue a long time back i have posted the video in WhatsApp group itself it is done for most of
+you if you missed that then you have to refer uh the
+WhatsApp group to check the decade
+okay sure so did uh did you all get this
+output did you all get the output
+uh who was that disha so if you're getting this
+message so install float 16 you use float
+32 okay let me explain this code once again so over here we are just generating we we are going to give a
+prompt so with a prompt it going to generate an image so uh text image generating that is our
+today's task to do that see um if you are going to do the same with IBM what's
+next in IBM what's next remember how the interface will be so over there we have to select the um crop type then we have
+to select the model so simply by giving input and expected output and giving the
+uh uh we will be getting the insection we will be giving the instruction sorry
+we will be setting up the uh app then in in uh instruction we will be checking
+the output it was as simple as it is yeah in that environment in what's the next environment so here we are just
+doing from the raw method in in py with the help of python
+okay so to do To achieve that first we need the libraries required libraries
+for that so with help of pip I'm
+installing one sec
+so I have just installed diffuser transformers accelerate scap and zert
+see why I have just give upgrade already i have just given a um the same the same
+thing has been given over
+here okay
+so after then over here from the diffuser library
+I I have used the model I just imported only the model stable diffusion pipeline
+I have imported this model now I have a question okay see why we are importing
+from the library from the library we are particularly using the model why don't we use a complete model instead of
+importing from uh the library every single
+Okay the code which I have given earlier was the correct code
+adita I have just given the same code i I didn't change anything so I just gave only the one line show okay maybe I just
+give the code once again in
+chat please find the code in
+chat no I didn't do any modification it is same as it is i just do only the one
+thing which is image show you can check with my previous as well
+even over here I will show this code and the this code are
+same nothing changed
+yes I missed this point thank you for reminding Hickey Sham see the thing
+which I have changed is over here I manually changed the runtime setting from CPU to GPU
+so over here I just change the runtime from CPU to T4 GPU
+what was the comment that you gave at the end
+so here I have the code
+so uh if you already installed the diffuser transformer then uh then use
+upgrade if not straightforwardly you
+can sure harass I will let you know
+yes so use this code and let me know whether it is working or not
+okay uh regarding the task uh once you done uh logging to your C uh IBM C
+access you can able to see this course right so over here go to your module
+four developing genai solution uh look at the exercise 2 and exercise 3 which
+is code generation exercise and extraction exercise so get into the code generation exercise see all the steps
+has been mentioned very clearly of the screenshot look into the screenshot and try to replicate the code see this is
+very simple see if we have the uh if IBM cloud works fine i will be
+showing this today but uh unfortunately it is not working uh there is
+some server glitch okay so this is how uh first of all what you have to do once
+you successfully getting into the IBM IBM cloud account then you have to click on all uh what's next it will take you
+to the next page from there you have to choose project all view all project create a new project after creating a
+new project you have to click on add new assets okay after selecting this uh here
+it is showing show showing experiment with foundation model and prompt build prompt but for us it will be showing us
+uh this was a older one now it is upgraded as chatbot chatbot with
+foundation model and build prompt something will uh the the same model which we have used in the last class so
+choose that and then change your see here change your code from lambda 27 uh
+0B chat because this is um this this model works very well with the code
+generation okay after then you have
+to give the instruction and input so once you done
+then you can start able to generate the code it is straightforward simple try to
+replicate try to create this in before coming to tomorrow's
+class try this code as well as extraction code
+same step every single time we will be changing the model based upon the uh requirement we
+will be choosing the model so please do complete these two
+task before coming to the next class
+things are clear to
+you which order you're talking about
+Adita yes of course see all the quests that see in IBM C over
+here see if you want to take IBM certification exam in this course at
+least you need a 75%age progress okay so over here if you look into it as I saw
+before right so here you can see your progress how to get this progress so over
+here So you have to all the modules all the concepts
+see don't just click next next next to complete the progress just read what is
+there inside the course okay
+and in every skill check I think you have two attempts to make it up i'm not
+sure so they have given a yeah so you have two attempts
+per question and if it's a true or false you will be having only one
+attempt so here you will be having the quiz so
+completing this quiz is also matters and try to
+u so this quiz is also taken for graded like for the IBM C exam
+okay so this is a small mile milestone checkpoints to take your
+um capstone exam which is IBM C exam hope it is clear yes IBM cloud is not
+working i think there is some
+glitch arti you just dropped a query right is the order matters like what are you talking about I didn't
+understand yes Aish what is your
+query yeah of course it is matters
+like you're talking about this code right this um text to image generation
+code or E task lab
+task okay someone in in in group they're asking like uh how do you complete each
+module means completing in class increasing the progress see it is not like that see this is just to track
+whether you have go through all the uh topics in the given module okay if you
+look into this module see now if I read all the things then I
+will be giving next so this is taken as a progress okay when you go through all
+the section in the particular module your progress has been improved from 1 percentage to uh a a small difference
+will be there in your percentage
+progress am I connecting
+i just open all the modules just try to go through the content which is there inside yes of course you have to open
+all the modules to increase your progress
+yes CB exam is different cb exams like that is there you will be getting a
+certificate which is global recognized certificate with a QR
+code nakshukra which which assessment you're talking
+about yes will show great impact in IBM
+C yes Adita the code should be in this order in
+uh see if your uh any of the credentials any of the portal access is not working
+please fill the form i will be giving the form link
+uh okay thank you Anishka surely I will upload all the PPTs i thought PPT will be limitized content so that won't
+helpful for you um I will share the TPD in that
+case so I have have shared uh Google
+form link in chat those who are having issues with your portal access please
+fill the form see it's really um I want to fix all the issues all your portal access issue so if you fix if you fix
+this then we can utilize this two hours completely for learning something learning newly every day okay so from
+next class I will not spend more than 10 minutes for the portal issues so please fill the form and get all the you should
+get it sorted by it
+so I'm sharing the link again in chat those who are having
+um okay so if you have any doubts in
+today's session you can drop your doubts in chat and if you have any
+suggestions if you want it be in the session that
+have this mention
+Yes by tomorrow you have to complete the code generation and extraction lab
+uh uh those who are having any portal access issue please fill the form
+okay uh I will be explaining the code once again from the beginning uh maybe
+So over here I'm just install the uh diffuser library is called diffuser
+transformer accelerate and save tens okay after then we
+just okay so this uh this safe uh stable diffusion pipeline model this model is
+from the library called diffuser so from this uh diffuser library I'm in I'm
+using this module I'm sorry
+model okay then I have imported the torch from the library pytorch okay so
+this is helpful for the deep uh neural network learning okay so here I have created a variable called pipe okay in
+that variable with the module stable diffusion pipeline I'm just going to
+take a model pre-trained model foundation model which is runaway ML
+stable diffusion version 1 - 5 okay and below
+that below that I have taken the to DT type equal to float
+16 so this this is help us to load see when you uh uh this particular code
+help us to reduce the GPU memory usage because this accelerated interf
+interference time right only works well with the GPU that supports float 16 for
+few people it is not supports 16 so you can use uh float 32
+okay and then I'm just moving my model from uh model to CPU so pipe equals to
+pipe do cuda if torch do cuda is available then it has to work on the uh
+CUDA which means CPU sorry GPU if it is not available if CUDA is not available
+then run the same application on CPU and I'm giving the
+prompt and I have got the image so in image I'm just sending the
+passing the uh prompt to the model pipeline so where the uh uh prompt will
+be tokenized then it generates the latent images and at last it will be decoded to the final full color image
+and we are just showing the image with image dot
+show was it clear to you
+okay all right so if you have any doubts drop your
+doubts if not thank you for joining and thank you for listening good night meet you all
+tomorrow that's okay also fine thank
+you thank you Roy
+thank you Shbam what software is this i didn't
+understand this is not a software this is a cloud
+application thank you
+Ashwant you have to do two more tomorrow
+C module 4 you have to
+lab there we have given all the screenshot try to complete the over here you have
+lab three exercise code generation and extraction try to practice that and come
+to
+10 minutes
+about you all right thank you all i'm ending up the call

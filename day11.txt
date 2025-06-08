@@ -1,0 +1,808 @@
+hello everyone good evening
+am I audible to you
+all maddi thank you for the response good evening okay so as I informed in
+group WhatsApp group in today's session first one are we going to fix all the uh
+portal access issue
+Okay Abino where can you get your IBM Credentials uh Abino did you receive any
+mail from us if you not receive any IBM credentials mail then not a problem we
+do have a separate domain for the VIT students i will be sharing that with you in chat please click on the link and
+there you have to register yourself please do it right away and update me if it is not done i look what it
+is just a second i'm just copying the link
+[Music] okay so now I have shared the link in
+chat uh please click on the link and register yourself with the uh like the
+in in name field you have to mention how it has to be written in your certificate okay and use your registered email your
+domain mail id and uh registered yourself after yes advid after
+registering what you have to do you can able to explore the screen where you can find the ja course there you start read
+the modules so in every module you will be having a skill check so if you want to take up the IBM
+Certification exam then completing all the modules is
+mandatory okay thank you uh Jansy hi Jansy hi ma'am uh Ji are they clear
+about uh like which uh URL they have to access for uh the C I mean for IBM
+course yes ma'am okay so uh there are two um
+instances one is android prolon.skillsnetwork uh site another one is
+vat.skillsnetworks skills networks site for both are actually same since the uh
+I mean um count is more we have given in two instances the difference between two
+is the login process for uh adroid technologies.skillsnetworks skills network we'll share the login cred we
+have already shared the login credentials to you i mean around some 300 400 students and rest of them who
+did not get the credentials for Android uh proland.skillsetwork please go to
+vit.skillsnetwork.site website and register yourself with your register email id and uh just like uh what John
+mentioned the name should be as it has to be reflected in the
+certificate so hope so we we have given access to all
+the students so there should not be any issue I think the confusion raised between the uh these two instances so I
+hope it's clear Now if there are still any doubts please
+mention in
+Q&A and also there were some uh uh like issues in name name display in the uh
+skills network so uh it has been fixed can you all check whether it the name is reflecting
+properly try to log into uh skills network and check whether the name is
+correct shall we give some time for them to uh verify all this to log into skills
+network if uh they do not get Android skills network credentials they have to register in vit.sklls skills network
+which uh JCI has mentioned in uh chat so please do that we'll wait by end of the
+session i'm expecting everyone to log into skills
+network and if there are any name mismatches let us
+know fino Maxwell uh actually I didn't get your uh query are you trying to say
+that the name in your U C portal is not yours is there any name mismatch
+okay so play uh please take couple of minutes and try to log in your IBM C and
+let us know if you find any challenges
+uh Fen know Maxwell i'll check and get back give me a
+minute okay now it seems like um that the mistake might be two okay either you
+will be logged in with the wrong email ID so make sure you're logging in with
+domain ID okay or else the second issue will be you will be getting into wrong
+URL so let me share the URL once again in chat please click on this URL and try
+to login with your domain mail id and still if you are facing any issue please let me know
+okay muhammad is if it is asking to like it will not asking to add one more it will ask you to add uh sorry associate
+with the network so just click what you have to do uh it will show a popup window there there will be a button blue
+color button called associate service you have to select the associate service button then again you will be getting
+another pop-up window there you will be having a check box which is with AIML
+learning so you have to check the check box and submit it then you can able to create the apps in
+WhatsApp hope it is clear please try now and let me know if you're still facing the issue
+aish IBM C and prollearn both are not same both are two different uh platforms
+so IBM C is a platform where you will be learning the course module concepts in
+detail okay and at the last in the C at the last you will be having one exam which is called as IBM C exam for this
+course J AI with what's next okay uh so once you complete the exam you will be
+getting a certificate with unique uh QR code which is globally recognized
+okay prolearn is a LMS which we are providing to practice the task quiz
+which are learning uh which are helpful to achieve the certificate just kind of a skill
+check is it clear Aish
+angel it is um it is not like that you need both prolearn and skill network in
+skill network through skill network you can able to access IBM C the course
+module and there you're going to give your final exam okay prollearn where you
+can find the session recordings the DPDS which we are discussing in the classroom will be uploaded over there and along
+with that you will be having few skill checks
+regarding the name mismatch i get back to you please give me a couple of minute
+[Music]
+so can you all able can you all please confirm uh whether you are able to log in your IBM
+C where you can explore the course genai using WhatsApp The next
+Hi Chansy hi ma'am good evening uh uh students I would like to uh raise your
+hand if you're facing problem in your skills network access so uh I'll unmute
+you you can say me i'll resolve it on call itself unmuting Ajitesh
+yes Sesh uh you can talk now unmute yourself and talk
+please i think there is no response from him so we can go with Adash Manoj adash
+Manoj you can unmute yourself and talk now you can share your query we will resolve
+it over here hello
+yes uh Adashi what is your uh uh problem what is what is the issue you are facing with C
+ma'am I'm facing issue in uh registering the my email ID
+registering your email id can you please share share your email
+id in Q&A now yes
+ma'am just send it
+got a uh email id yes ma'am i have
+Let me check Ajitesh first uh fol Maxwell can you check now whether your uh name is updated properly
+what is the uh URL you are using you have to use Android.sklls network uh
+that URL is is that the URL you are using
+yes ma'am uh could you please share the screen and uh uh show me ma'am meanwhile could you
+please check the status of agitation Serenia ma'am okay
+oh yes ma'am he has shared his email ID in uh I'm sharing it sharing it in your WhatsApp as well yeah yeah
+please ma'am i'm actually facing issue in skills network that
+hello so you couldn't able to register is it so yes ma'am
+give me a minute uh she'll check and uh uh I have not received your email
+id when I'm trying to register in that skills network site uh it is showing
+that you are unauthorized so give me 2 minutes uh on call she'll
+check and she'll rectify that okay so Adash I couldn't get your email ID yet yeah adashan manoj is that your
+IDN you have you also wanted to uh use this uh Android prollearn.sklls skills
+network site are you using that
+shut you are in mute uh can you hear me now yes
+uh ma'am I was able to log in like yesterday and all but then today it's showing email is invalid
+okay uh give me a minute it is also uh Android prologium will uh check now and
+uh resolve it i'm going for the next one akash
+Manoj akash Manoj now you can unmute yourself and uh send me your query uh
+ma'am for the Android website I am not able to log into it it says invalid login please try again android prolog
+yes yes ma'am for the Android
+[Music] prologash
+akashgmail.com is that ma'am that is a personal email for the Skillshare one
+i've sent you the um student email in the chat okay we got it
+ma'am one more thing ma'am for the skillshare should we uh we have to request access to the course right
+no need if you just register you'll uh uh we have already enrolled it so you need not request and with the same email
+ID as ma'am yeah with the same email idash and uh what's his name ajitesh uh can you
+check in vat.skillsnetworks skills network
+akash uh we have shared the text to your uh personal uh chat could you please
+check that and try it uh for your prolog
+yes please try it and confirm
+yes ma'am i'm able to log in
+okay Akash thank you so I'll go with the next one akshai
+uh Vidya um the two login which you shared they are in uh
+vat.skillsnetwork i believe uh no
+ma'am adashan and this other person right ma'am they were in uh uh Edward
+Brolan only ma'am okay let me check that
+aai you can unmute yourself and uh register your query i think actually I'm having
+problem in my name in skills
+network and now
+yes actually you are yes actually it is showing uh wrong
+Thanks your name is incorrect actually
+okay uh one minute let me share my screen actually you you yourself can uh do the correction for the names
+can I write my uh in the chat
+if my screen is visible okay so this is the portal at
+droid.skillsnetwork.site so click on this go to
+account and here you can change your name okay
+okay yes
+so this is ashi akshi kumar akshai dot 23 bc so I
+think it's Akshai Kumari you can change it and okay I'll change it you changed it okay
+fine so this is the way you can change it we are also updating from the back end but still if you can uh change it
+yourself that'll be great okay okay thank you
+So those who are having the name mismatch issue please rectify by yourself ma'am has shown the steps right
+gokul Krishnan Madan Prasad i think you all
+know the steps how to uh change uh change the name how to correct the name
+Next person uh Abiskar you can unmute and register your query
+yes you are i'm actually I'm having a problem with my C account earlier I when I logged
+into it I was able to log in with the same email ID and password but right now
+it's uh saying that it is incorrect uh what is your email ID please uh post
+it in i mean
+I sent it ma'am yes give me a minute
+with using yeah go ahead with yes ma'am proceed
+proceed proceed I'm able to log in with his uh credentials
+could you please check and confirm manoj I'm able to log login
+I just so you are using this URL adroid prolan.skills networks site right yes
+ma'am I'm using the same ma'am uh could you please check his email id as well ma'am yeah please uh
+yes also two days before he could able to access it seems now he couldn't able to access
+okay give me a minute I'm checking it one by one yes ma'am please confirm
+because it's working for
+Okay meanwhile we can go with the next person
+a you can uh unmute yourself now and uh register your query
+ma'am am I audible yes sush you are i want to ask uh I'm in
+that uh VIT skills portal and I'm not able to access the account page and moreover that tab on the like top of my
+browser it shows VIT Bopal i'm in AP but it still says VIT
+Bopal and the account share your ID yeah yeah I'll share on chat
+please
+this one I shared can you check uh I give me a minute
+on the account page it's a blank white it doesn't open
+it says active from R and uh uh Aush could you please share the screen uh
+have you activated you would have received I I'm able to access everything the courses
+and everything I'm able to access all of them just the account like when I go to view my account it's not visible like
+it's it just gives me a blank web page there's nothing there I mean I cannot uh
+okay sign out and try it from incognito or private uh window uh try it now and
+please let me know if still you face the same issue uh please screenshot and
+share your uh query to serenroid technologies.in so we will uh check from
+your back end and we will uh rectify it no I'll share it on mail then like I can
+mail right the screenshot yeah you just please try it once in incognito or private window and if the still you face
+the same issue please mail to senia ma'am so we will check and we will let you know and ma'am on the tab it shows
+vital is it's not an issue right like that is not an issue that is not an issue no okay ma'am thank you
+next person karthartikaya uh vidya ajitesh shukla's ID is also
+good to go it is working okay okay ma'am Ajitesh uh could you please cross check
+and confirm it Your ID is working it
+seems okay uh next person
+Dish danish are you there
+hello am I audible dish please uh confirm what is
+your query okay ma'am am I audible yes yes dish
+please proceed uh I am uh unable to upgrade my uh IBM cloud account for some
+reason uh Jani I think you have to uh uh answer
+this query what is the error that you're getting uh after uh applying the uh
+feature code I'm getting we apologize for the inconvenience but we are unable to complete your account creation please
+check the information you provided so uh can you please go to your dashboard and see your name how it is
+there like if possible can you please share your screen yeah
+ma'am or else you just drop your credentials i will check ma'am can check others query
+uh should I mail it to you no no no no like here itself in chat just drop the
+um credentials I will check in a separate window yeah okay ma'am thank
+you ma'am you can proceed with
+others any can you please uh uh unmute and register your query
+uh am I audible now yes you are yeah so basically uh this uh V skills network
+I'm trying to register with my the mail I have registered the course with uh the
+same mail i'm getting this unauthorized email address uh is it Gmail id uh it's vit.ac.in
+could you please share that in chat i'll cross check from back end okay just
+Yeah I've shared the email
+aia.23bc is it yours no it's Aneroth 2022
+i'm sorry to interrupt danish are you sharing the credential did you share the credential
+ma'am I'm actually trying to I'll just send it right now
+okay an what is the URL you are using uh vits network apps.killsetwork
+no you have you would have received email an you have to use uh android
+prolong.skillsnetwork.ite you were registered to that site so please try it now and uh let me know if you have if
+you're facing some query uh like uh invalid credentials sort of things in that URL for uh Android uh Android uh
+that I have created an account and given that quiz as well but uh this VIT skills network is not working
+no no no any one only you have to register you were registered with Android proland.sklls skills network you
+can use that this course is same you don't want to dear students please don't get confused the course is same only the
+URL is different so Android prol if you are registered please proceed with that if
+you have received email and you have registered with Android prol you don't want to register again
+with vit URL definitely you will get invalid credentials
+only thank you okay n thank you for all the three ID you gave it's working fine
+i'll repeat again ajitesh Adarman Aishkar Chawhan so I
+have tried your login so it works fine so please check make sure that there are no spaces like before and after the
+username and password please try once and confirm here
+okay the next p person Ashwin [Music]
+Hari Ashin are you there
+can you yes Sashin we can able to hear you please proceed i also have a problem
+with the uh VIT skills network because for me it's whenever I try to register
+it says uh unauthorized email address please drop your email in chat box yes
+ma'am
+uh I dropped it in
+what is the URL you are using ash uh ma'am I use the VIT skills network
+that URL no please try with the Android prolog.sklls networks site
+because I registered for that URL okay I'll try with that and let you know
+please yes please do you have the credentials for the Tesman we have sent you the password also
+uh ma'am I registered on prolan uh with one minute i'll answer you privately in
+the chat give me a
+minute yeah Gupta so you can if you if you are there please unmute yourself and
+uh register your query
+gupta are you there
+okay I will go with the next person har I have uh messaged you your uh
+credentials please try and let me know post it here
+adash and Ajitesh you have raised your hand again could you please confirm actually your login were working
+it seems could you please confirm that
+hello huh who's this uh this is
+yes Adash uh yeah ma'am skills network is working but the prologue isn't
+working uh uh so yeah ma'am
+so what is the slot you have chosen uh uh it's slot two slot one right slot one
+okay let me check okay yeah go ahead with the next person
+so the next person are you
+there isan Singh can you hear me
+yeah yes I could hear you please proceed uh yeah so basically my prollearn uh is
+working fine but I am having issues while using the V skills network site
+could you please share your email ID in Q&A yeah sure
+my Hello
+yes who is this hello yes please proceed i'm sir yesan are you
+able to log into prol could you please share your email id in
+chat sure ma'am you could able to uh uh access with your c like skills network
+uh yes ma'am yes ma'am skills network is working okay fine please share your
+email id in uh chat box we will resume it now your prol your prol credentials I have sent
+please try
+I I haven't received your email yet it
+ah you have shared with prol and network
+email is working fine just I have issues okay prol is working fine
+on is working fine but uh with the skills network like another person mentioned before I'm unable to access my
+accounts page me a minute
+hello uh it is showing active what is the URL you are using i am using the vis
+yeah it is working fine it is saying active from our Yes I am unable to
+access the accounts page though uh could you please share the screen
+i'll help you out one second
+uh other I just try logging into your uh prollearn it is working can you check
+again uh ma'am I checked it's working
+you able to share your screen i don't see the option to share my screen
+give me a minute i'll make you as a presenter please check now
+this is what it's showing
+couldn't see your screen yet johny uh can you see the see his screen yeah one
+second i No ma'am
+can you see my screen now man yes yeah this is what it's showing on
+the account account side website is working fine but when I
+go to my account this is all it show
+click on courses and projects
+this is your class you can start learning this class yeah that is fine but uh like you said
+to check out everything else like the class section and all this account page of mine is not opening
+uh check profile what what do you want to check actually in the account page
+the details okay go to my
+profile your name is correct right yeah name is
+correct uh try clearing your catchy and uh uh sign out try clear your catchy and
+try again so that page is not at all like coming up or it is blank or something yeah it's
+blank basically if I click on account the URL is changing but there's nothing on the screen
+signing out uh and uh clear your catch please try again once
+i I'm I'm stopping my screen share right now yes yes yes yes yes you try offline
+and uh confirm it again yeah thank you ishan Singh you would have received a
+private chat could you please check the password and try it uh using for your prolan uh yes ma'am it's working thank
+you okay thank you thank you ma'am
+go what is your issue what is your uh issue you are facing
+thing is my prolog isn't working means I can't log in i have accessed it
+yesterday and I gave the means the quiz but right now during the session it says
+that I'm unable to log in okay give me a
+Could you please share your ID in QA sure ma'am okay okay
+so uh we are resetting your password again so you'll get your password now in private chat please try that okay okay
+ma'am okay
+sharia what is your issue please share your
+issue can you hear yes sir anya
+uh while registering while registering I have given like wrong email id somewhat
+okay so that I'm not able to receive any emails and I cannot access uh WhatsApp
+WhatsApp and skill network okay so both uh prolong and uh skills
+network you couldn't able to login right no ma'am prol I can access wrong wrong email
+okay with wrong email you could able to access prolon okay fine okay so please share your full
+name in chat
+your full name can you repeat
+again your full name in chat box please share your full name in chat box you
+have registered with the incorrect email ID right so I cannot search with your email ID so I thought of searching it
+with your name okay excuse me ma'am
+yes I am I am able to access the prologue okay thank you welcome
+ar is this your ID email id have posted in chat box
+are you there you're in
+mute please use this email id which you which I have posted in uh chat box you
+could able to log to your skills network okay
+dish like you told like you have some issue with WhatsApp next still you have not shared your credentials
+hello mom can you hear me
+uh someone talked I don't know who is that hello ma'am it's Para again yeah s me
+yeah I have cleared the cash but the account page is still not open
+okay please drop a mail to uh serinia technologies.in so we will check from
+IBM and I'll we'll get back to you on this uh query okay okay ma'am and I have
+different mails for uh my Prollearn account and my skills network account that is fine right that is fine that is
+absolutely fine no problem yeah okay okay thank you
+thank you so next person
+Satya you can unmute and talk
+madan Kumar as well you can also unmute and talk ma'am previously I have
+selected the go to class option in uh Android skills network website but now
+it's showing okay but now I when I am accessing it it's
+asking me uh request access option it's showing me
+we should not ask like that could you share your email ID in chat box
+Hello ma'am can you hear me yes ma'am ma'am actually Madan Kumar yes yes
+ma'am yes madan Kumar see me uh ma'am I'm actually trying to edit my name in
+skills network but the account is uh not loading it's just saying it's just
+showing a blank page okay so you are also belongs to
+Android.sklls networks.ite right right uh no ma'am actually I registered it
+through v.sklls network as I didn't receive any uh credentials for
+Android network for that please share your email ID once i'll check that as well
+okay okay yes
+then have you shared it
+yes ma'am i have shared it uh right now
+it is active only so uh the same account issue your
+account page is uh invalid right blank yes yes ma'am i'm actually trying to edit my name i I wrote Mad should be
+Madan Kumar so I want to edit the name but the account page isn't loading
+okay i think the previous person will share email to Serenia ma'am uh we will get back to this account page issue uh
+by tomorrow okay we will cross check and we will get back to you on this by tomorrow
+okay okay ma'am ma'am and is there any if I continue with this VA skills network URL because uh I guess some of
+them have received mail for that Android program network but I didn't receive any mail no no uh for only those who got
+registered for Android PL skills network URL we have mailed them so the VIT
+student uh VIT URL students you can directly log with the help of your uh
+VIT ID not the official ID VIT ID please try logging through your VIT
+ID it is not an issue the course everything will be same the certificate everything will be same only the URL is
+different okay ma'am uh just asked because the tab
+name it shows VAL along with the username so Okay okay
+no it it is not an issue it is not an issue please proceed learning all the best so next person
+thank you
+ma'am many are mentioning that they have issue with blank page like when they are trying to log in it is loading a blank
+page hello ma'am uh uh actually actually Jan just a minute Muhammad Jansy we can
+get back to this on tomorrow okay ma'am okay so uh so those who have blank page
+issue and you have you have raised your hand please and uh unra your hand and
+proceed uh uh please wait your class will be started few within few minutes
+if you still have uh queries in your uh prollearn issue or your skills network issue please raise your hand we will
+sort it out one by one yes Muhammad proceed yes ma'am ma'am I'm
+having a issue with my IBM cloud account i'm not cloud account uh
+cloud account chie uh so maybe cloud account we can uh ma'am after after your
+uh issue fixing session maybe I continue with cloud account issues so we can fix
+everything yes please maybe continue Mohammed please wait
+so your your skills network and address problem is working fine right yes ma'am
+ma'am I'm able to login into account cloud account also but I'm not able to create a new project it doesn't have any
+object instance we'll see we'll see after after few minutes okay see those
+who are having issues with IBM um skill network and prolong please raise your
+hand and clarify those those who are having issues with what's next IBM cloud account we can see little later in the
+same class ma'am thank you thank
+you uh next person another Muhammad we have uh in call muhammad you can unmute
+and uh register your query followed by Muhammad we can uh
+have Sri Ram's query yes Muhammad
+yes ma'am actually skills and vit skills
+credentials are not working any I cannot log into any of the website
+uh can you please share your email id and check i okay ma'am yeah please
+caroline Sharon please drop your credentials so that we can check it
+up carol Sharon what is the URL you are using uh
+Mouhammed so you should use Android.skllsetwork yes ma'am hybrid only
+okay so uh please give me a minute i think it
+was registered with your uh uh Gmail ID let me check and get back to you on this
+okay yeah ma'am okay meanwhile we can go with the next person
+uh SA ma'am I have uh posted her ID in uh uh WhatsApp please can you check her
+okay regarding the skills network right i think we have Yes ma'am i think we have given access for her Gmail ID she
+was trying with her uh V ID if the access is not given it could you please revoke that and uh proceed with her
+registered V ID uh no it is not possible uh Vya
+okay if it is active then uh we can share her uh we have we can ask her to go with her personal lady ma'am
+so the next person shaming ma'am ma'am actually having issue with my IBM cloud account is that
+I discuss that now I'm not able to use yeah you can discuss that with your
+trainer post this session we will leave in another five 10 minutes after that you'll have your regular sessions you
+can ask your doubts in your regular class okay I'm fine okay thank you okay thank
+Raj Singh are you there what is your issue could you please unmute and uh register
+your
+query wangut Madav you can also able to talk now you can also uh register your
+query hello am I audible now yes please proceed yes uh ma'am when you say IBM CP
+you're talking about V skills network right correct the skills network
+okay so there is no other website right no no no only Skills Network or uh this
+one uh Android Pro and Skills Network okay for Skills Network you have two site one
+is Android prologs skills network the other one is vit.sklls network okay apart from this you have our LMS
+access prologer will post quizzes and you will be actively participating in that uh
+platform okay okay okay thank you okay
+thank you next person
+now you could able to talk
+Oh me so we could able to hear you say me
+ma'am uh when I try to log to that skills network site I got unauthorized
+email address ma'am for my address for my for my email address could you please share my share your
+email in chat
+so hope most of your IBM skill network C access issue has been
+sorted hello
+While registering you have given uh incorrect email ID that is where you are facing the issues now so let me clear
+that okay ma'am
+please check your email now you would have received an email from uh skills network you can uh try registering it
+and start learning
+okay ma'am okay fine
+yes next person gowi
+Gupta and Sumant anyone you can unmute and register your
+query and support you click
+I hope most of the queries has been
+fixed hello Hello ma'am am I
+ma'am when I'm trying to register for VIT skills network there is a issue that
+there is coming unauthorized email
+address hello ma'am sorry I missed your query come again
+please when I'm trying to register for VIT skills network there is a issue that my
+mail id is unauorized okay so please share your email id here
+in chat box yeah okay ma'am
+that you're talking about which portal can you please mention that also
+sudden uh are you a AP student
+yes ma'am I am V student no no no V AP yeah Vap
+but your email ID which you shared in chat box is V only VIT student it should be VIAP student.ac.in
+right yeah sorry for that ma'am we have given we have given access to that ID
+could you please check that yeah I will I will
+yes please we have shared access to that ID so if you could able to do it please
+cross check and confirm ashwin hurry like if you didn't
+receive any credentials from Android prollearn uh skills network you have to
+use VIT skills network there you have to register yourself i'm sharing the link please
+click on the link and register yourself uh hello ma'am am I audible
+yes you are who's this um actually I tried registering in the uh VIT skills network but it said unauthorized uh
+email or something like that so that's why please post your email id in chat box
+yes ma'am let me check hello ma'am
+yes who's this ma'am and previous yes
+yes sum yes sum ma'am I have issue with V8 skills network but I uh get mail from
+Serenia ma'am for that Android pro skills network for that
+I got mail link and password okay then please proceed with that link
+is there any problem no no no it will not be there that will not be any problem please proceed we can
+access either v skills network or clin skills network no no no you got email
+right so you have to use android prolon.skillsnetwork.ite but I am VIP student uh is it any issue
+for that uh no no it is not an issue it is just the URL you are uh using to access your course but the course
+content the name whatever you are registering you will get certificate in that particular name so that is not not
+an issue yeah okay ma'am thank thank you ma'am thank you okay you can start learning with your uh Android pronun all
+the best okay ma'am okay ma'am thank
+you rocky Satic
+uh Shreas if you're online please uh post your query
+hello satwic yes ma'am ma'am I'm not able to
+access Prolon ma'am prolon uh please share your email id so
+we will uh resolve it uh on Yes ma'am i sent it ma'am i sent it
+just a minute
+uh hello can you hear me trey we good able to hear you uh you can
+hear me right yes yes yes please uh ma'am uh I didn't get any email for like
+uh email for Android roller and even for VIT skills network
+but when I try to log into V skills network using uh my V email ID it said
+unauthorized uh email id but when I uh when I give my personal email ID it just
+works now so is there any issue with that no not an issue please share your Gmail
+ID here we will cross check whether it is active or not from our end uh theology
+my college email okay okay
+you could able to see this what's an x course there uh yeah I can see uh what's next course
+in my wrong email ID the other email id okay have you posted that in uh chat box
+no ma'am i'll post it right now yeah please
+uh Satic we didn't get your email ID yet for checking your
+prologed email ID
+pick 2022 atvit student.ac.in right
+yes ma'am that's the email okay on okay we'll check now give me a
+minute
+goyel will check about the what's the next little later
+yes have you posted uh Yes ma'am i have posted my email id yes ma'am i have
+password in the chat okay give a minute
+yes it is active shriash you can good to go with your uh personal email ID not an
+issue okay ma'am thank you you could able to access this course right yes
+ma'am i can yes ma'am okay then fine please proceed okay thank
+you
+yashika S if you have created a credentials via VIT skill network then
+you don't need to login with the same with Android proland.skll network either you login with VIT skills network or
+Android prollearn.skll network if you receive the credentials from us then you have to login with Android
+prollearn.sklls network if you didn't receive any credentials then go with vit.skill skill network register
+yourself and get into the
+course
+okay hello ma'am there is another small note can I ask you
+yes please ma'am just now I got a mail that you
+have been enrolled from genai using IBM watch
+okay i got mail from support at the rate skills network
+okay is there any issue no it is a
+confirmation that you have registered for this course where all the course modules it's just a confirmation mail uh
+no you are you are uh using address prolong.sklls network yes ma'am
+okay that is not an issue just try logging in again if you could able to login it will not be an issue okay ma'am
+once I will try so I have unmuted all who have raised
+hand please share your query so that we can proceed with the your sessions already it is too late we have done
+almost half of the uh session for this Q&A
+audible yes ma'am like for the VIT skills network I
+did not receive any credentials ma'am uh please share your email id in chat
+no like I tried to register with my email id so it showed like unauthorized
+so again I used my college email ID it now working ma'am so is there any issue
+like the payment email id is different and the skills network is different
+that is not a problem if it is working with your v ID right yes ma'am
+then it is not an issue please start learning ma'am another issue also in that the account page is start opening
+like in the Chrome tab i'll be showing Versus this account yes account page we
+are working on we'll get the uh we'll check with the proper team and get back to you on that okay yes ma'am and in in
+the tab also it is saying like Val oh that is not that is also not an issue
+okay so you don't want to worry worry about it yes please
+the next query ma'am yes
+after I'm logging to learn skills network it is logging ma'am but uh the
+profile the profile it is showing is name was Akashkumar y not it's my yeah
+we were working it on background uh so if you could try uh uh going to your
+account and change your name if it is possible you can change it right now if
+not please wait We will resolve it before today end of the day okay ma'am okay sir okay click on your
+name go to account you can change your name there if possible you can do it by your own if
+the account tab is working if not please wait we will resolve it okay ma'am good
+evening okay yeah good evening please proceed uh mom actually I'm a I'm not
+able to log into my uh owner's account home and I'm not able to so that is why
+I didn't even give my quiz yesterday so is that going to be a problem
+no no no no not a problem many were you having this problem so we have extended the deadline for quiz so your trainer is
+here she will not uh uh close the quiz till tonight so you can still uh give uh
+attempt to your quiz please share your email id in chat box our support team will uh resolve it immediately your
+troll issue skills network it is working fine right that is also it didn't open
+mom oh please share we'll uh check both and update you on that okay ma I'm just
+sharing i tried the cloud account and it was opening fine ma'am the no cloud
+account is nowhere related to your prol or skills network okay okay so with your V ID
+okay ma'am I shared my email ID ma'am
+can you hear me see me
+uh can you hear me husha uh just a minute hold on yes ma'am uh
+yeah husha so uh you have to use vit.skllsetwork please go there and
+register uh from our site it is showing pending so you have not registered it yet please try registering after
+registering check your email so you will get an activate uh button so click on activate your account will be activated
+then you can start learning skills network uh uh so you can start learning
+your uh Jenna there in your V skills network okay ma'am okay so you in few
+minutes you'll receive your uh uh updated password your password has for prolong as well
+okay ma'am uh beginning I didn't even get the credentials actually so let's go ahead okay so for vit uhskills network
+URL We have not shared any uh uh mail so only thing is uh the trainers have
+instructed in their class that they should use this URL and register and activate their code okay okay ma'am you
+can start learning all the best yes good evening
+yeah good evening ma'am after logging into that vit skills network site and going to the course gen
+using IBM Watson there I am not able to log into login into modules ma'am it is uh
+showing to request access
+can you please share your email id in chat box yes ma'am
+i have shared it
+mom give me
+ready so uh I could see that you have not uh activate registered to the skills network site
+i am able to open my skills network VAT skills network no it is no it is not
+properly registered what is the ID you used for registering this VIT skills network
+the same ID your personal no no ID only
+no it is showing us uh pending from our end that says that you have not registered it properly so could you
+please try again registering uh with the with this ID yes ma'am i'll try answer
+so you have my number as well siddha ready so uh if you have queries you can call me uh we will resolve it uh uh
+offline okay okay can you share your number one text ma'am
+you called me this morning right for uh prolog oh okay okay ma'am yeah yeah yeah
+okay okay okay i think most of the queries has solved uh so if you have
+still if you are facing some issues in prollearn and uh skills network please uh be in touch with uh your trainer
+during your class so we will uh collect your queries from her and we will resolve it okay uh Ji uh so I think we
+have took almost all your time no problem only half an hour left uh so
+you can continue your class okay ma'am thank you thank you all thank you
+so I hope most of your IBM C access issue has been
+fixed uh can I get some input
+ma'am did you assign any task yes like yesterday I have just given a task uh just to practice your module three lab
+exercise three and four
+lo Aish you can able to see other attendees email inquiries
+okay I just check what it is
+so shriam sidadi sorry sedari sham still your hands are rised
+can you please lower all your hands if you don't have any doubt
+thank you so I hope I hope everyone can able
+to log in your IBM C can you able to see your modules please go through that and
+update me
+here perfect
+so all right great so you all able to access your IBM pro sorry prologue
+so you all able to see this did you all complete the
+quiz did you all complete the quiz
+great great okay did you all complete the task which I have given
+yesterday why why I could see few thumbs down why what
+is the reason why you're not able to complete the
+task those who not done your task please raise your
+hand oh my god so many hand raised
+may I know the reasons why you're not able to do it up Arian Ashish Ria
+Yeah oh
+sure can you please update me why didn't you complete the task
+was as simple
+right i didn't see any um response in chat can I get some response
+okay maybe my WhatsApp like my chat has not been updated maybe let's reload the stream
+completing module 3 was not a task shoubam Prasad I have given the task uh which is
+you have to create uh chatbot sorry uh code generation and extraction from the
+given uh screenshots
+okay what is the issue ria can you please update me what is the issue with uh WhatsApp
+next okay uh okay those who are having issue with WhatsApp
+X please raise your hand let's fix that in today's session itself those who are
+having issue with WhatsApp X please raise your
+hand no no no uh I have not create any task in Prolon to upload it up surely I
+will give you an assignment which you have to upload in the prol this is not to upload in proland this is just for your
+understanding kia did you complete the
+task issue has been sorted fine great
+yes if you can't find code lambda 34 instruct you can use other module which is suitable for the code generation
+okay let's go
+with can you please tell me what is the issue that you're facing with what's
+next you can talk
+am I audible yes you are ma'am actually I'm not able to access notebook under
+asset section in what's inex okay so how many of you have this
+issue like those who are raised your hands I just made all you to and unra like lower your hand tell me how many of
+you have the issue with not able to finding the um
+assets okay
+okay so can you please share your screen
+quickly goyel uh ma'am I don't have that option
+can you please raise your hand one second so that I can give the access yes ma'am
+oh
+okay oh just a second so you can share the screen
+are you there
+can you see my screen uh yeah ma'am so yes actually it has
+started to present i could see some star droid cam okay one second
+are you using tab no no ma'am laptop one second
+uh okay i can see your screen please go to your IBM yes okay okay
+can you see it yes yes I can see your screen so what is the issue here ma'am so if I go to new asset and I uh put
+notebook here I cannot access it okay okay I got it what is the issue so go to
+your dashboard understood go to your dashboard okay ma'am
+no um yes click on it this is your WhatsApp go to your IBM
+cloud dashboard okay one second mhm
+okay so over here just click on the hamburger icon wait wait wait wait don't click on launch click on the hamburger
+icon see others those who are having this issue not able to load the asset
+please follow the same step okay so you have to log to your IBM cloud page the main dashboard so click on the hamburg
+go to the resource list resource list
+yeah so there can you see AI machine learning list yes ma'am click on
+that select all the three resource
+select you did a check box at the left corner just move to the left you can see it
+okay so delete all the three delete it yeah delete it okay one second
+copy paste what's the next what's machine learning from the
+top it just because you have created the resource in wrong location that is the
+reason in this for this location those assets is not available
+[Music]
+yes ma'am okay once you're done now go to the hamburger icon select what's the
+next scroll down scroll down yes ma'am what's next launch
+get started okay now it will ask you to change the region
+select the region as Delas yes ma'am
+continue to
+console okay
+yes ma'am everything is fine right uh I guess now I'll be able to find that okay
+thank you oh yes ma'am
+okay so do any other have issue with what's
+next serena serena
+do you have any issue uh I cannot um use WhatsApp X
+share your screen and show me
+are you there hello okay I'm giving access all to talk
+i mean those who are raised their hand I'm giving access to talk so those who are having the issue
+please update me
+see I have given the access to all like those who raise their hand I have given access to you all so whoever is having
+the issue please unmute yourself and register your query
+good evening ma'am can you hear me ma'am yes Sham ma'am actually I was not I'm not able to make my IBM cloud account
+ma'am the feature code is not working for me did you follow all the steps ma'am can you can I think I missed Can
+you Can you please tell me one more time what what I should do i have shared one document right in WhatsApp group did you
+follow step i I I followed those steps i was not able to do it i which which
+WhatsApp group i'm actually like I think the one in which I am there it was not there i followed the one which was there in the prol website there was one
+program update where there was a docu PDF document on how to make your IBM cloud account which I was I followed
+those steps but I was not able to it kept coming that uh uh we apologize for inconvenience you are unable to complete
+your account creation request please check again and even though share your screen quickly we'll fix it
+up please do share your screen we'll fix it up right
+Okay sham are you sharing the screen
+hello okay do any other have any issue
+just a second give me a minute
+hello am I audible can you even admit me am I
+audible to you all
+sedat can you please update what is your query
+are you there yes ma'am I'm there ma'am I ask you to share your screen so we can check oh is
+it ma'am yes ma'am I got the I got I think I missed that just a moment ma'am I'll share it one second yeah okay
+[Music]
+ma'am can you see my screen yes Shira yes ma'am so if I'm not Go to your IBM
+cloud no don't do that go to your cloud dashboard ma'am actually I can't when I when I
+open IBM cloud itself it it comes up here ma'am one second i'll I lo I lo in one second actually just a moment okay
+okay so I I have when I log in here mhm
+okay no problem log out out log out okay
+okay okay in chat I will be sharing one link you have to click on the link okay
+okay okay and there you log in okay ma'am
+login in that link
+okay it came here ma'am it took me to the Okay click on the contact information contact information yes
+ma'am okay just click uh edit near your name
+there is edit button right just click on the name yes ma'am yes yes ma'am so you have given last name as R right okay
+yeah yeah you have to give the full name so now just give ID
+okay what should I give ma'am i should give my full name huh okay ma'am okay ma'am but like in my
+like actually my in my in my college my official name was RC and even in the other things so I thought so remove the
+last name and just give IBM ibm okay ma'am that won't print in the certificate no worries and okay ma'am
+then initial can I put R ma'am or that is optional right no problem you can put it R okay okay ma'am okay citation
+please change it to Mr okay okay then update
+yes ma'am done now go to your IBM code and login okay ma'am
+no log out and login take me okay okay okay okay okay
+did I click this update huh uh
+yeah okay one second
+now copy the feature and put it here so this okay sorry
+copy the code
+yes sir wait uh register with code paste the code yes ma'am paste it yes ma'am
+it's still coming as an error ma'am um the code you have is valid for one
+hour you have to copy the paste every single time you should not uh do this maybe you try uh again login and try
+again okay ma'am okay ma'am okay just try and update me in the uh Okay okay
+ma'am fine okay please stop share your screen again you try to log in your IBM cloud and Yes ma'am i'll update you
+ma'am okay yes yes thank you
+okay do any other have issues with what's next so those who don't have issues you
+can leave we have only 15 minutes right so that we can I just fix others
+issue so those who don't have issues you can leave
+okay well done
+great so do any other have issue with what's
+next
+danish I have given the access to talk so you can unmute yourself and talk i
+have the same issue as Sha did you follow the steps like I have shown all the steps right yes ma'am yes
+ma'am the same is it fixed no ma'am not yet
+okay i have also shared you my credentials in WhatsApp yeah yeah i have
+seen that actually this was the step uh maybe
+you try after some time okay yeah okay ma'am okay still if you're having the issue just please WhatsApp me again just
+try it right now and still if the issues exist and update me okay yes ma'am
+yes sidat I have given the access to talk
+please unmute yourself and update your query same issue ma'am
+feature code issue yes the feature code issue follow the same steps and getting the same issue i'm also like uh trying
+it again okay okay
+a window
+i have given the access to talk
+can you please update the uh issue uh am I audible ma'am yes you are ma'am I am
+having an issue with your account is pending it's saying this on the website can you please share the screen i just
+uh I have given the access to share screen please do share your screen let's fix the issue
+ma'am is it visible yes it is showing this since yesterday
+okay just open incognito window
+yes ma'am isn't it visible is it your your screen is visible kindly open IBM
+cloud in incognito window [Music]
+now it's visible right yeah it is
+it still shows this
+okay so Ain uh did you mail regarding this to me uh I have mailed you i I
+haven't mailed you i messaged you on WhatsApp okay so please do mail me adding all the screenshots with your
+credentials okay i will report to the support team got it
+okay thank you thank you ma'am
+see I have given access to all those who have raised their hand so you can unmute
+and update your
+query so if there is no query then I think it's time to say good night
+hello ma'am can you hear me yes ma'am i have this popup on my uh screen there's
+no Watson.AI runtime service detected can you please share your screen i have
+given the access
+are you sharing the screen no ma'am uh like can I share it now yeah
+yeah I'm sharing
+um can you see it ma'am yes yes yeah this is what I'm getting
+this is your IBM C yeah yes ma'am can you please share your
+WhatsApp next screen
+what yeah ma'am h when I'm trying to do the uh do this lab
+thing and I'm trying to create a new project along with the assets when I'm trying to create this asset uh this is
+what I'm getting on my screen cana this is your IBM C modules right
+this is not your what's the next screen you're sharing your IBM C
+screen your core screen no ma'am this is not this is what I'm
+trying to show sorry okay
+excuse me that's okay no problem sorry sorry very sorry that's okay completely
+fine no problem um can you see that now ma'am
+huh now I can see your next so what you have to do you have to click on associate service
+just check the Whatsaten machine learning yes ma'am click on associate again
+now just go back to your
+assets add a new asset
+uh chatbot and build prompt with foundation model it's working fine right yes ma'am yes yes all right thank you
+ma'am thank you dear jen Kumar ready
+i have given the access to talk you can unmute yourself and update your query
+can I am audible yes you are audible
+sorry uh ma'am I have problem at WhatsApp okay I have given the access to you
+please do share your screen
+okay hey what's the issue
+scroll down get started
+i think your network is weak
+okay maybe uh you can um I think he's panicked
+okay so no other queries right hello ma'am i'm able yes you are i'm not
+able to log into IBM cloud account yes please share your screen i just given
+the access to you uh please share your screen and
+update can you make it
+fast can you see this please uh No
+is my screen visible yes it is
+hello this is the message that I'm
+getting doing this
+just close this scroll down scroll
+down when I'll close this it will log me out has
+been okay just close the pop-up window did you complete uh adding the feature code over here
+yeah I added it but I'm now getting this uh this thing okay go to your profile and uh just
+click on manage so when I will cancel when I'll cancel it it will log me out
+for me go click on manage
+no it is logging me out when I'm closing it okay so uh add all the screenshots
+and drop me a mail i I mailed you last week
+uh by adding all the screenshots yeah I did that same screenshot what
+came okay then I will revert it to the technical team okay I'm sorry I missed
+your mail i will check and I will revert to the technical team okay all right so any other queries
+so any other queries okay thank you Shirram it is
+fixed
+right so all the queries has been fixed right ram do you have any query
+okay Jenma let me look at your credentials and I'll update you uh can you please put can you please update me
+your query
+ram what's the query
+can you please update your
+query what is the issue see consistent can you please
+raise your hand so I can give the access maybe I can give
+access given the access to talk can you please update your
+query
+hello hello ma'am uh can I share my screen right now
+ma'am uh okay please make it fast
+you sharing your screen yeah ma'am yeah ma'am i am sharing my screen okay
+visible ma'am yeah it is visible yeah ma'am uh while I'm logging into
+skillu software I uh I have given my required email so
+uh showing like this see ma'am uh it is it was showing
+like this ma'am i haven't gotten the uh IBM cloud access also use use uh
+incognito window yeah ma'am I have tried uh incognitive window also but it was
+not showing the same problem
+what
+by this I I can't access the code for the IBM cloud also ma'am
+yes only uh when you register yourself then you'll be getting the code right yeah ma'am but I have already registered
+so the when we get the website only we have the code now ma'am so you register
+already yeah ma'am I have registered okay you just WhatsApp me your credentials i will check it up okay yeah
+ma'am thank you right thank you
+i think all the queries has been
+sorted okay then so all the access has been fixed i think uh your uh all the
+credentials is working fine so we'll we'll proceed with the more
+product uh productively from the next class okay so all of you please com those who
+have sorted the what's next uh issue today please do complete your uh task by tomorrow and meet you on tomorrow
+bye-bye good night thank you for joining
+thank you very well

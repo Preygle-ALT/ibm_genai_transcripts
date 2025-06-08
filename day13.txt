@@ -1,0 +1,655 @@
+hello everyone good
+evening yes Theron I have seen your mail um maybe after the session I will fix up
+your credentials please don't forget to share your credentials through WhatsApp
+okay good evening Naven so did you all practice classification uh lab exercise
+from the what's you all try that
+So does anyone face issue while creating the classification application
+okay while saving the application you're facing the issue
+um this not possible like uh what was the issue g
+Okay this was the error
+the error message saying
+that okay but the code got saved right
+Goro okay then that might be a warning it is not an error that might be a warning just ignore it
+so what about others do everyone complete the task with what's in the
+next so uh can I like we couldn't say the final exam will be 20 uh 20th so as
+of now uh we have just completed 11 day classes i guess just a minute i just
+confirm and let you know yeah so so far we have completed 12 classes and it is our it is our 13th day okay so probably
+we do have 10 more classes and uh in between we have taken one class for
+clarifying the doubt so that it will be extend so we have 11 classes so after the 11th class you will
+be having your final exam m okay um till uh the participant
+st is too low so I'm just clarifying your doubts in chat so exactly 510 we'll
+start today's session okay so we'll start this session exactly
+in 510 let me
+explain yeah uh if you remember like last before class I think I have explained about this if you can't able
+to find code lamba you can use uh like granite uh 325 I I think that model
+which is also good in creating code or you can use fang lang that is also good in creating code
+okay Shan no problem you try a little later
+uh yeah today date is five so from today we have 10 more classes which means
+1 2
+3 Yeah yeah if if you calculate from today the 10th class will be on 17th so uh I
+felt like class last class last class last class last class last class last class last class last class last class last class last before class was fully taken for doubt clarification so it will be extend so depend upon like one or two
+classes may extend if we still if you didn't complete the content i hope you all okay with that
+extending one or two days is fine with you
+all but not more than uh um 3 or 4 days like just one or two days
+yes I yes Anushka I'm just uh talking about the classification application uh
+from the what's the next lab what happened last okay some last class we have just
+like since last in last class IBM code was not working so for that we have just explored how to create an application
+using Python so that application will generate code if you give the prompt it will create the code so we made an
+application after then we have just go through the um uh lab lab exercise five
+classification uh model and I have given as a takeaway so you have to try
+that final exam will be in the MCQ pattern
+Okay uh so you have to give your final exam in IBM C where it will uh like you
+will be taking up the certification okay um and when it comes to prollearn in
+prol we do have three assignments so I have to assign three task where you have
+to complete the three task and you have to post a task back in the prollearn okay and you will be having one more
+quiz with that you will be having one project so as I said before tomorrow I will be giving you one task where you
+have to complete and assign submit it back on the portal on Monday monday will
+be the another task and Wednesday will be the one more task and after Wednesday we will be start creating your project i
+will uh you all have to do a capstone project as a learning completion of this course and you have to submit the uh
+project in different um like
+phases so Mahindra Singh when is your exams
+see you have only one exam only uh IBM C exam and in prolong you will be having
+few task which is evaluated for 100 marks and you will be giving some marks so how much you have earned and
+that will be given now as of now I have not given any
+task i will be giving the task from uh on Friday okay I think 10 minutes has been taken for your cloud doubt
+clarification so let's start creating the application today um if you have any doubts please
+save it we'll discuss at end of the session
+okay so in last class we have just created the code application
+right is did you all complete your [Music]
+um classification task from the prologue I'm sorry IBM C
+Okay now we're just going to do feedback
+classification so let's do it very fast i just shared my screen
+so did you all practice that feedback classification
+did you all complete your um feedback classification
+shall we create it or can I show the screenshots like
+will you all try by yourself okay you all completed okay if you completed then
+well and good now um if you notice what did you understand from the feedback
+classification or I may put this question in such a way uh feedback classification comes under uh which
+analysis This
+Very good very good Shubam it's sentiment analysis right so what is sentiment
+analysis uh which use logistic regression good so what is sentiment
+analysis so we could say it's a process uh in this process uh we are using NLP
+yeah and we are we are analyzing the data from a given data set and from that we are just identifying the emotions
+behind every piece of text so which is called as sentiment analysis okay so we
+are going to identify whether the given um text how it is expressed what is the opinion about the text uh either it is a
+positive negative or neutral so where do we use the sentiment analysis from uh like this helps
+computer to understand how people feel about something right for example let's take social media post in social media
+post if you post any comment uh so the computer can understand your emotions
+behind the text so yeah uh this is help us to understand the customer's feedback
+help us to understand the product feedback yeah so how this works how
+sentiment analysis work might be you will be using this um um feedback
+classification so you understand the progress flow how it
+work maybe I can show you the screenshot so how how it
+works did anyone break down the methodology how it is
+works a good right
+Answer you have explained what is uh like how machine um identifies the uh
+text that is good uh did anyone get my question is my question is clear to
+all or should I have to rephrase the
+question okay see here you have given set of inputs and you just give give the
+expected output as positive negative neutral okay
+so how the application works on the given
+text it is analysis the
+text uh good good try maybe it identifies the uh word good one yeah it
+looks for the token which can Okay good good try attention mechanism good
+abby see this process is comes under machine learning okay so in in in
+machine learning if it is a machine learning we do have the algorithms so we are going the text will be analyzed
+using the algorithm okay or you can use either the algorithm or you can use any machine learning models so over here you
+have just given a model this is not a machine learning model this is a foundation model i'm just telling an
+example okay okay over here over here you have given a model this model helps
+to identify understand the text context okay here uh in in terms of uh Python
+programming they we will be having either the machine learning uh sorry either the algorithms or machine
+learning models so through that it uh it analyze the given text and this model
+classify the sentiments based on the words phrase in context okay sometimes
+more detailed sentiment analysis break it down into emotions like happy angry
+sad
+so where the sentiment analysis uses in real time
+good right answer the way it is determined by
+tokenizing good good ah very good sham uh it is
+help us to uh customer review for a product okay customer support good
+yash we'll come to your point a little later mitra okay to analysis of customer
+review good deepikashri movie reviews good
+diva and social media good one ashwin hurry
+okay good commercial feedbacks is you all have good one so you all have given
+the right uh answers like most commonly it is used in companies analyzing the customer's opinion about the product
+service yeah every single time when you take any service or a product by end of it they will be asking you feedback they
+will asking your opinion about it right so they want to understand how do you feel about the particular product or a
+service yeah uh this this sentiment analysis help us to monitoring the social media sentiments about the brand
+or in any event okay and if you want to give any automated feedback okay if you
+want to automating the feedback analysis um this will improvise the customer's
+experience for that we will be doing the sentiment analysis okay now
+um how many of you are very comfortable in machine learning
+algorithms just raise your hands that I can understand how many of you are very
+comfortable with the machine learning algorithms only five
+okay so if you look over
+here I think in your lab six this was already done by us this
+one okay okay here they have just given the
+um a bit advanced level analysis process with foundation model okay here you have
+to give API keys and all so can I teach you the basic uh sentiment analysis with Python then can we move on to this uh
+exercise that will help you to understand that much better what do
+you think what do you say
+yes yes so those who not those who don't
+want um to go with the basic level uh program please raise your hands that I
+can understand the majority maybe I can raise a poll so you can
+Okay so here I have started the poll so based upon your response I will move
+forward with the exercise
+okay around 2 392 only uh 150 people has been ordered please do it
+okay since uh 50%age of the crowd has requested for the basic level let's do a
+basic level so that you can understand how the libraries work how the algorithm work then we'll pitch into the this task
+which is given in your um module
+okay i think IBM cloud is working fine i'm in IBM cloud
+only see It is working please do check properly
+okay now what we going to do uh if I want to understand the see in um if I
+want to understand the customer's behavior I need the data set right so
+where do we going to get the from where we will be getting the data
+set have you heard about this Kaggle
+kaggle this
+side yes yes
+so from here we're just going to download a data set and with that data set we're just going to do a sentiment
+analysis okay um so you all uh please register create an account with Kaggle
+from the Kaggle download a data set maybe you can download
+um data set which names um I think uh just go with legal case or
+sentiment and uh 140 uh or Amazon review IMDb review any
+reviews so these data sets will help us to uh perform the sentiment analysis
+please download any one of the uh data
+set yeah maybe I can share you the link kaggle's
+link even I share the same
+screen so depend upon this task I will be giving you the uh task which you have
+to upload on the LMS i mean okay maybe I can you can take
+Sentiment 140 Amazon review IMDb
+review or legal case report you can take anything maybe I can just type it here
+so here you have the Amazon review data
+set or you can take IMDb review data set product review customer review you can
+take any review data set so once you all
+done choice is
+yours tips there you can take a sentiment 140 data set which is also good it's a tweet
+based text you can see the tweets over there
+no you can register with um with your Gmail or if you want to do
+with your uh registered email like PIT email yes you can do it up any any emails
+fine yes Shrier you can take it up how to choose a data set see we are
+going to do a sentiment analysis so for that we need any kind of review it can be a product or a service review so just
+go to your uh Kagus over there you can search about the Amazon review so it
+will give the product review customer review just review you can take that
+ord review it is also there or you can take
+sentiment 140 sorry 200 I guess the choice is yours you can take
+any any review uh cryptocurrency news is no you
+have to take some review um hit like can you please take a
+simpler data set like lesser than a GP so if you take a very big size of um
+data set see we are using a simple uh models right so it takes time to load
+that is a problem
+thanks for reminding uh Yamini we'll do
+that don't we discuss greedy decoding
+yesterday okay how to download data set i will show you no worries okay so now let me show you how to data set i'm just
+searching for Amazon
+review data set okay this one okay so once you
+select it over here you can see a download button right corner just click on the download so you have to download
+as a zip file see if you want if you're going to use uh you can use this code code also
+so which means if you're using the code you don't want to uh locally download in your computer and uploading again back
+in a uh python code you can avoid that so directly either you can copy the code
+or download the data set i prefer you all to download first you understand how
+to down import the data from your computer later on you can use it from by importing the code directly
+okay so once you all done please update me in chat we'll move on to the next step
+so once you're all done please let me know we'll move on to the next step
+so once you download it uh please extra extract the file and keep it ready as a CSV file
+okay actually I have downloaded this data set Amazon product review just now I have downloaded
+that so if you all want to uh do along with me you can take this or any data
+set is fine no uh initially just know how to
+download the data set and upload from your computer later on you can do with the
+code like you completed your assessment and what was the output like
+what was the result what did you got please don't copy the code download
+it
+as of now I have not assigned any task aish today I'm going to assign you task in prologue which with with the deadline
+of Monday submission
+so once you're all done now you can open any of your comfortable uh IDE you can
+use IBM Watson uh inside Watson next we do have notebook right can use that or
+you can use uh Jupyter notebook or you can use
+um Google collab choice is
+yours once you are ready with the IDE please update
+me uh please make it fast
+so once you're all done please update me on chat
+yes you have to download as a zip file and you have to extract it uh Vin I didn't talk anything about
+assessment yes I just talked about the assignment this assignment is counted for your final mark evaluation the mark
+I will be giving you a mark in January right so for that it will be calculated
+yes if IBM cloud is working you can take IBM
+cloud we can talk about this little later yes you can use Google Collab choice is yours uh maybe I just
+take Sorry I forgot to open my IDE by the way
+okay so over here I'm just going to import okay now if you notice you have
+download the data set in the form of CSV file format okay so what is the library
+which handle um data set in a data frame format in Python
+which library will help us to numpy numpy is mainly for array very good
+pandas so we are going to use pandas with help of pandas that's okay fine nakshi uh we just going to manipulate
+our data set so how to import
+pandas so I'm just going to import
+pandas as pd we are just giving the allies name is alli's name is important
+should I have to use alli's name all the time or can I just use just import panda is pd is
+important or it's optional
+very good it's optional but good coding practices keeping allies name is good like if
+you're going to have very have a very long uh uh application to create in that scenario having allies name is very good
+okay now I have downloaded my data set which is there in my downloads now I'm
+going to import import it from my downloads over here okay so if I want to
+access any data sets then I need panda right so what I'm going to do
+I'm going to create a variable maybe
+dt d set which is held data set so in this data set I'm going to with the help
+of panda uh only I can able to access it up so I'm just giving pd which is our allies name of the library and with that
+I'm going to access the um csv file so I'm going to open the file in the read
+mode so I'm giving read CSV inside that I'm mentioning R uh
+which is which is nothing but open the particular file in read mode okay and
+you have to copy the file location and you have to paste it over
+here so I'm just copying the file
+location and I will be pasting it
+here [Music]
+um yeah if is not ringing you can use collab ID is your choice completely you
+can use any
+ID I'm doing it in new project mitra
+Arian you have to download data set from Kaggle after downloading the data set you have to use any one of the Python
+IDE there you have to upload the code I mean your data set
+so you all
+Okay now I don't know what type of data is there in my data set okay
+so
+um if you want to see the top 10 values from the given data set then we have to
+use the function called head okay so I'm just going to see I'm just going to give
+print df dot head so head is the method this method will call top 10 uh entries
+from the given data set oh my god
+okay it required some library I guess so better I need take collab there it works
+very fine because here we have to install the
+library i don't want to do that because just for the explanation
+so from there I just copy the code so those who are using um IBM mod X
+then you have to install pandas because it is not recognizing panda
+okay the mistake is I have just given wrong
+name set
+can anyone update me what will be the error here
+okay b is not in i don't have anything like
+that okay just
+Okay so when you give DF it works
+fine so hope you all got the if it is say no such directory
+please make sure go to the uh um directory where you have the file so
+there just go select the particular file go to properties from there you copy the file
+location uh are we supposed to keep this file in any specific folder no you can
+keep it in download itself but if you're using WhatsApp
+please install panda how to convert the CSV
+why you have to convert CSV to zip it will be in a zip format right click
+extract to all and by default it will be in CSV
+format yes by mistake I have told you top 10 is top five yeah
+see this um I don't understand what are you
+talking about ma'am you have not upload the data set to IBM if I if it can't
+access the CSV on your PC what it means
+anil yes I just changed it
+Oh so many texts I missed see in IBM IDE there if you want
+to upload the file then you have to import the pandas please import the panda then you try it up
+yes I can do this in WhatsApp but but my WhatsApp cloud storage is very like uh I
+have used so much uh I don't want to import pandas in that because anyhow I'm not going to use pandas in future so I
+don't want to use pandas in IBM cloud so that is the reason I'm not using IBM cloud using some
+mother just what I told that yes okay did you all get the um out this output
+did you all able to see your top five um data set from
+your file
+what is the error if you get file not found then it
+must be a wrong
+path see if you're using Google collab there you have one option you can upload the particular file to your uh local
+collab and from there you can import it you can use
+that see if you copy the path it will not come comes with the file name or CSV
+file format you have to add it manually
+okay shall we move on to the next step
+if you're done with this we can move on to the
+next please update me in chat
+all done
+now in your code what is after download like something but was my file name
+ana why we are importing pandas because python cannot handle data frames a kind
+of excel or uh CSV file format so if python want to handle that then we need
+the library pandas that is the reason here we are importing pandas
+yes just because we have given the head head will print only the file lines from the given data set
+yes if you're using Google Collab then you have to use upload option because Google Collab cannot directly uh read
+from your local downloads it we there we have to use upload
+command yes maybe I can show you the Google collab
+okay see if it is like this so you have to use
+um upload file type so it will ask you it will be having this kind of button so
+if you click on this button through that you can upload whatever data set and those data set will be downloaded over
+here somewhere here only
+oh see so here you can see that so you can use any number
+of data
+set okay so once you all done till this let's take a 10 minutes break after the
+break we can connect back
+so welcome back okay Sahari this is working in PyCharm
+but notice if you want to work with IBM globe then there you have to upload the
+data set to see in uh next to asset where you can see something called data set features there you have to upload
+the data set from there you have to load it to your
+code Karthikaria once I upload the assignment assignment ment
+uh WhatsApp group then you have to upload your assignment in prollearn okay
+so shall we continue with the
+task okay it is loading just a
+minute okay now what I'm going to do I'm just going see in this data set I have a
+customer review okay
+i can show you okay still it is loading give me a
+minute i'm showing Google collab only
+midra in Google Collab it is required Aish if you're using notebook then there
+upload part is not required uh Naven in what's next you
+cannot give the path you have to upload the data set to your local project directory from there you have to map it
+to your
+code no we are not going to use the analyzer from NLTK not uh natural
+language
+toolkits okay it's
+failed it's taking too much of time
+okay so over here in Google Club we don't need print statement just with df.head it will
+work see the core is same depend upon the ID it's it gets uh different
+slightly
+shum are you talking about what's in
+X yes uh I'm just showing you how we can do that in a runtime i wish
+Maybe I can show you at end of the session how to upload it with uh WhatsApp
+next okay
+this was a large file
+so it is loading once it is done i run this
+So open the train CSV file okay may take some time okay others you can try this
+code in your
+u sure we will do that
+great Ishita all right the next part is we
+have to import the libraries the most required libraries to do the task okay the library which we are requiring is uh
+first you need sklearn model because we are going to we have a data set usually
+how this will be happen in every data set we will be having the independent variable and target variable so usually
+in machine machine learning language we used to say input as independent
+variable and output as target variable okay uh so um for example here I'm just
+going to predict the uh customer review based upon the polarities i will show
+you once my data set loaded over here uh if
+uh if uh the customer gives a negative review if based upon the star ratings
+okay if the customer gives one or two star I will indicate as a negative
+sentiment if the customer gives a four or five star then I'm going to give
+positive sentiment okay this is how we're going to distinguish
+it So in a column all ones goes to negative and all two goes to positive
+okay so here we have uh we are just going to depend upon the review so based
+upon the review we just going to calculate the polarity so
+here we're going to map the uh review column with polarity
+column okay so we're going to see how many positive reviews that we got and
+how many negative reviews that we got
+okay so uh this data set usually any data set that you're going to manipulate
+we will be uh split the data set okay we will uh the training will not happen all
+stitch the data will be split into training part and testing part okay for
+that we're going to first of all use test and train module so any any machine learn machine uh training machine
+learning training always 70%age of learning will be happen from testing uh
+sorry training and 30%age of uh learning will be happen from testing okay it's
+7030 ratio so over here um maybe I just copy
+and paste the libraries because last time someone has mentioned in feedback that
+This taking time only five percentage is done big data set
+it's still loading [Music]
+okay so automatically above uh above that it will becomes under three uh
+positive is not visible my screen is not stuck actually I have shown my Google collab still it is
+loading maybe I just stop sharing the screen i will share it again
+uh just two minutes it it will be loading I guess um meanwhile others just import um from SK learn model selection
+import train and test split you please import that data I mean
+model from the library skarn skarn is a machine uh Python library one of the
+Python library
+this case is called a sky kit Done
+you please import both
+both I think it's very big it's I mistake I made a mistake it's a
+very big size data set it's taking too much of time to
+load maybe I can do one thing literally we can uh download open
+the can I show the code on my screen so that you can type it up maybe my data
+set is getting time to
+load hope that will work yeah
+because
+Okay okay so import panda is already we have imported we can delete that so from
+the skarn model we just going to use
+so skins skyit learn
+model um so from the skyit learn model we just going to import the library test
+train split okay so what this will do if you upload
+any data set that data set will be splitted into training part and testing
+set so that you can train your model with the training set and later on you can evaluate your model with the testing
+set okay and then again from the uh skyit learn which is going to use the
+feature uh extract sorry feature extract module okay from this module we going to
+import a class called count vector why we are using this so in machine learning
+algorithm we will be requiring many numerical input yeah but our data is in text correct
+for example uh they they will be giving some textual information whether you
+like the product yes no yes no all will be in the text format okay but I'm just
+going to convert that in a uh rating format right so I need a numerical data
+so in that case I'm just going to convert the particular word particular text to a vector numbers which is called
+as count uh vectorase this will convert your text document into into a matrix of
+token count so converting text into count so that is why we need this um uh
+class from the module feature
+extraction so here we are just doing going to do classification to do this classification the best algorithm is um
+uh navisbased algorithm okay so for that we are just importing the class multinnominal NB navb base okay uh it's
+a classifier um so from this classifier we are just going to use it how this nav
+base will work this is work based on the probability okay have you heard about base theorem of course you all all heard
+about base theorem right
+that is also fine i'm using Amazon uh review
+only yes great so it works based on the theorem okay so uh that assumption that
+feature or conditionally independent given to the class so this is very effective very
+helpful for the fast text classification so uh if you take any spam reduction uh
+in that we will be using this base theorem
+only okay and then we are just going to use the classification report function
+from the skarn matrix okay whenever you train a model you in machine learning uh
+it will give you one eval it will give you one output right that output has to be evaluate the accuracy of the
+prediction yeah which has to be uh which has to be evaluated in different metrics
+those metrics are called recall fn score precision yeah so if I want to use all
+this evaluation metrics then I have to import the uh metrics from the metrics
+class I'm just going to take only the classification
+report so why we are using that we are using that to [Music]
+um check the accuracy of our predictions so totally here we have five imports uh
+sorry four imports first one is test train split this will uh this is coming
+from the um module uh uh sklearn dot
+model selection so from here because first we have selected the model what this will do this will create training
+and testing sets from the given data set you are uploading one data data set from the data set it will create a separate
+training set and testing set okay and second one is count vector what this will do this will convert text to
+numerical feature okay and next one is binomial NB so this is for text
+classifier to classify your text we are using this model and the last one is classification report once your model
+started to predict this classification report helps you helps you to check the
+performance are you all clear with this code which which I have given on the
+screen hurry train CSV is my uh data set shall we move on to the next
+Now I'm I'm going to uh mention my input and output so I'm going to create two
+variables in first variable I'm going to give my input and in second variable I'm
+going to predict get my outputs so what do we call output in machine
+learning what is the term that we have to use in machine
+learning where do we have drive mount antthony
+uh this this is that is not the code like by
+accidentally I have clicked on the any one of the data set that is why it is over there we have only these four lines so
+add these four lines of code to your code and just run you should not get any uh
+error if then it's good to go
+okay very good ash it's target value could be no shame it is not production not
+decoder okay now let's uh give our input and output so according to my data set
+what is my input I'm going to give my review as a input based upon the
+review I'm going to calculate the polarity which is positive review or negative review
+I'm Sorry
+so so I'm going to create a X x is my in input or we can say it as a independent
+variable uh and Y is our output or we can say it as a target value okay so x
+equ= df from the data frame i'm just going to take
+my column name
+review so this is my column name see please don't give the same column name
+depend upon your data set give your column name okay
+i'm going to calculate the polarity which means is it negative or positive uh if if it is generate one which means
+negative review if it is going to generate two I'm going to calculate is a positive review are you all able to
+follow me are you clear till this
+[Music] can anyone please update
+me see choice is your like depend upon your requirement you can choose any
+column see you have review ratings and you have review text either you can calculate the
+polarity from your review.ext or you can calculate from the review.ratings choice is yours
+i have taken
+review or if you all want I can give the Kaggle link from where I have taken this
+data set maybe I can give this in chat maybe you can try little later
+i just closed the tab recently i was not able to find a particular data set once give me only one minute i will give you
+the link from where you can take it up uh but please make sure this data set is
+having
+um so I have given the kaggle
+Very good oh you don't have ratings in my data set okay then depend upon your
+data set you choose any column
+nakshitra if you don't have polarity then depend upon your data set you choose any uh other column
+polarity is a new column y is a target variable yes you are right nin
+You took NLTK yeah that is also fine no
+problem yes the data set is quite bigger
+that is why if you notice mine is still
+loading unfortunately I have taken this data set and for the data set I have created the code maybe you can customize
+this code depend upon your data set your code will it work can I
+proceed and at the last I will upload this data set the complete code in
+classroom i mean
+um in
+prer okay now I'm just going to map okay if if if the if there is a value one
+then it should be negative I'm just labeling my numerical values so if there
+is negative ative then I will be giving one one becames negative and two becames
+positive so I have to do mapping so after this I will be doing the
+mapping okay so my expected output should
+contain a string instead of number so that is why we are doing this
+mapping
+next okay after this I'm going to do vectorize which means I'm going to convert my text data into a numerical
+data so for that I have just using the count vector what this will do this will
+break words into tokens and I have used the top word is
+English which means it will remove the common English words like the is I and
+okay and I'm going to keep this frequency only for the top 10,000 most
+frequent word that is why I have just given max features is equal to 10,000
+and the transformer will uh uh transformers each reviews in a vector of
+word count what can I expect from this in
+expect it will represent only the numerical feature of each review given
+by the
+customer okay now I just mentioned what is my input and what is my expected
+output now what I'm going to do to the model I'm going to split my data set as
+test and
+train so that always please do remember the m the the machine will learn from
+80%age of data from the training part and 20%age of data from the testing part
+actually I made a small
+mistake okay now over here I'm just doing testing training so X train X test
+Y train Y test so this X train will take the X this input uh review column 80%age
+for testing sorry training and 20%age for testing y train this will take the
+polarity 20 80 percentage for testing and 20 sorry training and 20%age from
+testing so from the model test train split it will set the um parameters so
+how it will set the parameters random state 42 which mean it ensures
+um like that was a random algorithm like it it will split
+uh some some values I was not ex I'm not very exactly clear about it let me
+refresh reference and tell
+Okay so this will randomly shuffle our
+input till then uh things are clear to you are you all following me
+of course I will be sharing the code don't worry mundra
+Singh validation nakshitra are you a web developer
+okay okay so as of now let me tell you the whole thing in a small summarization first I have imported my data set then I
+have just import all the required uh modules then I set what is my input and what is my expected output and I just
+given the mapping because I don't want to see the output expected result as one
+and two i just want to see as a negative and positive so I'm just giving uh the text mapping to the word one negative
+and the text positive to the letter to positive and using vector I'm just going
+to split the words the reviews the words into vectors which means um
+tokens okay and I have used this stop words which means from my uh review uh
+the machine has to remove all the common words is there and okay and the maximum
+feature should be 10,000 and in X vectors it will fit transform what is
+this remember like the transform which we discussed
+earlier so this will create a matrix format where it will represent only the numerical
+value okay and then from my given data set I know what is my X and what is my Y
+i just split the data 80%age of data to the training and 20%age of data to the testing and Y also similarly same and I
+have just given the testing um uh how it has to split it has to
+split randomly that is why we have give random state 42 the next what should we going to do we just going to create a
+instant for the uh nominal name base classifier so I'm going to create a variable called model in that model and
+already we have imported the multinnominal NB which is going to call the function and we're going to store
+the functionality in the model
+i just show
+you okay and model fit this is very
+important um so in this model fit you are fitting your uh training data into
+the model now the classifier will learn pattern of
+data whether it is related to a positive or negative
+sentiments and now we going to do a
+prediction okay so here the prediction will be um from the model it going to
+predict the from the x test so already we are just we have a set of inputs from
+the testing data we're going to predict the
+output now the array y predict contains uh some uh uh sentiment labels like
+positive negative and at last we just going to print the classification
+report so we're just going to compare our true label with the prediction label
+so y test is our true label and y predict is our predictor label so here
+we can do different metrics so how many items selected or how many items are
+relevant how many relevant items are selected uh you can do either precision
+recall or fn score support from any one of this metrics you can call and you can
+uh check the efficiency of your particular model just a minute I'm sorry
+sorry i'm so
+sorry yes see uh the the code will work to my data set what is this random state
+see here you have given uh test and train okay the G from the given data set
+randomly it has to take the test data and randomly it has to split the data for the training so that is why we have
+given some random split which is called as random state 42 this 42 is a fixed integer
+so in data science community they all mostly use 42 i have seen from the
+community that's how the code is done see uh this is the pattern i can say
+this is a skeleton for any machine learning model okay you can note it down always we will be selecting the right
+model for the given task okay after then you will be choosing the feature
+extract depend upon your requirement you have to choose the right model okay then
+your metrics your evaluation metrics pattern then you have to include your
+data set then you have to set your X which is independent variable and Y
+which is your dependent variable or target variable okay and then uh this is
+optional uh this line is optional so depend upon your requirement you have to set the logic here okay and then the
+data set will be splitted and it will be uh fitted in the model and you have to do prediction
+simple select the model choose the independent dependent variable split it
+and train it put it uh fit fit the uh inputs to the uh model which means fit
+it in the model then do the prediction and test the classific evaluate the classification
+yes I'm I'm sending the code in
+chat maybe I
+just Okay if you're using Google okay let me do one thing
+um see if I give the Google this code also no then you will be again calling me and telling ma'am this code is not
+working I'm trying in notebook it is not working yes if you are trying this code in notebook this part of code will not
+work so I'm not giving this part of code this is common for any IDE but that
+first few lines is not common you have to customize depend upon your IDE
+I have shared the code in
+chat okay I think there is some uh limit so I'm just removing all the white space
+maybe I can send you in uh two sets
+okay and now coming to the assignment part
+so you are going to do some uh sentiment analysis on movie review data set okay
+uh so from the Kaggles take the uh data set IMDb okay so from that you uh it
+contains movie review um so you have to label the review as positive or
+negative so what you have to do you have to load the data set movie data set then
+you have to pre-process the text by converting to the numerical uh text to
+numerical then you have to split the data set into training and testing set then you have to apply logistic training
+so sorry logistic regression because there we are not going to do classification you have to do logistic regression classifier to predict the
+sentiment and then you have to evaluate the model using classification metrics and at last you have to print it
+up are you all clear with the task
+if you want I can upload the data set as well in
+LMS do everyone clear with the task what you have to do the deadline of submission is
+Monday is everyone clear with the task if you're not clear with the task
+please let me know
+not clear of the task please let me know
+So let me create the task right
+away so if you are not clear with the task please update
+me
+sure i'm I'm repeating
+again yes all set sure i'm
+repeating i show you
+this assignment carries out 10
+marks come on
+so what you have to do you have to load the data set of movie view and their sentiment labels okay after then you
+have to pre-process the text by converting it into numerical i have given it then you have to split and
+train the data set for this you have to use the model logistic regression
+can I give the uh data set or you download the data set
+can I give the link of the data
+set yeah so that if I give the common data
+set then everyone will upload the same file one will complete the task all will copy the same and share it with me right
+so assignment submission date due date is what is Monday's
+test okay 9
+So any doubt regarding the task
+so here if you look into this over here I have given the
+um data set link I have given the uh description what you have to
+Oh any doubts regarding your uh assignment
+x is your input why is your output what what do you expect what do you want to
+predict okay why we do you want the steps okay let me tell you the steps if you want to complete this task first you
+have to import all the required libraries pandas uh model selection uh
+feature extraction uh linear model regression the the particular uh algorithm classification okay after then
+you have to load the load your data set after loading your data set please print
+top five uh features and check whether the data set has been loaded properly or not after then extract the text and
+label which means set what is your x variable and what is your y okay and in
+third step just vectorize your text uh which means convert your text to a token
+where use top word English which is mandatory and give the extract feature
+max max feature to 10,000 set all this once it is set now you have your data
+set you you clearly mentioned what is your x and what is your y which is what is your input what is your target and
+after then you have to split your data set into testing set and training set
+okay then once data set has been splitted then fit the uh uh fit the data
+set into your model so model do fit so there you have to pass your input
+parameters once it is done then predict and evaluate your um method using the
+classification report so this is how you have to do am I clear
+pritu you can refer Python like uh the documentation there they have they will be given all the
+uh important
+things yeah classify as positive and negative
+so how will you submit your out uh assignment
+yes you have to upload the file in uh either you can add the screenshots
+screenshot of your code and output and you can upload that in a PDF format or
+you can give me in a py P python file format Better upload in a PDF format
+where you have add your Python code screenshot as well as your output
+screenshot exactly har the thing that we have discussed today but different data set and the model also different
+you can use Google Collab Jupiter you can use any ID choice is
+yours okay if you all don't have any doubt then thank you so much for the day
+good night meet you all tomorrow bye-bye take
+care thank you final exam will let you know last
+before day of will be your final exam please don't share direct IPY NB
+file because it cannot I have to download and I have to run that code and I have to check it up so it will be
+really better if you provide me a PDF with the screenshots yes good night sin thank you thank you
+du see sava the thing the code in my code if you are getting error with the
+review which means you don't have review in your data set that is why you're getting that review thank you
+Gerval bye Goro all right then Chira uh you just
+ping me okay i update you
+thank you Hashita thank you
+Shubam if you have different movie data set you can use that
+Saba thank you
+S okay thank you Sakshim i will change it up
+thank you Gupta yes Critic bye-bye meet you
+tomorrow bye okay I'm ending up the call thank you everyone

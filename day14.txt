@@ -1,0 +1,590 @@
+hello everyone good evening
+good evening Graves so did you all complete the
+task i didn't reply back i'm sorry i might miss because of multiple text
+um can you please uh if you don't make any please send right Ready
+a we didn't uh we didn't talk anything we are just greeting each other that's it I didn't say anything any important
+information okay so the crowd strength is too low so let's wait for a couple of
+minutes that others can join Meanwhile if you have any doubts please post your doubts in
+chat did anyone face any challenge while creating the task i mean the
+assignment yes so what you have to do you have to take your code uh screenshot
+and your output screenshot convert it to a PDF format and share it with
+me where you can see your assignment you can see your assignments in your
+prollearn um yes
+um I'm so sorry I'm not available after this session maybe you can drop your
+concern your query in the group in the group our task was
+easy
+happy yes it was a similar to the one which we did in the class see today we're going to create the same thing
+sentiment analysis but this was we're going to do with the what's next so inside what's next we're going to use
+the API key with the help of the API key we're going to import our um what is that
+um data set and through that we're going to create the
+application so what I have should I have to explain the concept logistic regression or the whole
+thing with an example do you want me to uh explain this with an example how to
+do a logistic regression anika program is working
+please do check once again yes yeah today I'm going to show
+you the Anushka how to work with sentiment analysis in WhatsApp X
+okay exactly it will be do give you some
+precisions sure i will help you out no
+worries sp please don't upload your I uh your um exe file as just like that
+please take the screenshots of your output and the code paste it in a exc uh
+word convert it to PDF and upload then okay that's
+great oh which means you are very comfortable
+with the uh models sin
+accuracy in terms of accuracy um
+depends sure s I'm ready i will explain you just remind me at end of the session
+okay because today I just want to start with the lab six exercise once we complete then if you have time I will
+explain you that okay
+no no no no it doesn't mean that you have to be really good in web development we can easily generate see in interface itself we can easily
+generate the API with GUI
+method i will show you the output
+once sorry today I will be explaining you what is red coding decoding how to
+use
+it you got the right
+answer now a in your PDF you should have your code as well as your output both
+the things has to be there print documents also
+fine okay so shall we start the task so first let me show you the task
+just a minute i will be sharing you in a minute
+this is a lab six uh sentiment analysis of a legal document this is also same
+like the one which you did as a task yesterday okay here we're going to take a data set in this data set we're just
+going to upon the um feedbacks we are just
+just going to predict it like whether it's a
+positive negative or neutral
+okay so what you have to do if you want to do this task then you need this kind
+of um data set so you should have a phrase with sentiment can you all um go
+to Kaggle and take some data set which which should have a phrase and
+sentiment once you all done please let me
+know yes I have reverted that to technical team
+so once you all done with the uh data set please let me know
+so once you're all done once you all ready with the data set please update me in chat we'll move on to the next step
+so use Kaggle from the Kaggle take a data set the data set should have a sentiment column and a phrase column
+the data set which you are going to take it should have some uh phrase and sentiment
+arin please check your Twitter uh tweet classification data set whether it has
+some phrase and sentiment um I think I am I'm telling
+the data set properly please listen and take the same from the Kaggle
+how many of you are ready with the data set
+no don't use the movie data set you take
+some actually I didn't check the data set second give me let me check once please
+okay shall we start the
+task yes yes um like if you have the data set which has the sentiment values
+of 0 1 0 maybe I can show you my data set you please see every single time if
+I give everything from my side then your learning will be not up to the level you please put some effort uh go through try
+uh some data set actually I didn't take this data set
+I just I just created this data set that is the reason I was not able to share it
+I will show you what is the expected data set so
+uh I was not able to share why maybe I can open it
+here excuse me
+um I have important announcements to make uh please remind me to ask about it
+by 6:30 okay anyone please take a initiative please remind me about the
+announcements by 6:30
+okay so I have a simple uh data set which has a ID phrase and
+sentiment so with this we just going to calculate whether the given is a positive negative or neutral so you all
+have to create a data data set similar to this just like
+this if you have any data set which has some phrase not face it should be phrase
+phrase and sentiment then that's well and good
+please take the data set in such a way see look at the form which I have shown you from the similar type of data set
+has to be taken you can take any data set from the kag just make sure whether you have the phrase and sentiment in
+it ma'am there is a data set link available huh that was not like that was
+for task tun so I will be giving you a 3 minutes
+of time so within that please take a data
+set or if if someone was not able to find the data set then update me on chat
+good to go can we uh create the
+application okay you're unable to find Vishnu
+see if in your data set if you have the sentiment as true false then you have to convert to a numerical
+value so so please you can surf from the g Kaggle
+from Kaggle you can find some data sets which has zero and one so do anyone got
+a data set from Kaggle which has a sentiment values of zeros and ones please tell me the name in chat so that
+we can everyone can use it
+up yes you can use any data set make sure the data set should have some
+sentiment and phrase okay so I'm sharing a tagle
+link please use this data set
+i didn't go home
+all done shall we start
+uh
+decimals see the sentiment value should be false between -1 0 and 1 so we just
+going to map the sentiment to the text if it is minus one we're just going to give it as a negative zero is for
+neutral and one is for positive so make sure you are having that data set with this numbers so someone else has shared
+one more data set i'm just giving that or if you want I can give you two
+fields you can use any bot to generate a data set like this
+so if you're not able to find the data set from the Kaggle then you can use any
+AI bot so there you are just ask it to um um generate a sentiment analysis uh data
+set it will give you you can take that also just only for the learning purpose
+right okay so now get into the interface I'm just sharing my IBM cloud in a
+minute
+So as usual once we got the dashboard just go to what's the
+next and create the project
+okay once you're ready with the interface please update me in chat we'll start
+it's completely fine no
+worries okay
+so create a project uh I forgot to mention you that
+uh so what you have to do create a project add the asset notebook okay so in this notebook we're just going to add
+all the code so we're going to use the Python interface so for that we need notebook
+so add the asset notebook once you're done here we're just going to add all the
+code so just now I have shown my data set in my data set I have phrase that
+phrase is like it it has some um sentences right so which are
+extracted from a legal or formal document and I do have another column which is called a sentiment in that
+column that column has been represented with a numerical value there they have given just minus1
+0 and 1 so I'm going to map the values minus1 is for the negative sentiment and
+zero for the neutral sentiment and one for the positive sentiment Amen
+okay now we going to install the required libraries to perform this sentiment analysis in our next
+environment okay shall we
+start yes we are going to upload the data set in the IBM Watson i will show
+you how to do that okay perfect so now here I'm going to
+install my very first
+library okay so what this command will do so over here we know that that
+exclamatory mark will help us to run any shell command yeah and then inside the
+notebook environment okay and we are installing wget it is a library this
+library help us to download any files from the web
+okay and here we have used tail minus n1
+remember when we are doing a project in Python uh in in some other interface
+that we have just gave quite sorry quit yeah so the that quit command is help us
+to remove the terminal outputs same happen here also so this tail n minus
+one this command is helpful for the Linux okay it's a Linux command this Linux command help us to remove all the
+um uh previous project output or last run output from our notebook so this
+keeps our notebook
+clear so now we are installing a library this library help us to download any data set if you have given the
+URL please don't proceed with any of the word okay and I suggest you all to don't
+copy paste the code just type the code word by word understand each command then you proceed
+forward copy paste will not make you a better
+coder shall we move on to the next line of comment
+that's fine har Prasad run the line what was the
+errors
+and actually please don't run the code uh still we are not yet done we need to
+add few more libraries to run the code okay now I'm going to install my next
+library command which is scikit learn okay remember last class we have discussed about this this we have used
+it as a skarn okay when you go with the core python so over here we are just
+going to use scikit learn this is also one of the very popular machine learning library this library help us to perform
+task like classification regression and clustering so where do all this comes under this classification regression and
+clustering which type of
+learning uh very good it is ML in in ML we do have no it is not unsupervised it
+is supervised
+very good all of you so I'm going to give my next
+code again pip help us to install the command and then I'm just installing my
+scikit library this library help us to import all the machine learning models to my code
+and again I'm just using tail command which help help me to clean up my output area a kind of output
+cleaner okay now I'm going to install my third
+library okay so here I have my third library this library is a Watson X sorry
+Watson machine learning SDK you all know what is SDK right
+i hope you all aware what is SDK
+okay very good question um Madan Kumar so we can use quit yes so
+quit is like this command helpful for the tool support environment okay if you have any environment which doesn't uh
+which which is not supported over here this environment is much supported by the pale n minus one so this will remove
+till the last line
+got my point ah very good sdk software development kit you it's not only used for Java for
+many programming uh for most of the programming language it it has its own
+SDK okay so now we are just going to use the uh install the IBM IBM Watson
+machine learning SDK okay what this will do this with with the help of this SDK
+we can able to interact with the all Watson X services see if you notice in Watson X we do have many services we do
+have Watson AI we do have Watson AI um another environment i forgot the name I
+think Watson AI studio okay we do have different services in our environment
+okay so this SDK help us to interact with all the services which with Watsen
+okay and here I just mentioned the version um uh this code runs but this
+version maybe after if if any upgrade comes we have to change the version number here
+okay literally this command help us our notebook to interact with the Watsen
+tool so if you don't have this command then you cannot able to connect your data set you cannot able to deploy your
+model this is very required to uh deploy the model so as of now we have imported
+three libraries one is vit which is help us to download any files from the internet another one is scikit learn
+which is help us to build write machine learning model and the last one is Watson sorry IBM Watson machine learning
+uh library this help us to connect our our notebook with Watson ML services
+okay so once you done adding all the libraries you have to just check the output it will take few
+seconds to
+run okay hope you all got the same output
+tanisha I didn't get your query how to open this notebook after importing the data set no I'm just going to import
+over from this environment i'm not going to do separately importing the data set then opening the um environment no I'm
+not going to do that so over here I'm just going to import
+it this command will not work in Google Collab because I'm going to interact with the Watson X services sorry Watson
+services so please don't uh perform this code with Google Collab or any other
+environment getting
+error error for the last maybe I can give the code please check with the code once
+again see there I have given the or operator you have to be very careful with the operators
+this okay I have given the header um header files over here please take it and replace it with
+your code nvin and check whether it's working or
+not let's talk about the assignment at the end of the session let's not uh distract from this
+code so you all done shall we move on to the next
+part good aish so you all done
+All
+done
+okay great so everyone got the output right navin did you got the
+output maybe some typo you might be done some typo so that is the reason he didn't get the output last time
+okay what is the difference between already told you the difference between uh quit and
+tail i can understand so I'm like UI was bit
+slow okay I understood so once you all done this now we are going to create the
+URL so from which URL we going to fetch the uh API key and we're going to
+generate the API key as well okay so what we have to
+do just a
+minute so go to your dashboard so from the dashboard s just search for
+Watson Watson
+X okay actually this should be the very first step
+but okay so you will be getting this environment yeah the as usual project
+creation environment over here scroll down at the last you will be having a option called create API
+key are you all able to follow
+me yeah sure I'm repeating again see now we are working on a different
+environment right so what you do open a separate environment there you open WhatsApp uh IBM cloud okay in that IBM
+cloud
+just one
+sec Okay I'm I'm sorry by mistake I have stopped sharing my
+screen so this is our main interface right every single time when you try to create a project we you will be getting
+this screen okay so from this screen what you have to do you have to uh we we as usually we will be clicking on launch
+right so once it is done we will be getting this screen okay over here
+scroll down so this should be the uh step like uh this should be our initial
+step actually initially I forgot to mention you that so over here you you do have an option called create API key so
+from here you have to select this option create API key and you can give any name choice is yours i'm just
+giving um
+ML learning you can give any name it's absolutely optional
+engine once you gave the name just click on create so you will be getting a key
+see make sure the key will be available only for a limited time just copy the
+key then come back to your
+code i'm coding i
+forgot actually
+I and here you will be getting one URL so you have to copy this URL as well
+and paste it in in in a text file unfortunately I have closed the
+window it's already done
+by mistake I have closed the file okay this is our interface here we are coding it
+up so to the last so so far we have only the headers now I'm just going to add
+the URL uhoh
+okay okay so over here what I'm going to do I'm going to create a variable called
+URL in that variable I'm just going to paste what I have copied from the create
+file okay and similarly I'm going to copy the code um I'm going to create a
+variable called API key in that API key variable I'm just going to um store the
+key value which I copied from my file creation so this should be
+unique just click on API key and va so once you all done successfully
+over here please let me know what I have to
+okay all done okay okay now at this point if I run this code I should not get any
+error if I get any error then something is wrong with my
+code you all done See what we have done now we have just creating the credentials we have generated the API
+key from the Watson X service and as well as we are just creating the URL
+where the ML machine Watson machine learning has been running the endpoint so we are using US south uh so that is
+why it will be obviously showing for everyone so it should be US southcloud iibbm.com so if you are working with
+different domain then uh the the URL should change accordingly
+Make sure uh since we are working on the same domain US south the URL should be like this and API key um the unique key
+which you have generated from the IBM cloud account okay after this I'm going to create a dictionary in that
+dictionary I'm going to uh store my URL API key okay so what I'm going to do I'm
+going to create a variable called credentials in that credentials variable I'm going to store
+my values so I'm just using the same thingy so over here I'm just pasting it up so here I created a dictionary
+variable called credentials in that I have uh stored my URL and API key why
+I'm doing like this why I have to create a dictionary why I have to create a values like this
+why that is not a
+problem json format
+no to map no answer is very
+simple the reason why I'm using dictionary later if I want to utilize
+any of the Watson service Watson connection service so instead of calling the URL API separately so here I have a
+dictionary simply I can use a dictionary wherever I want to initialize the Watson Watson service connection that is the
+reason here we are just creating the dictionary okay where to get the URL where did you
+generate your um API key just above you can find your URL
+all done till this shall we move
+forward yes exactly
+hitisham madan Prasad you can give any name choice is yours
+for generating the API key okay now we'll move on to the next
+step so so far we just imported we are just authenticated our machine learning
+uh with the credentials the notebook authenticated its credentials with the machine learning now it's time to load a
+pre-trained model and data set so that we can able to send and receive the request uh securely between the IBM
+platform and the um
+notebook and make a point see uh this learning purpose I'm creating this uh
+application I'm showing my uh API key publicly to you all but whenever you're
+creating any API key please never ever share your API key in public maybe not
+even a screenshot okay so this API key is kind of a password you have to treat like a password so keep it very secure
+okay now we just going to connect and test the
+model so whenever you create a project okay
+every notebook in IBM Watson is uh linked to a project workspace Okay that
+project workspace has a unique ID that Watson uh use okay so with that unique
+ID you can able to track the resources you can able to manage the permissions whoever can able to access the
+particular project so with that you can know the context of the operation which model what kind of data you are
+accessing who is accessing which data all this can be done with the help of this project ID so now what I'm going to
+do I'm going to fetch my um project ID what is my project ID okay uh maybe uh
+can I show the code at once and can can I explain it or do you want me to drop
+it line by line how do you want i go with your
+choice line by line perfect so first I'm just going to u
+import a module called OS okay what this module will do this module will load all
+the module like all the previous module and it will access this module with your
+environment variable you all know very well what is environment variable
+right so here I'm just importing okay in this point if I run my code it
+should not throw any error okay there is application is not throwing any error i'm going to import
+OS okay so what this will do this will load the module with that module you can
+able to access the environment variable okay so what I'm going to do I'm going to fetch the environment project ID so
+whatever project you're creating in the Watson will be stored in the environment with a unique ID okay so I'm going to
+fetch that uh ID from the environment so for that I'm going to use try catch
+method or try except method
+okay so here I just uh in in try I created a variable called project ID so
+in this project id with the module OS I'm going to access the environment
+value variable called project ID okay if I find any error then it will throw this
+message now let me run the code okay so no errors as of now i didn't get
+my array project ID now I'm going to print my project ID so if you call the
+variable project ID it will show your ID please copy this ID this ID is also
+important copy and paste in a notepad later on we will be using
+it hope you all clear till this if anything is not clear please let
+me know
+uh it is throwing an error
+see it seems like you made a typo uh please check it
+properly okay if not uh if possible can I share this code in chat so they can use it up
+okay it is fixed
+right why could not be manually enter the project ID because uh this project ID is man
+manually generated even if you want see whenever you're creating a project at the top you could see your project ID as
+well see over here from here also you can take it up but still I just wanted as a see over here it will be like a 16
+digits of uh letter numbers a combination of that okay very precisely
+I just want to know my that is the reason we just extracting it from the environmental variable how it is stored
+in the uh
+environment understood So all
+done uh please make sure your uh variable like how did you call the
+variable if there is any uh mis case then it will not print okay uh let me quickly explain
+what this will do see as of now we are just created the credentials now we are just going to connect and test the model
+but now we going to import the data set and we're going to connect that data set with the machine uh what's in machine
+learning uh environment through that first I should know where my project has been stored and it should the the the
+fundamental model environ I mean the environment and the what's next has to communicate each other right so in
+what's inex whenever you're creating a project whenever you're creating a notebook it will stored in the form of
+projects right so all the projects stored in a workspace we call it as a workspace so every project has its
+unique ID okay with the help of this unique ID you can easily able to track
+the resource manage the permission collaborate with your uh fellow uh teammate you can able to see the context
+of the operation all can be done in the project okay so then uh we do have we
+are just going to find my project ID what was my ID okay so first to do to
+know that I should have the access to environ uh access sorry I should have
+the access to uh the particular environment the what's AI environment okay to access that environment I am
+using a module called OS so what this module will do this module will give you the access for the environment variable
+so through this module you can able to access all the environment variable in the what'ssu okay now I'm going to fetch
+the ID right now I have the access to get into the what's next environment so over there I'm going to fetch the ID so
+for that I'm just going to use try except method okay so in try block I'm just going to create a variable called
+project id so through that I'm trying to fetch the project project ID from the environment okay so in except method if
+the uh if the operation is fails then it will ask you to enter the ID
+manually so this method works both in cloud as well as
+local you can fetch automatically or you can um add
+locally and below that I'm just displaying the project ID it has
+captured in the
+variables now if you all done with this now we'll move on to the next step okay you want me to scroll up
+once not the first line
+huh you should not get a blank you should get a project ID
+if it is not working properly then uh there is some mistake uh you're not able to access the environment if you're not
+getting any error maybe it's taking some time to fetch the detail
+see if the dry block fails at least it has to manually ask you to fetch the value right sorry enter the value if
+that is also not working which means your code is fine but it's take time to load on your in your
+uh book so maybe I can give you the same
+code please try once see here I have given this block
+separate separately and project ID separately please note that
+also I have given the code in chat
+okay now we're going to see how to upload the data set into your WhatsApp
+IBM Watsonx workspace okay this is very crucial um please listen carefully and
+note down the steps so so far we are just created the
+credentials through the credentials we are connected with the Watson and we have set the project ID now we all ready
+to uh load our data set
+shall we move move forward
+okay first I'm going to import a model called type i guess most of you are very
+comfortable with this uh types
+import maybe I can just copy paste
+okay so in first import we have just provided the access uh two types which
+means you're going to create some dynamic modules uh we are going to sorry we not going to create we are just going
+to use some dynamic modules but we just going to use some dynamic classes so for that if you want to provide access to
+those dynamic type definition then we need this type so that is the reason we have imported types okay and the
+secondary we going to manipulate the data set in a form of data frames right so Python cannot handle it by its own so
+we need a library called pandas so we are importing pandas as pd you can give
+any allies
+name okay and then uh we have used from bootcode dotclient import config what
+this will do see we are going to access the cloud yeah in uh in cloud we're just
+going to import my data set from the uh from the cloud i'm going to access it up
+okay so this is the low-level core library uh which was used by AWS okay so
+um so here we have the boot B3 SDK so with this we just going to
+configure the um how the client has to behave so you
+can set the timeouts region signature verification everything can be done in
+over here and we are using IBM B3 so this is
+very compatible version of BH3 the one which we have installed earlier and this is from Amazon amazon SDK for AWS okay
+this will help you to access the IBM cloud storage because in the IBM cloud we're going to import our data okay so
+for that we need it up so if you want to upload download
+manage file in IBM clouds then we need this IBM boto3
+all done we'll import
+this yeah it should be in the same uh same
+order okay after this
+You all done till this
+okay now we need to create the bucket IBM cloud bucket inside that bucket only
+we can able to put our uh data set
+okay oh by mistake just a minute
+um so without knowingly I just exporting the option
+uh unfortunately closed
+it okay so once you done with all the basic uh configuration now what you have
+to do um let me share the code with you
+so we need to fetch this bucket and the object key value and this endpoint
+URL and your API key api key you have to copy from your
+code so I'm just removing
+that so I just give this code to you i have given this code in
+chat please utilize this code just copy paste it i will tell you how to create the bucket how to create the object ID
+everything
+all done shall I proceed
+once you ready please update me we move forward
+yes over here uh you have the IBM API key ID this is same as the uh API key
+which you have created over here so you have to copy this API key ID which you have already created right
+copy this key and put it here
+okay see how this config is working this config is working because of of this IBM
+boot okay so the IBM BHO and BO code this help like it is kind of uh helps
+Python to talk to your IBM cloud storage S3 compatibility
+so over here you have CO_CL client equal to IBM uh BHO.client service name entry
+okay what this will do this is the uh it's a kind of authentication you're
+creating a client to access files from your IBM cloud3 bucket so now let me
+show you how to create the uh bucket i'm just sharing
+my So this is my IBM dashboard so go to your IBM dashboard
+so once you all landed there
+That is I'm teaching Arian please get into your IBM cloud you all want a break
+okay let's take a 10 minutes break come back by 6:30 i I I teach you what to have to put
+in IBM sorry URL endpoint URL what has to be put in um next two things
+so since many of you asked for the break in the chat I'm just giving you 10 minutes break thank you Amita i will
+announce you by 6:30 once you from back from your break I will give you the announcement important announcement
+yes thank you like thank you Chi thank you Kit
+Sham Arian thank you for reminding me once you all back from your break I will
+give the important announcement
+so welcome back to the
+session shall we continue
+all right so regarding the Yes Amita I'm coming to the point regarding the important announcement tomorrow is a
+holiday due to Bakrit okay
+uh that is the important yashan leaves are not important to
+you are you seriously asking this question midra are you kidding me
+okay jokes apart we'll focus on the task coming back to the task so once you all uh get into the dashboard over here just
+go to the catalog okay and then search for the
+product cloud
+if you search for uh cloud it will show cloud object storage so you have to select this
+service go to IBM dashboard from the dashboard you have to search for the
+service cloud object
+storage okay so over here it will by default there will be many buckets you
+can also create your own bucket so what you have to do just click on the but uh
+button create bucket and then from here first option
+create a custom bucket select on create bucket create on custom bucket so by
+default it will give a unique name if you want you can change the name but make sure it is following this naming
+rule okay and region let let it uh let as it is as delas and click on create
+don't change anything else just bucket name everything click on
+create oh yeah it is created once the bucket has been created
+now what we have to do we have to configure that so go to
+configure scroll down over here we do have regular endpoint so from the
+regular endpoint take the public endpoint URL if you notice here you
+cannot find anything called HTTP but when you're adding that to your code you
+have to add
+HTTP just copy this public code URL come back to your WhatsApp X and over here just paste
+the endpoint URL okay and regarding the
+bucket go back to your cloud from there copy your bucket
+name come back paste it here
+so all done regarding the object ID I'll let you know please wait
+don't understand when I sometimes you are asking me to uh talk fast sometimes
+you're asking me to slow okay let me say it again please follow the
+steps okay so remember did you all complete till
+creating the bucket please update
+Okay okay so let's go step by step
+um so this is our IBM cloud dashboard right so here what you have to do go to
+catalog okay from here s search for not here over here search for
+cloud so automatically it will drop cloud object storage so select cloud
+object storage go to IBM dashboard click on catalog from there search IBM cloud
+storage
+once you complete this please update
+me a go to IBM cloud dashboard
+oh I'm so
+sorry go to dashboard click on cat block
+search for I
+uh cloud cloud object
+storage search for cloud object
+storage you'll be getting this screen once you're all
+done thank you Maddie thank you for letting me
+know i forgot to switch back to the screen
+see bias it's not cloud storage object it's cloud object
+storage search properly
+okay so hope all create got this page
+please update me whether you got this page or not
+okay so once you have completed this okay so over here you do have the
+option called create bucket can you see here this option so click on create
+bucket scroll down from there very first option create a requirement so click on
+create um by default it will give you a unique name if you want you can keep up
+the name or if you want to change it up you can change according to the naming
+policy scroll down don't change anything else please
+don't change anything else it has to be in uh the last region scroll down scroll
+down to the last oh
+okay once once you're done with the naming you have to click on create bucket once you're done with the naming
+you have to click on create bucket
+okay uh once it is done once the bucket has been created here you could see the bucket name you can copy and keep it in
+a notepad okay then just go to the configuration go to the configuration
+scroll down over here you do have regular endpoints okay so if you want to host
+your application to be in a private we have to take private okay but we are just going to use a public resource
+because we just going to upload a data set and with that it is going to interact with the different um uh datas
+so let's take public so which means anyone can access so take this public
+URL and paste in a notepad
+you all done so did you copy the public URL and
+the bucket name okay now the most important point adding the data set okay
+so how to add the data set just go to uploads okay from the uploads scroll
+down you can see a option called upload file you can see a option called upload
+file just click on the upload file and from your computer upload your data
+set from your computer upload your data set so once it is done you can see the
+data has been uploaded successfully so this is your object so this file name is your object
+so copy this and save in a
+notepad so you all done you have taken the bucket name public I mean endpoint URL and the
+object ID i'm repeating how to upload the uh data set so over here you have
+you see you have to click on the option object after then you have to select the option upload from the upload scroll
+down you have upload files okay select the upload files
+uh from your local disk choose your data set and click on upload it will be done
+successfully
+so all done okay now come to your code
+area
+see I'm deleting few bucket because I have so many uh instance I was not able
+Oh heat
+do anyone getting the same
+error okay after reloading it is gone
+do anyone getting the same error no
+right after selecting the object come back to your code so over here see you
+have copied the endpoint URL so what you have copied please paste it here notice
+that you don't have this HTTP you have to add it manually this HTTP has to add
+manually okay i have created multiple instance to show you all that is the reason I was not able to do it but I can
+show you the code
+okay so paste your bucket uh name over here so in object key we have uploaded a
+data set as a object so you have to paste your uh data set name over here as a object key and this endpoint URL has
+been copied from your cloud storage service once you all complete these three fields
+please update me in chat yeah I will be sharing this data
+set in LMS if you want
+i complete this
+how to get API key which we done so far like long time back i think uh at initial uh stage of
+this class we have done
+it yeah sure i will be showing you one last time see once you created your bucket
+open your bucket okay after opening your bucket where you can see the
+object so the object has to be upload by clicking on this
+upload scroll down click on upload file so from there you will be uploading it
+manually and you have to copy the file
+name okay you're all
+done i didn't get you what are you asking can you please ask me again because uh inbox is called with some
+other bucket ID same from over the same place once you create the
+bucket it will show you the name at the top you have to copy the
+name okay shall we proceed creating the
+code allocation matters a lot you have to use
+delas okay now coming back to this code after we have given the bucket and
+object uh key ID so now I'm going to print my top 10 uh values from the head
+so I will be sharing this code in
+chat just copy paste it
+okay and once you given the code and run you can see the top
+10 see once you all got this output please update me in chat
+got the output okay yes yes very good very
+good yeah even I'm also getting minus1 1 0 right eta that is fine we should get
+that output inverso which means you made some uh
+mistake while generating your API key please look at the uh recorded session
+and please create your API key once again
+okay right so I'm going to share you a link in chat this is a feedback link
+which matters a lot please take your five minutes and fill
+it up
+please take your five minutes and fill up this feedback form
+i have shared a link in chat a Google form link please use the link and do
+complete the feedback please don't change the region
+region has to be delas if you change a region then you have to change the um other code as
+well you you have it as a uh
+text this is correct
+so please fill the form i have shared the form link in chat please take your
+time and fill it up let me give 5 minutes of time
+so please take your time to fill up the feedback form ma'am the code is showing error no worry I will upload the code in
+LMS as well i mean prologue
+no if you if if all your source are in Frankffort and if it is working fine
+then you just keep it it's well and
+good you're getting any problem with uh uh cloud please mail
+us I please look at the um recorded video and find it up
+um it is not complicated maybe uh since you're seeing it for the very first time it looks like complicated but it is not
+complicated very easy but we do have two other method also see over here uh since
+my page has been logged I couldn't show it up so over here if you notice at the corner can you see some 0 1 1 0 by this
+method also you can upload your data
+set yes those who are done we we can leave thank you so much for joining we'll continue from here on Monday
+please note that tomorrow is a holiday on account of Bakri on Monday we can continue from here
+okay bye thank
+you i s Thank you go please convert it to numerical or
+later you can map it if you have the sentiment in text maybe later on you can
+convert it to numerical choice is yours happy holidays
+G thank you meet you on
+Monday please mail us if you find any difficulties in cloud thank you Shubam
+thank you Vun yes Tarun Kumar I have seen your uh
+mail and I have reverted to the technical team
+when is our next quiz soon sh
+assessment soon soon we going to conduct the assessment no
+worries okay um bye everyone meet you on
+Monday yes hopefully Tun tomorrow is a holiday right uh probably I have shared
+with the technical team i I just get back to you on
+Monday all right bye everyone thank you thank you bye
